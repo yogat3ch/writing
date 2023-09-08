@@ -93,4 +93,3 @@ It is perfect, and completely empty, just as it is. AND, there is a planet exist
 > Anyhoo, I thought it might be interesting to get other peoples opinions on all this. How do you think about it all? Do you feel called to action? To speech? How do you know if these calls are wholesome?
 
 I try to allow myself to be moved from a place of compassion for all sentient life. I try to seek out activities that will cultivate the awe and reverence I feel for the animals, plants, all the life and natural beauty this world is blessed with. By remembering my motivation, I am frequently moved to act in ways that protect the harmony and beauty in the natural systems which support my existence. I hope you find it easier to do so too!
-
