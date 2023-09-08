@@ -3,52 +3,105 @@
 
 ---
 
-<p>Resources:</p>
+<blockquote>
+<p>I am also still curious about how people approach and feel about the difficult questions posed by climate change, which are in a sense made more difficult for people who make an effort to live fully consciously.</p>
+</blockquote>
+<p>Ive spent a good decade transforming my lifestyle and thinking on the issues posed by climate change and there’s so much that can be done to live sustainably, its important to bring creativity and enthusiasm to the question to realize that the possibilities are endless.<br>
+The essence of my personal ethos is:</p>
+<p><strong>Live in such a way that if 13 billion other people lived in the same way, the ecological systems will sustain themselves in balance</strong></p>
+<p>There’s a lot of things I’ve done and/or continue to do, motivated by the mixture of compassion for life and existential fear that arise with the threat of climate change. I’m just going to list them out chronologically as possible inspiration to you, if you’re interested in the reasoning, let me know?</p>
+<p>16 years ago:</p>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=PrWaE0_fUTo">Debugging with browser() video</a></li>
+<li>Became lacto-ovo vegetarian</li>
+<li>Began reducing my carbon footprint (eliminated unnecessary trips from the house by grouping all errands into as few trips as possible)
+<ul>
+<li>Reduced the frequency of long trips and air travel</li>
+<li>Started going to the farmer’s market for all produce</li>
 </ul>
-<h1 id="overview">Overview</h1>
-<p>There are a number of useful tools for debugging a complex golem app. R provides a collection of functions, and we’ve written a number of our own. We also use two helpful “modes” for debugging. Finally, we discuss a way to hide a button that opens an R browser in a module from the Chrome Devtools Javascript console.</p>
-<h2 id="useful-methods">Useful methods</h2>
-<p>The following is a collection of the most useful methods found over time prioritized by how often they come in handy:.</p>
-<ol>
-<li>Reprex mode (use_reprex) - enables much faster navigation to the breakpoint within the app</li>
-<li>Debug mode (use_debug) - enables all debugging messages to show in the JS and R consoles.</li>
-<li>browser() inline where the error messages indicate the break is. Also note the expr argument to browser</li>
-<li>utils::recover() to move around the call stack once you’ve entered browser mode</li>
-<li>traceback() or rlang::trace_back() for errors from functions in the Rstudio ecosystem. This displays a call stack trace for where the last error occurred if what the console displayed after the error occurred was not sufficient.</li>
-<li>UU::shiny_error_recover() for when the error message is obtuse and there’s no clear indication as to where in the code the error occurred.</li>
-<li>debugonce() for debugging a specific function call inside the reactive where it’s called. Very useful when you’ve calls of that function all over your app, but you know in which reactive the function is causing the error (often identifiable by UU::shiny_error_recover() )</li>
-</ol>
-<h1 id="reprex-and-debug-modes">Reprex and debug modes</h1>
-<p>Many of our R repos have two special “modes” enabled by options in .Rprofile: reprex and debug modes indicated by the use_reprex and use_debug options respectively. These can be toggled on quickly and easily with the UU::toggle$<a href="">option</a> where option is the option you wish to toggle (without brackets).</p>
-<h2 id="debug-mode">Debug mode</h2>
-<p>The debug mode turns on all debugging error messages for much more verbose output in the console. This is made possible by a couple of supporting functions used during development.</p>
-<h3 id="shinyvirgadbg_msg">shinyVirga::dbg_msg</h3>
-<p>This function uses a glue string to construct a message that will print to both the R console, and the Javascript console if shinyjs is installed when debug mode is on. virgaUtils::dbg_msg is a non-Shiny equivalent for projects that don’t use Shiny but for which you want to enable a debug mode. This is very useful for adding messages that identify specify reactives/observers firing and what their data is to be able to discern the order in which they are firing, or if they are firing multiple times unexpectedly, and what their inputs or outputs are.</p>
-<h3 id="virgautilsif_debug">virgaUtils::if_debug</h3>
-<p>This function wraps an expression of your choice that will fire when debug mode is on. This allows for adding a couple lines of code to construct a specific message that will only show when debug mode is on.</p>
-<h3 id="shinyvirgause_msg_mod_fun">shinyVirga::use_msg_mod_fun</h3>
-<p>This function will add a file with some code that will consistently add a call to msg_mod_fun to each server module in your app. It will print output that provides a couple of helpful messages useful for debugging</p>
-<p>NS: the javascript namespace|call: the module call|env: <code>the environment address</code></p>
-<p>In practice it looks like this:<br>
-<img src="https://codahosted.io/docs/tiv3E-sbAl/blobs/bl-1lT5jX-C2k/56d8de1f01d14fb06b8d82ccf58ba0085a7252635d029ff884d91c236978db6db0beab6717085ae3f1761d513596562822ea468b5a0c1b0c5d2e951c14d2b391d377e70c79d92e76f3b61255dc29b2ba1898eaa1f246331ba7c1e175241b6fcbc8c8b42a" alt="image.png"></p>
-<p>You will see the JS namespace, the module call, and the environment address of the server in which the error resides, just before the error itself.</p>
-<h2 id="reprex-mode">Reprex mode</h2>
-<p>Reprex mode is facilitated by consistent maintenance of the developer when building out new features. You can see when reprex mode is on by first using <code>UU::write_opts()</code> to write a file in R that will populate with opts methods for all of the options in .Rprofile in the app’s present state. You can then use <code>opts$option_name()</code> to retrieve the value of the option. After doing so, <code>opts$use_reprex()</code> will always show whether reprex mode is on. You can is this with a conditional statement to auto-populate user inputs or perform specific functions such that you can skip manually doing inputs when you’re developing and relaunching the app over and over to test your code.</p>
-<p>In practice this might look like this:<br>
-<img src="https://codahosted.io/docs/tiv3E-sbAl/blobs/bl-N6RuU7fg9X/436ddf889ec6176ad2f2f8e4115526d5490cc739d9100473febdd03adbec46861816afb05b20c94efed3a012d68f1b6a4e95c1808ec3e81db591ff61cdb5ab0244d27273d308a25f851347902f4287b46b26960fb6f164b9109883997c501b1bee32a088" alt="image.png"></p>
-<p>Which makes it such that a specific tab will automatically open first when <code>opts$use_reprex()</code> returns TRUE.</p>
-<p>You can also set a similar Boolean value on the Javascript side by adding the following to app_ui.R &gt;  golem_add_external_resources in the call to <code>tags$head</code> in a golem app:</p>
-<pre><code>tags$script(UU::glue_js("document.reprex_mode = *{tolower(opts$use_reprex())}*;")),
-</code></pre>
-<h1 id="uushiny_error_recover">UU::shiny_error_recover()</h1>
-<p>Sometimes there will just be a terse error message and no traceback or line numbers, when this happens, use this function to instruct R to use <code>utils::recover</code> every time there is an error. Each error will open a large call stack, which you can poke around in by selecting the call frame to browse in. Given the abstraction in a shiny app, the call stack typically isn’t too useful to poke around in in most cases, but, somewhere in the call stack you will be able to identify an offending observer or reactive. Identifying the specific observer/reactive is further aided by <a href="https://shiny.rstudio.com/reference/shiny/1.0.3/observeevent">using the label argument</a> on your observers/reactives, as the label will appear in the stack trace.</p>
-<p>A not very informative traceback example:</p>
-<p><img src="https://codahosted.io/docs/tiv3E-sbAl/blobs/bl-YtWq_7aBxm/16c2fabe391a951b2e84efb62a2bf682e1f4a5d798e4d34ad3924ba960fe20dd6f86b45e1e56d996da2d346208c3b4043d16830ba545acde782b20c4bf3e2d0b385fbb5428b7b6fdcbffbdf9dce5adf409ade6c907ca061c851a5bd97b17c085bb37c303" alt="image.png"></p>
-<p>When you get a traceback like the above, that’s a great example of when to use this function. Here’s the trace when shiny_error_recover is used, with the offending observer highlighted:<br>
-<img src="https://codahosted.io/docs/tiv3E-sbAl/blobs/bl-GZroh69EXx/ff68c3ac672fd9e148b7bbd42f9e205798300a86ebc3e8534486628ba1383e27712ec6b2c6bde0e0a2abf9456bd6f8f0cfe247c17eb98314ee9e6e11e8f32127c1c45697069a59ffd7cd2296b6c65477ee40b707ffbba55ca55b7ee1aecb520244863289" alt="Screenshot 2023-04-27 at 4.44.43 PM.png"></p>
-<p>Now you know where to look for the call that’s erroring! If you type in the final number shown, 55 in this case, you can open the error frame and examine the e object which will sometimes have a more informative message or traceback than what was shown in the R console. With these bits of information, no shiny error will escape you! Once you find the specific function that is erroring, that’s a great time to use <code>debugonce(function_name)</code> just before it’s called to open up a browser inside that specific function call.</p>
-<h1 id="hidden-browser-buttons">Hidden browser buttons</h1>
-<p>You can add a hidden browser button to any module that is proving especially error prone by inserting <code>shinyVirga::browser_ui()</code> in the UI where you want the hidden button to be, and <code>shinyVirga::browser_server()</code> anywhere in the server. This browser button will automatically print a statement with code necessary to run in the Javascript console when Debug mode is on that will reveal the browser button for you to click. When this browser opens in the R console, it will allow you to inspect inputs in states that you may otherwise not be able to get at with the typical R debugging tools.</p>
+</li>
+</ul>
+<p>14 years ago:</p>
+<ul>
+<li>Became vegan</li>
+<li>Began buying exclusively second-hand goods and only buying new goods if second-hand is not available</li>
+<li>Began actively seeking out reduced or compostable packaging for all purchases</li>
+<li>Reduced all but essential consumption</li>
+</ul>
+<p>10 years ago:</p>
+<ul>
+<li>Began a daily meditation practice to live with more awareness</li>
+<li>Participated in OneEarthSangha’s EcoSattva Training with a local chapter</li>
+<li>Chose to be child-free officially</li>
+<li>Simplified my diet such that it consisted of three staple foods on 5 days of the week (I pursued this for about 7 years but have since diversified, mostly due to my new wife’s love of food)</li>
+<li>Reduced eating out to less than 10x/year because it’s usually quite wasteful</li>
+<li>Began finding the foods that I eat in bulk form to reduce the plastic packaging and transport necessary</li>
+<li>Began sourcing domestic goods wherever possible</li>
+<li>Moved to live within 5m of where I worked</li>
+<li>Began volunteering with Beyond Coal, vegan advocacy movements, and other environmental non-profits</li>
+</ul>
+<p>3 Years ago</p>
+<ul>
+<li>Began gardening to produce 95% of the produce I eat</li>
+<li>Began working remotely to reduce vehicular travel to under 500m/year (average american drives 13,476m/year).</li>
+<li>Began donating 15% of my income to causes that benefit the environment and society (in lieu of volunteering now that I have less time to do so)</li>
+<li>Invested in Aptera (cutting-edge solar car company, <a href="https://aptera.us/?utm_campaign=apterapreorder_2023&amp;utm_medium=search&amp;utm_source=google&amp;utm_content=brand&amp;gclid=CjwKCAjwjOunBhB4EiwA94JWsEDZJGDk3NVeaBIkfM5j0fvhvpBw5uV1eXJ0BBkM6lfL_elmCCaeqBoCduYQAvD_BwE">check them out</a>) and Beyond Meat</li>
+</ul>
+<p>Current:</p>
+<ul>
+<li>All of the above, except for I now consume a more diverse vegan diet rather than three staples</li>
+<li>Collaborating with my wife to write an educational blog about our adventures and lifestyle (we live on a farm and she lives in a tiny home and are working on creating a small business selling items made from the excess fruit we harvest)</li>
+<li>Buying the vast majority of food in bulk. We now go to the grocery store ~2x/month and the bill is typically &lt;$100 for 2.</li>
+<li>Stopped driving altogether (my car broke down, so I exclusively carpool now)</li>
+</ul>
+<p>Does that stoke some ideas for what more you could do?</p>
+<p>Responses to your post itself to follow:</p>
+<blockquote>
+<p>Everything we do has an impact, every little choice we make. So one tries to make wholesome choices, but many times it’s the lesser of two evils. It’s which action i take will bring less harm or cause less suffering. But nothing I do can actually be called good, in a sense.</p>
+</blockquote>
+<p>That’s very defeatist of you and may be coming from a place of binary thinking. Your choices can have multiplicative and sometimes exponential impact depending on the choice you make! A low-hanging fruit, based on your post, would be to consider eliminating dairy from your diet. There’s the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8657189/#:~:text=Intensive%20dairy%20production%20also%20affects,high%20cattle%20numbers%20including%20overgrazing.">environmental impact</a> to consider as well as the suffering doing so will eliminate:</p>
+<ul>
+<li>A <a href="https://www.instagram.com/p/Ct6tnM8Ms6x/">humorous take</a> on the suffering</li>
+<li>A <a href="https://www.facebook.com/garytvcom/videos/283781445542917/">glimpse of the sheer scale of suffering the dairy industry creates</a></li>
+<li>It breaks the first precept as a byproduct because <a href="https://drive.google.com/drive/u/2/my-drive">they kill male calves</a></li>
+</ul>
+<p>If you do so, be sure to pick up a b-complex supplement because dairy is a source of B-12 which must be consumed from external sources. There are <a href="https://veganoutreach.org/vegan-mentorship-program/">mentors available</a> for making the transition and I’d also be happy to entertain questions you might have!</p>
+<blockquote>
+<p>This led me to vegetarianism, and will likely make me vegan at some point.</p>
+</blockquote>
+<p>Grateful the consideration for the environment led you in the direction of vegetarianism! That’s definitely the right track!</p>
+<blockquote>
+<p>I thought I’d have some time to “transition”, but I feel more and more compelled to take that next step. Part of me wonders where this stops? Like, will I eventually come to the conclusion that suicide is called for? Are there circumstances where suicide is right action?</p>
+</blockquote>
+<p>Well if you’re Putin or Trump, arguably you’d be reducing the net suffering pretty dramatically by offing yourself. Maybe think about it in terms of the overall suffering that would be eliminated if you did so, given you’re already on this path of waking up - which is a rare and precious discovery for a human life, killing yourself is unlikely to reduce harm and will likely lead to more of it given the potential impact you may have</p>
+<blockquote>
+<p>Are we approaching this time? People are already deciding to forego children, which is a sort of suicide (I meant this in the sense that people sometimes feel that they live on through their children, it’s a bit of a stretch)</p>
+</blockquote>
+<p>Do you believe that the only way in which humans live is through their meat suits? Suggesting that not having children is suicide seems to imply such a belief. Children are a physical incarnation of a merging between two people and have their own agency.<br>
+Doesn’t this neglect the karma of the consciousness of an individual?<br>
+What about the lasting impact of one’s actions in the world? The ideas communicated? The love shared? The people on who’s life you made a difference? The experiences you had and the paths they leave for others in your wake?</p>
+<blockquote>
+<p>I also feel compelled to voice my opinion in defense of “the planet/future generations/animals”, but i’m wary of a tendency in my self that wants to evangelize and convert people to my cause, to be a prophet.</p>
+</blockquote>
+<p>So what? If you’re doing it from a place of non-attachment to the outcome, then have at! You seem to be moved from a place of care, so if you do it in a skillful way you might have a net positive impact. It’s worth trying!</p>
+<blockquote>
+<p>I’ve been mulling over a letter to the editor for our local paper.</p>
+</blockquote>
+<p>Do it!</p>
+<blockquote>
+<p>But when one sits down to write, one tends to ask oneself why and what they hope to accomplish. When really mulling these questions over, I see that I maybe I don’t care as much as I thought about the planet etc. Maybe I care more about being seen as the brave, forward looking soul who had the courage and fortitude to bring disparate people together and finally get them rowing in the same positive direction. Which is vanity. And in the end it is ALL vanity, isn’t it?</p>
+</blockquote>
+<p>Next time you sit down, try to breath a little more and not overanalyze. See if you can tap into and be moved by the compassion for all life and come from that place in your writing. Maybe try a meditation where you center your awareness of breath in your heart center beneath your sternum, and then sit down to write afterwards. Tell us how it goes?</p>
+<blockquote>
+<p>“I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit.” -Ecclesiastes 1:14<br>
+Yup, the Bible confirms it, it’s all vanity. ;p</p>
+</blockquote>
+<p>So a figure of speech from centuries ago is the gospel that’s going to undermine your volition?</p>
+<blockquote>
+<p>So then I think, maybe the best I can do, rather than add yet another egotistical voice with all it’s own shadowy motivations to the general cacophony, is be quiet and provide the space and stillness that’s so seemingly lacking. But ultimately that space and stillness and silence isn’t lacking at all. There’s nothing I can do to make the world any better than it is. Even with all the chaos and gluttony and horror, the world is absolutely, perfectly, exquisitely what it is.</p>
+</blockquote>
+<p>It is perfect, and completely empty, just as it is. AND, there is a planet existing in the future beyond your stay on it with more or less suffering for the beings that inhabit it depending on how you live your life. It’s a paradox, indeed.</p>
+<blockquote>
+<p>Anyhoo, I thought it might be interesting to get other peoples opinions on all this. How do you think about it all? Do you feel called to action? To speech? How do you know if these calls are wholesome?</p>
+</blockquote>
+<p>I try to allow myself to be moved from a place of compassion for all sentient life. I try to seek out activities that will cultivate the awe and reverence I feel for the animals, plants, all the life and natural beauty this world is blessed with. By remembering my motivation, I am frequently moved to act in ways that protect the harmony and beauty in the natural systems which support my existence. I hope you find it easier to do so too!</p>
 
