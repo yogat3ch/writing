@@ -1,0 +1,81 @@
+
+# Dynamic Voting System
+
+## Platform Overview
+In our innovative dynamic voting system, we've reimagined the democratic process to enhance accessibility, transparency, and accountability. This cutting-edge platform allows individuals to engage in elections using their personal devices, streamlining the voting process. Upon initial registration, users' identities are verified using their social security number and/or driver's license, establishing a secure, one-time authentication process. Subsequently, they're automatically registered to vote, reducing bureaucratic hurdles and fostering broader civic participation.
+
+But what truly sets our system apart is the concept of representation. Users can choose to designate 'representatives' from among their peers on the platform, entrusting them with their votes. To maintain this trust, representatives are bound to adhere to their constituents' wishes, ensuring that users' voices are heard in the decision-making process.
+
+## Legislation
+What's more, our dynamic voting system encourages active engagement in the legislative process. Anyone can propose ideas for new laws or changes to existing ones, promoting inclusivity. These proposals undergo community discussion and can be upvoted, and good representatives play a pivotal role by identifying and enhancing promising legislation for broader consideration.
+
+We've also implemented a multi-tiered hierarchical structure, mirroring the layers of government, with legislation always starting at the municipal level. This approach ensures that laws are grounded in local needs while still allowing for broader perspectives as they ascend the hierarchy.
+
+In line with our commitment to transparency, all proposed legislation must be single-topic, easily understandable to high school-educated individuals. AI technology scans bills for unrelated riders, safeguarding against deception in legislative referendums. Additionally, our platform dynamically collates proposed legislation with existing laws in the same topic area, providing voters with comprehensive context and enabling informed decisions.
+
+### Legislative Cycle
+Our legislative process is divided into six distinct phases, each serving a specific purpose and contributing to the evolution of of high quality laws, policy and government services.
+
+1.  **Proposal**: In this phase, legislation can be proposed and amended by participants. It's the initial stage where ideas are put forward and refined through collaborative efforts.
+    
+2.  **Refinement**: Legislation in this phase undergoes further development. It can be reworded, elaborated upon, refined, or have sections removed, but amendments are not permitted at this stage. The focus is on improving the clarity and quality of proposed laws.
+    
+3.  **Vote**: Finalized legislation moves on to the voting phase. During this stage, participants cast their votes to determine the fate of proposed laws. 
+    
+4.  **Recycle | Ratify**: Depending on the outcome of the vote, proposals follow one of two paths. Those that are not approved can be recycled back into the legislative process, giving participants the opportunity to revise and resubmit them. Approved proposals are ratified and become part of the body of ratified legislation for the given topic area, shaping the rules and regulations.
+    
+5.  **Enactment**: Enacted legislation enters a dedicated application designed for individual taxpayers. Here, taxpayers have the ability to allocate their taxes and coordinate the assignment of teams to implement the legislation effectively. This phase ensures that the laws passed are put into action with the necessary resources and coordination. The tax allocation and implementation app is outside the scope of this idea but will be forthcoming.
+    
+6.  **Retirement | Recycle**: Legislation that reaches its expiry date faces a decision point. It can either be recycled, allowing its implementors to re-enter the legislative process with updated proposals, or retired. In the retirement phase, the legislation is archived, and the teams responsible for its implementation are disbanded. This process streamlines the legislative framework and maintains relevance over time.
+    
+These six phases ensure a well-structured and adaptable legislative process that promotes active engagement and continuous improvement within the operations of government.
+
+### Proposing Legislation Disclaimer
+Within the legislation proposal section of the app, a disclaimer regarding the usage of this feature is prominently displayed to ensure transparency and accountability and must be signed before being granted post, or amend privileges. 
+The Proposing Legislation Disclaimer asserts that individuals who propose legislation, as well as those who amend legislation, assume responsibility for implementing or facilitating the implementation of the proposed legislation, provided that the legislation is adequately funded in the Ratify and Enactment phases and provided that the proposers and amenders are able to coordinate or contract to successfully enact the legislation. This step ensures that proposers are aware of the implications of their proposals and are committed to seeing them through to implementation. This disclaimer serves as a critical component of the legislative process, emphasizing the importance of responsibility and accountability in shaping the laws of the community.
+
+
+### Amending Enacted Legislation
+- Within our dynamic voting system, the process of amending enacted legislation is designed to be open and flexible.
+- Previous legislation, once enacted, can have amendments suggested at any time, allowing for continuous improvement and adaptation to changing needs.
+- Proposing amendments to enacted legislation follows a similar process to proposing new legislation. Users can draft an amendment post, which is structured similarly to a proposal post. However, it contains a link to the enacted legislation that it seeks to modify.
+- This link provides users with the ability to view both the original enacted legislation and how it would appear after the proposed amendment is applied. It offers transparency and clarity, ensuring that the community can assess the impact and implications of the suggested changes.
+- This approach to amending enacted legislation encourages ongoing refinement and responsiveness to the evolving needs and perspectives of the community, promoting a dynamic and adaptable legal framework.
+
+## Voting
+The voting section of our platform is designed for intuitive navigation and efficient participation in the democratic process. It employs a nested tab structure with breadcrumbs and dynamic filtering for seamless exploration.
+
+**Tab Structure:**
+
+-   Top-level tabs represent different layers of government, providing access to counties, municipalities, states, regional, and federal levels.
+-   Second-level tabs offer choices between the "Current Cycle" for ongoing votes and "Historical" for reviewing past votes.
+
+**Navigation:**
+
+-   The primary means of navigation are individual "legislation posts," offering extensive options for user interaction. Users can sort, filter, collapse, preview, and maximize these posts to access relevant details.
+-   Iconography and abbreviated labels on each "legislation post" facilitate quick recognition of topic categories, ensuring efficient browsing.
+
+**Filtering:**
+
+-   The left sidebar houses a range of filtering options, enabling users to tailor their view. These filters include sorting by "Time Frame," focusing on "Favorite Categories" with a nested list of the user's preferred topics, accessing "Starred Legislation" for marking important bills, tracking "Representative's Votes" through nested checkboxes for each representative, filtering by "Topic Category," and viewing "Tags" extracted from the currently filtered view for additional context and categorization.
+
+This thoughtful layout ensures that users can navigate, engage with, and make informed decisions on legislative matters with ease within our dynamic voting system.
+
+###  Timing of Cycles
+In our dynamic voting system, the timing of voting is carefully structured to ensure fairness, participation, and to grant the ability for users to plan their participation. We implement a cyclic approach where political topics rotate in succession, each recurring at a set frequency. This deliberate scheduling allows participants to anticipate and plan their involvement in topics they care deeply about.
+
+The voting process is complemented by a well-defined legislative timeline. Participants can propose legislation on any topic throughout the cycle; however, a month prior to a vote on a specific topic, no further legislation can be proposed for that particular topic in the upcoming vote.
+
+The month leading window serves as an opportunity for platform participants to concentrate on refining and reviewing the legislation that will soon be up for a vote. It encourages thoughtful consideration and debate, ensuring that voters are well-informed about the issues at hand. Any new legislation proposed during this time is postponed to the subsequent cycle of that topic area, maintaining a structured and fair legislative process. Total characters and total reading time can also be used to limit the number of contender proposals entering the refinement and review period.
+
+## Representation
+### Newcomer Wizard Intro
+For newcomers to our platform, we've designed an intuitive wizard introduction that simplifies the dynamic representative system. Upon joining, users are greeted by a step-by-step guide that explains how the dynamic voting system works. This introductory wizard aims to make their experience seamless and informative.
+
+One key feature of this wizard is a questionnaire reminiscent of popular platforms like isidewith.com. This questionnaire covers a comprehensive spectrum of political topics, each followed by multiple-choice answers that are sorted by popularity based on previous user responses. Our platform leverages artificial intelligence to distill similar answers into a coherent single response. If a user's perspective isn't already represented, they can provide their own response through free-form text input. Our AI will then suggest matches by comparing their input with distilled answers from other users.
+
+Importantly, users have the freedom to answer as many or as few questions as they like, allowing for a flexible and personalized onboarding process. After completing the questionnaire, users will receive suggested representatives based on their alignment percentage. Additionally, they'll gain insight into the percentage of alignment with the entire perspective of a proposed representative, helping them identify unanswered topic areas that may not align with their suggested representative.
+
+This introductory wizard not only simplifies the user experience but also empowers users to make informed choices and engage meaningfully with the dynamic representation system, enhancing their participation in the democratic process.
+
+
