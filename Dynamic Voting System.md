@@ -76,7 +76,9 @@ One key feature of this wizard is a questionnaire reminiscent of popular platfor
 
 Importantly, users have the freedom to answer as many or as few questions as they like, allowing for a flexible and personalized onboarding process. After completing the questionnaire, users will receive suggested representatives based on their alignment percentage. Additionally, they'll gain insight into the percentage of alignment with the entire perspective of a proposed representative, helping them identify unanswered topic areas that may not align with their suggested representative.
 
-As Users complete the multiple choices questions, users are provided with a set of suggested representatives selected based on overall congruency, measured by a percent match. Additionally, representatives are suggested based on percent congruence for each specific political topic area, ensuring each user can find congruent representation for their votes when they are unable to participate.
+As users complete the multiple choices questions, users are provided with a set of suggested representatives selected based on overall congruency, measured by a percent match. Additionally, representatives are suggested based on percent congruence for each specific political topic area, ensuring each user can find congruent representation for their votes when they are unable to participate.
+
+In order to provide full transparency to users, every person that opts to act as a representative will have all of their multiple choice answers, their entire voting history, and their legislative proposals, amendments, and active legislation made public and searchable. This will allow user's to continuously determine whether their representatives are aligned with their interests.
 
 This introductory wizard not only simplifies the user experience but also empowers users to make informed choices and engage meaningfully with the dynamic representation system, enhancing their participation in the democratic process.
 
