@@ -68,6 +68,10 @@ The voting process is complemented by a well-defined legislative timeline. Parti
 
 The month leading window serves as an opportunity for platform participants to concentrate on refining and reviewing the legislation that will soon be up for a vote. It encourages thoughtful consideration and debate, ensuring that voters are well-informed about the issues at hand. Any new legislation proposed during this time is postponed to the subsequent cycle of that topic area, maintaining a structured and fair legislative process. Total characters and total reading time can also be used to limit the number of contender proposals entering the refinement and review period.
 
+### Abstention
+
+In our dynamic voting system, participants have the flexibility to abstain from any vote, whether it pertains to an individual piece of legislation, a specific topic area, a particular level of government, or for a predetermined period, even indefinitely. To streamline this process, abstention settings are strategically placed within the settings tabs for each layer of the governance hierarchy and in each voting topic pane. This allows users to tailor their abstention preferences to specific levels of government or topics. All granular settings, spanning topic areas and layers of government, can be conveniently managed directly from their respective panes. Furthermore, these granular settings are aggregated along with global abstention settings, forming a comprehensive set of options for users. This aggregated configuration is easily accessible through the user's profile settings menu, providing a centralized location for managing and customizing abstention preferences across the dynamic voting system.
+
 ## Representation
 ### Newcomer Wizard Intro
 For newcomers to our platform, we've designed an intuitive wizard introduction that simplifies the dynamic representative system. Upon joining, users are greeted by a step-by-step guide that explains how the dynamic voting system works. This introductory wizard aims to make their experience seamless and informative.
