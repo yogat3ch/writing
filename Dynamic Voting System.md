@@ -1,4 +1,5 @@
 
+
 # Dynamic Voting System
 
 ## Platform Overview
@@ -14,7 +15,7 @@ We've also implemented a multi-tiered hierarchical structure, mirroring the laye
 In line with our commitment to transparency, all proposed legislation must be single-topic, easily understandable to high school-educated individuals. AI technology scans bills for unrelated riders, safeguarding against deception in legislative referendums. Additionally, our platform dynamically collates proposed legislation with existing laws in the same topic area, providing voters with comprehensive context and enabling informed decisions.
 
 ### Legislative Cycle
-Our legislative process is divided into six distinct phases, each serving a specific purpose and contributing to the evolution of of high quality laws, policy and government services.
+Our legislative process is divided into six distinct phases, each serving a specific purpose and contributing to the evolution of high quality laws, policy and government services.
 
 1.  **Proposal**: In this phase, legislation can be proposed and amended by participants. It's the initial stage where ideas are put forward and refined through collaborative efforts.
     
@@ -30,10 +31,33 @@ Our legislative process is divided into six distinct phases, each serving a spec
     
 These six phases ensure a well-structured and adaptable legislative process that promotes active engagement and continuous improvement within the operations of government.
 
-### Proposing Legislation Disclaimer
+#### Proposal
+#####  Proposing Legislation Disclaimer
 Within the legislation proposal section of the app, a disclaimer regarding the usage of this feature is prominently displayed to ensure transparency and accountability and must be signed before being granted post, or amend privileges. 
 The Proposing Legislation Disclaimer asserts that individuals who propose legislation, as well as those who amend legislation, assume responsibility for implementing or facilitating the implementation of the proposed legislation, provided that the legislation is adequately funded in the Ratify and Enactment phases and provided that the proposers and amenders are able to coordinate or contract to successfully enact the legislation. This step ensures that proposers are aware of the implications of their proposals and are committed to seeing them through to implementation. This disclaimer serves as a critical component of the legislative process, emphasizing the importance of responsibility and accountability in shaping the laws of the community.
 
+ 
+
+#### Refinement 
+During the refinement phase, no language may be added that would extend the proposal beyond the initial scope of the legislation determined at the outset of the Refinement phase. 
+The legislation can be broken into sections, implementation plans can be elaborate, edge cases can be considered and accounted for. 
+A special **Structured Text interface** mode may be activated by any user perusing a piece of legislation in the refinement phase.
+This interface is derived from an algorithmic parsing of the legislation into structured chunks based on section, sentence, clause and word.  Each chunk may be:
+- suggested upon
+- commented upon
+- voted up or down
+Ultimately, only proposers or amenders are granted edit permissions to make changes to the legislation, but community feedback in these forms may be used to guide the modifications. 
+
+##### Popularity Voting
+The overall piece of legislation can be voted up or down during the refinement period. A variable threshold between one and seven may be set per layer of political hierarchy that determines the number of top voted pieces of legislation that may enter the voting phase. This number can be brought to vote during any legislative cycle to be changed for the following cycle. 
+
+#### Vote
+During the vote phase, the top voted pieces of refined legislation are brought to vote. During this 2 week to month long time period, the legislation remains static. The **Structured Text Interface** mode is available during this phase with only commentary allowed from users. The commentary from the Refinement phase is archived to allow for a focused conversation on the version being voted on. Comment threads may be started on any piece of structured text or the legislation as a whole, facilitating lively debate that will determine whether the legislation fails or is ratified. 
+
+#### Recycle / Ratify
+Legislation that does not make it into the voting round or that fails the voting round is immediately re-entered into the proposal phase, to be either abandoned or modified until the next round of voting on it's associated topic arrives. 
+##### Ratification
+Ratification of legislation is determined by the outcome of a voting phase that lands the aggregated stars attributed to a piece of legislation above an agreed upon threshold in a [star voting system](https://www.starvoting.org/). The threshold is agreed upon at each layer of the political hierarchy.
 
 ### Amending Enacted Legislation
 - Within our dynamic voting system, the process of amending enacted legislation is designed to be open and flexible.
@@ -70,7 +94,7 @@ The month leading window serves as an opportunity for platform participants to c
 
 ### Abstention
 
-In our dynamic voting system, participants have the flexibility to abstain from any vote, whether it pertains to an individual piece of legislation, a specific topic area, a particular level of government, or for a predetermined period, even indefinitely. To streamline this process, abstention settings are strategically placed within the settings tabs for each layer of the governance hierarchy and in each voting topic pane. This allows users to tailor their abstention preferences to specific levels of government or topics. All granular settings, spanning topic areas and layers of government, can be conveniently managed directly from their respective panes. Furthermore, these granular settings are aggregated along with global abstention settings, forming a comprehensive set of options for users. This aggregated configuration is easily accessible through the user's profile settings menu, providing a centralized location for managing and customizing abstention preferences across the dynamic voting system.
+In our dynamic voting system, participants have the flexibility to abstain from any vote, whether it pertains to an individual piece of legislation, a specific topic area, a particular level of government, or for a predetermined period, even indefinitely. To streamline this process, abstention settings are strategically placed within the settings tabs for each layer of the governance hierarchy and in each voting topic pane. This allows users to tailor their abstention preferences to specific levels of government or topics. All granular settings, spanning topic areas and layers of government, can be conveniently managed directly from their respective panes. Furthermore, these granular settings are aggregated into global abstention settings accessible from the global settings menu. This aggregated configuration is easily accessible through the user's profile settings menu, providing a centralized location for managing and customizing abstention preferences across the dynamic voting system.
 
 ## Representation
 ### Newcomer Wizard Intro
@@ -107,3 +131,57 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 6. **Secure Identity Verification:** Blockchain can facilitate secure identity verification during participant registration. Once verified, the participant's identity is linked to their unique cryptographic key, ensuring a secure and reliable authentication process.
 
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
+<!--stackedit_data:
+eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
+N0YXJ0Ijo2NDQwLCJlbmQiOjY0NDUsInRleHQiOiJzZXZlbiJ9
+LCI0TFA3V2pSZkVsWTZtSmdOIjp7InN0YXJ0Ijo2NTkwLCJlbm
+QiOjY2NDgsInRleHQiOiJudW1iZXIgY2FuIGJlIGJyb3VnaHQg
+dG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lzbGF0aXZlIGN5Y2xlIn
+0sIjRwMHpmQm51N2FLaG9rMGMiOnsic3RhcnQiOjc4NjksImVu
+ZCI6Nzg2OCwidGV4dCI6ImZhaWxzIHRoZSB2b3Rpbmcgcm91bm
+QifSwidERoUHNxeXNyaXNMbWUzVyI6eyJzdGFydCI6NzM3Miwi
+ZW5kIjo3Mzk0LCJ0ZXh0IjoiZmFpbHMgdGhlIHZvdGluZyByb3
+VuZCJ9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
+eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
+ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6
+Ik1heWJlIG1vcmUsIGJ1dCBJIHdvdWxkIG5vdCB3YW50IGhpZ2
+hseSBlbmdhZ2VkIHVzZXJzIGJlaW5nIGFibGUgdG8gYWJ1c2Ug
+dGhlIHN5c3RlbSBieSBwdXNoaW5nIHRocm91Z2ggbG90cyBvZi
+BsZWdpc2xhdGlvbiBkdXJpbmcgdGltZXMgd2hlbiBmZXcgdXNl
+cnMgYXJlIGFibGUgdG8gZW5nYWdlLiIsImNyZWF0ZWQiOjE3MD
+Q2NjA2MDc2NDd9LCJmWElOWlluNnQzOG5qZlFEIjp7ImRpc2N1
+c3Npb25JZCI6IjRMUDdXalJmRWxZNm1KZ04iLCJzdWIiOiJnbz
+oxMDEwMTI4NzgxMjU2NjgyMjQyMTQiLCJ0ZXh0IjoiUG9zc2li
+bHkgYWxzbyBhIGZlYXR1cmUgdG8gYnJpbmcgdG8gdm90ZSBzY2
+hlZHVsZWQgY2hhbmdlcyBvZiB0aGUgdGhyZXNob2xkIGFjcm9z
+cyBhIHNwZWNpZmljIHRpbWUgc3BhbiBiYXNlZCBvbiB0aGUgYX
+ZhaWxhYmlsaXR5L2VuZ2FnZW1lbnQgb2YgdGhlIHBvcHVsYWNl
+IGR1cmluZyBkaWZmZXJlbnQgdGltZXMgb2YgeWVhciBldGMiLC
+JjcmVhdGVkIjoxNzA0NjYwODQyNDkxfSwibVdsNE9LdnJKWlV6
+WWxpeSI6eyJkaXNjdXNzaW9uSWQiOiI0cDB6ZkJudTdhS2hvaz
+BjIiwic3ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0Iiwi
+dGV4dCI6IlN1Y2Nlc3MgLyBGYWlsdXJlIHdpbGwgbmVlZCB0by
+B0YWtlIGludG8gYWNjb3VudCBzb21lIHN0YXRpc3RpY2FsIG1v
+ZGVsaW5nIG9mIHRoZSBwYXJ0aWNpcGF0aW5nIGVsZWN0b3JhdG
+UsIHRoZSBxdWFudGl0eSBvZiB2b3RlcyBjb3VudGVkLCBtZWFz
+dXJlZCBhZ2FpbnN0IGFuIGF2ZXJhZ2Ugb2YgcmVjZW50IHZvdG
+VzIGNvdW50ZWQuIERldGVybWluaW5nIHdoYXQgcGFzc2VzIGFu
+ZCB3aGF0IGRvZXNuJ3QgYmFzZWQgb24gdGhlIG51bWJlciBvZi
+B2b3RlcyB3aXRoaW4gYSB2b3RpbmcgYm9keSBpcyBnb2luZyB0
+byBiZSBhIGNyaXRpY2FsIGFuZCBjb21wbGV4IGZlYXR1cmUgdG
+8gc29ydCBvdXQiLCJjcmVhdGVkIjoxNzA0NjY1NTMyMzgxfSwi
+Y0wzM0ZneWN4clRXTXJBNSI6eyJkaXNjdXNzaW9uSWQiOiJ0RG
+hQc3F5c3Jpc0xtZTNXIiwic3ViIjoiZ286MTAxMDEyODc4MTI1
+NjY4MjI0MjE0IiwidGV4dCI6IlN1Y2Nlc3MgLyBGYWlsdXJlIH
+dpbGwgbmVlZCB0byB0YWtlIGludG8gYWNjb3VudCBzb21lIHN0
+YXRpc3RpY2FsIG1vZGVsaW5nIG9mIHRoZSBwYXJ0aWNpcGF0aW
+5nIGVsZWN0b3JhdGUsIHRoZSBxdWFudGl0eSBvZiB2b3RlcyBj
+b3VudGVkLCBtZWFzdXJlZCBhZ2FpbnN0IGFuIGF2ZXJhZ2Ugb2
+YgcmVjZW50IHZvdGVzIGNvdW50ZWQuIERldGVybWluaW5nIHdo
+YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
+B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
+b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
+BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzExODg2OTczNDBdfQ
+==
+-->
