@@ -54,8 +54,8 @@ The overall piece of legislation can be voted up or down during the refinement p
 #### Vote
 During the vote phase, the top voted pieces of refined legislation are brought to vote. During this 2 week to month long time period, the legislation remains static. The **Structured Text Interface** mode is available during this phase with only commentary allowed from users. The commentary from the Refinement phase is archived to allow for a focused conversation on the version being voted on. Comment threads may be started on any piece of structured text or the legislation as a whole, facilitating lively debate that will determine whether the legislation fails or is ratified. 
 
-#### Recycle / Ratify
-Ratification of legislation is determined by the outcome of a voting phaseLegislation that does not make it into the voting round or that fails the voting round is immediately re-entered into the proposal phase, to be either abandoned or modified until the next round of voting on it's associated topic arrives. 
+#### Ratify / Recycle
+Ratification of legislation is determined by the outcome of a voting phase with ratified legislation moving into the Dynamic Tax Allocation system while legislation that fails to pass the vote or does not make it into the voting round is immediately re-entered into the proposal phase, to be either abandoned or modified until the next round of voting on it's associated topic arrives. 
 ##### Ratification
 Ratification of legislation is determined by the outcome of a voting phase that lands the aggregated stars attributed to a piece of legislation above an agreed upon threshold in a [star voting system](https://www.starvoting.org/). The threshold is agreed upon at each layer of the political hierarchy. The ratification also requires a quorum of voters for the given population area over which the legislation will preside. 
 
@@ -137,10 +137,10 @@ N0YXJ0Ijo2NDQwLCJlbmQiOjY0NDUsInRleHQiOiJzZXZlbiJ9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InN0YXJ0Ijo2NTkwLCJlbm
 QiOjY2NDgsInRleHQiOiJudW1iZXIgY2FuIGJlIGJyb3VnaHQg
 dG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lzbGF0aXZlIGN5Y2xlIn
-0sIjRwMHpmQm51N2FLaG9rMGMiOnsic3RhcnQiOjgwNjUsImVu
-ZCI6ODA2NCwidGV4dCI6ImZhaWxzIHRoZSB2b3Rpbmcgcm91bm
-QifSwidERoUHNxeXNyaXNMbWUzVyI6eyJzdGFydCI6NzQ0Niwi
-ZW5kIjo3NDY4LCJ0ZXh0IjoiZmFpbHMgdGhlIHZvdGluZyByb3
+0sIjRwMHpmQm51N2FLaG9rMGMiOnsic3RhcnQiOjgxMzksImVu
+ZCI6ODEzOCwidGV4dCI6ImZhaWxzIHRoZSB2b3Rpbmcgcm91bm
+QifSwidERoUHNxeXNyaXNMbWUzVyI6eyJzdGFydCI6NzU0Mywi
+ZW5kIjo3NTQzLCJ0ZXh0IjoiZmFpbHMgdGhlIHZvdGluZyByb3
 VuZCJ9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
 eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
 ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6
@@ -182,6 +182,6 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzQ1NDI5MTA3LDExOD
-g2OTczNDBdfQ==
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE5ODczMzEwNTksMT
+E4ODY5NzM0MF19
 -->
