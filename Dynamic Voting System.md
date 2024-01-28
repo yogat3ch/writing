@@ -101,6 +101,9 @@ The month leading window serves as an opportunity for platform participants to c
 #### Revocation
 Users may revoke their vote from any piece of legislation during the vote process at any point prior to the ratification decision at the conclusion of the vote period. 
 
+#### Override
+In emergency circumstances such as natural disaster, threat of war, etc it may be necessary to bring legislation to vote with more immediacy than the next cycle in which it's **political topic** area comes 
+
 ### Abstention
 
 In our dynamic voting system, participants have the flexibility to abstain from any vote, whether it pertains to an individual piece of legislation, a specific topic area, a particular level of government, or for a predetermined period, even indefinitely. To streamline this process, abstention settings are strategically placed within the settings tabs for each layer of the governance hierarchy and in each voting topic pane. This allows users to tailor their abstention preferences to specific levels of government or topics. All granular settings, spanning topic areas and layers of government, can be conveniently managed directly from their respective panes. Furthermore, these granular settings are aggregated into global abstention settings accessible from the global settings menu. This aggregated configuration is easily accessible through the user's profile settings menu, providing a centralized location for managing and customizing abstention preferences across the dynamic voting system.
@@ -193,7 +196,7 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xMDE3MTA0MTUwLD
-M0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMxOTY3MiwxMTg4Njk3
-MzQwXX0=
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE0MjgyMzc0NzAsLT
+EwMTcxMDQxNTAsMzQ1MjExMzI0LDI5NjU0NzMwMSwxMzE3MzE5
+NjcyLDExODg2OTczNDBdfQ==
 -->
