@@ -61,7 +61,7 @@ Ratification of legislation is determined by the outcome of a voting phase that 
 ###### Star Voting
 Voting is done via a [star voting system](https://www.starvoting.org/) in which candidates are attributed stars on a Likert 1-5 scale. Each voting domain can bring the _passing threshold_ to vote, wherein the threshold of the averaged star count a piece of legislation must achieve to pass is determined. The threshold is agreed upon at each layer of the political hierarchy. 
 ###### Quorum / Representative Sampling 
-The ratification also requires a quorum of voters for the given population area over which the legislation will preside. Quorum is established using the 
+The ratification also requires a quorum of voters for the given population area over which the legislation will preside. Quorum is established using a statistical modeling power calculation 
 
 ### Amending Enacted Legislation
 - Within our dynamic voting system, the process of amending enacted legislation is designed to be open and flexible.
@@ -141,8 +141,8 @@ N0YXJ0Ijo2NDQwLCJlbmQiOjY0NDUsInRleHQiOiJzZXZlbiJ9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InN0YXJ0Ijo2NTkwLCJlbm
 QiOjY2NDgsInRleHQiOiJudW1iZXIgY2FuIGJlIGJyb3VnaHQg
 dG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lzbGF0aXZlIGN5Y2xlIn
-0sIjRwMHpmQm51N2FLaG9rMGMiOnsic3RhcnQiOjg0MjUsImVu
-ZCI6ODQyNCwidGV4dCI6ImZhaWxzIHRoZSB2b3Rpbmcgcm91bm
+0sIjRwMHpmQm51N2FLaG9rMGMiOnsic3RhcnQiOjg0NjIsImVu
+ZCI6ODQ2MSwidGV4dCI6ImZhaWxzIHRoZSB2b3Rpbmcgcm91bm
 QifSwidERoUHNxeXNyaXNMbWUzVyI6eyJzdGFydCI6NzU0Mywi
 ZW5kIjo3NTQzLCJ0ZXh0IjoiZmFpbHMgdGhlIHZvdGluZyByb3
 VuZCJ9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
@@ -186,6 +186,6 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzEzMTczMTk2NzIsMT
-E4ODY5NzM0MF19
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xNzAxMjMzNzYyLD
+EzMTczMTk2NzIsMTE4ODY5NzM0MF19
 -->
