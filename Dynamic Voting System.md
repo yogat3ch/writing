@@ -62,35 +62,7 @@ Ratification of legislation is determined by the outcome of a voting phase that 
 Voting is done via a [star voting system](https://www.starvoting.org/) in which candidates are attributed stars on a Likert 1-5 scale. Each voting domain can bring the _passing threshold_ to vote, wherein the threshold of the averaged star count a piece of legislation must achieve to pass is determined. The threshold is agreed upon at each layer of the political hierarchy. 
 ###### Quorum / Representative Sampling 
 The ratification also requires a quorum of voters for the given population area over which the legislation will preside. Quorum is established using a statistical modeling power calculation which requires a margin of error. 
-<math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mi>n</mi>
-  <mo>=</mo>
-  <msup>
-    <mrow data-mjx-texclass="INNER">
-      <mo data-mjx-texclass="OPEN">(</mo>
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mfrac>
-          <mrow>
-            <msub>
-              <mi>z</mi>
-              <mrow data-mjx-texclass="ORD">
-                <mi>&#x3B1;</mi>
-                <mrow data-mjx-texclass="ORD">
-                  <mo>/</mo>
-                </mrow>
-                <mn>2</mn>
-              </mrow>
-            </msub>
-            <mi>&#x3C3;</mi>
-          </mrow>
-          <mi>E</mi>
-        </mfrac>
-      </mstyle>
-      <mo data-mjx-texclass="CLOSE">)</mo>
-    </mrow>
-    <mn>2</mn>
-  </msup>
-</math>
+$$n=\left(\dfrac{z_{\alpha/2}\sigma}{E}\right)^2$$
 The margin of error is set by the voters in each voting domain. 
 
 ### Amending Enacted Legislation
@@ -171,8 +143,8 @@ N0YXJ0Ijo2NDQwLCJlbmQiOjY0NDUsInRleHQiOiJzZXZlbiJ9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InN0YXJ0Ijo2NTkwLCJlbm
 QiOjY2NDgsInRleHQiOiJudW1iZXIgY2FuIGJlIGJyb3VnaHQg
 dG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lzbGF0aXZlIGN5Y2xlIn
-0sIjRwMHpmQm51N2FLaG9rMGMiOnsic3RhcnQiOjkyODksImVu
-ZCI6OTI4OCwidGV4dCI6ImZhaWxzIHRoZSB2b3Rpbmcgcm91bm
+0sIjRwMHpmQm51N2FLaG9rMGMiOnsic3RhcnQiOjg2MTIsImVu
+ZCI6ODYxMSwidGV4dCI6ImZhaWxzIHRoZSB2b3Rpbmcgcm91bm
 QifSwidERoUHNxeXNyaXNMbWUzVyI6eyJzdGFydCI6NzU0Mywi
 ZW5kIjo3NTQzLCJ0ZXh0IjoiZmFpbHMgdGhlIHZvdGluZyByb3
 VuZCJ9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
@@ -216,6 +188,6 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzYzNjI5MTQwOSwyOT
-Y1NDczMDEsMTMxNzMxOTY3MiwxMTg4Njk3MzQwXX0=
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xMTk4Nzg2MzIzLD
+I5NjU0NzMwMSwxMzE3MzE5NjcyLDExODg2OTczNDBdfQ==
 -->
