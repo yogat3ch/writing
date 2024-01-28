@@ -99,7 +99,7 @@ The voting process is complemented by a well-defined legislative timeline. Parti
 The month leading window serves as an opportunity for platform participants to concentrate on refining and reviewing the legislation that will soon be up for a vote. It encourages thoughtful consideration and debate, ensuring that voters are well-informed about the issues at hand. Any new legislation proposed during this time is postponed to the subsequent cycle of that topic area, maintaining a structured and fair legislative process. Total characters and total reading time can also be used to limit the number of contender proposals entering the refinement and review period.
 
 #### Revocation
-Users may revoke their vote from any piece of legislation during the vote process at ap
+Users may revoke their vote from any piece of legislation during the vote process at any point prior to the ratification decision at the conclusion of the vote period. 
 
 ### Abstention
 
@@ -193,7 +193,7 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzEyMzEyMjU5NDIsMz
-Q1MjExMzI0LDI5NjU0NzMwMSwxMzE3MzE5NjcyLDExODg2OTcz
-NDBdfQ==
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xMDE3MTA0MTUwLD
+M0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMxOTY3MiwxMTg4Njk3
+MzQwXX0=
 -->
