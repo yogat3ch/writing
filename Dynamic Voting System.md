@@ -102,7 +102,7 @@ The month leading window serves as an opportunity for platform participants to c
 Users may revoke their vote from any piece of legislation during the vote process at any point prior to the ratification decision at the conclusion of the vote period. 
 
 #### Override
-In emergency circumstances such as natural disaster, threat of war, etc it may be necessary to bring legislation to vote with more immediacy than the next cycle in which it's **political topic** area comes 
+In emergency circumstances such as natural disaster, threat of war, etc it may be necessary to bring legislation to vote with more immediacy than the next cycle in which it's **topic area** would have come up for vote. 
 
 ### Abstention
 
@@ -196,7 +196,7 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE0MjgyMzc0NzAsLT
-EwMTcxMDQxNTAsMzQ1MjExMzI0LDI5NjU0NzMwMSwxMzE3MzE5
-NjcyLDExODg2OTczNDBdfQ==
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzExNTM2ODk2NywxND
+I4MjM3NDcwLC0xMDE3MTA0MTUwLDM0NTIxMTMyNCwyOTY1NDcz
+MDEsMTMxNzMxOTY3MiwxMTg4Njk3MzQwXX0=
 -->
