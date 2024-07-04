@@ -82,8 +82,8 @@ The voting section of our platform is designed for intuitive navigation and effi
 
 -   A top-level drop-downs allow a user to move between different layers of government, providing access to counties, municipalities, states, regional, and federal levels.
 -   Tabs across the top of the page offer the following choices:
-- _Current Cycle_ for voting in the active election cycle, viewing and interacting with proposed legislation 
-- _Upcoming Cycle_ for viewing, amending, and upvoting/downvoting  legislation proposed for future cycles in *
+- _Current Cycle_ for voting in the active election cycle on the active **topic areas** for that cycle, viewing and interacting with proposed legislation.
+- _Upcoming Cycle_ for viewing, amending, and upvoting/downvoting  legislation proposed for other **topic areas** in future cycles.
 -  _Historical_ for reviewing past votes.
 - _My Representatives_ for reviewing the votes made by your elected representatives, and for changing your representatives per **topic area**.
 
@@ -203,7 +203,7 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE4NjA3MTUzMTEsLT
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0yNjkzMTkzNDUsLT
 EwNjU1NDQ4NywxMzcyNzg0OTM5LC0xMDk2NzE5OTk1LC0xNzI1
 NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3NDcwLC0xMDE3MTA0MT
 UwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMxOTY3MiwxMTg4
