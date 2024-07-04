@@ -63,7 +63,7 @@ Ratification of legislation is determined by the outcome of a voting phase that 
 Voting is done via a [star voting system](https://www.starvoting.org/) in which candidate legislation is attributed stars on a Likert 1-5 scale. Winners are determined by the average number of stars exceeding a _passing threshold_.  Each voting domain can bring the _passing threshold_ to vote, wherein the threshold of the averaged star count a piece of legislation must achieve to pass is determined. The threshold is agreed upon at each layer of the political hierarchy. 
 ###### Quorum / Representative Sampling 
 The ratification also requires a quorum of voters for the given population area over which the legislation will preside. Quorum is established using a statistical modeling power calculation which requires a margin of error. 
-$$n=\left(\dfrac{z_{\alpha/2}\sigma}{E}\right)^2$$
+$$/dfrac{\sqrt{n} * E=\left(\dfrac{z_{\alpha/2}\sigma}{E}\right)$$
 
 
 Where $z_{\alpha/2}$ is 
@@ -156,8 +156,8 @@ LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
 bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY2NDYsImVuZCI6NjcwNH
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6ODg1OCwiZW5kIjo4OD
-U4fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6ODg3NCwiZW5kIjo4OD
+c0fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
 dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3NTk5LCJlbmQiOj
 c1OTl9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
 eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
@@ -200,9 +200,8 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xNzcwMTEyNzIwLD
-EzNzI3ODQ5MzksLTEwOTY3MTk5OTUsLTE3MjU0MzkxOTQsMTE1
-MzY4OTY3LDE0MjgyMzc0NzAsLTEwMTcxMDQxNTAsMzQ1MjExMz
-I0LDI5NjU0NzMwMSwxMzE3MzE5NjcyLDExODg2OTczNDBdfQ==
-
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy05NzkzODk2MDksMT
+M3Mjc4NDkzOSwtMTA5NjcxOTk5NSwtMTcyNTQzOTE5NCwxMTUz
+Njg5NjcsMTQyODIzNzQ3MCwtMTAxNzEwNDE1MCwzNDUyMTEzMj
+QsMjk2NTQ3MzAxLDEzMTczMTk2NzIsMTE4ODY5NzM0MF19
 -->
