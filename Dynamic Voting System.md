@@ -105,7 +105,7 @@ In our dynamic voting system, the timing of voting is carefully structured to en
 The voting process is complemented by a well-defined legislative timeline. Participants can propose legislation on any topic throughout the cycle; however, a month prior to a vote on a specific topic, no further legislation can be proposed for that particular topic in the upcoming vote.
 
 The month leading window serves as an opportunity for platform participants to concentrate on refining and reviewing the legislation that will soon be up for a vote. It encourages thoughtful consideration and debate, ensuring that voters are well-informed about the issues at hand. Any new legislation proposed during this time is postponed to the subsequent cycle of that **topic area**, maintaining a structured and fair legislative process. 
-Total characters and total reading time, instead of a 1-7 threshold of pieces of legiscan also be used to limit the number of contender proposals entering the refinement and review period.
+Total characters and total reading time, instead of a 1-7 threshold of pieces of legislation can be used as an alternative means of limiting the number of legislative proposals entering the refinement and review period to ensure voters have sufficient time to review the proposals before it comes for a vote.
 
 #### Revocation
 Users may revoke their vote from any piece of legislation during the vote process at any point prior to the ratification decision at the conclusion of the vote period. 
@@ -205,7 +205,7 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xMDMyODAxNDE0LC
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xMDk5ODk1MjQwLC
 0xMDY1NTQ0ODcsMTM3Mjc4NDkzOSwtMTA5NjcxOTk5NSwtMTcy
 NTQzOTE5NCwxMTUzNjg5NjcsMTQyODIzNzQ3MCwtMTAxNzEwND
 E1MCwzNDUyMTEzMjQsMjk2NTQ3MzAxLDEzMTczMTk2NzIsMTE4
