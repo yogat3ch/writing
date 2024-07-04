@@ -66,7 +66,7 @@ The ratification also requires a quorum of voters for the given population area 
 $$n=\left(\dfrac{z_{\alpha/2}\sigma}{E}\right)^2$$
 
 $n$ is the number of voters needed for quorum to make the vote valid.
-$\sigma$ is the standard deviation of the voted stars, and the margin of error $(E)$ is derived from the critical value $(\alpha)$. The critical value $(\alpha)$ is set by popular vote in a special cycle that can be initiated at most once per year.  Typical critical values are usually anywhere from $.01$ to $.1$. Higher levels of the political hierarchy might have lower critical values such that higher turnout and consensus are required at levels of the political hierarchy where greater numbers of citizens are effected 
+$\sigma$ is the standard deviation of the voted stars, and the margin of error $(E)$ is derived from the critical value $(\alpha)$. The critical value $(\alpha)$ is set by popular vote in a special cycle that can be initiated at most once per year.  Typical critical values are usually anywhere from $.01$ to $.1$. Higher levels of the political hierarchy might have lower critical values such that higher turnout and consensus are required at levels of the political hierarchy where greater numbers of citizens are effected by the outcome.
 
 ### Amending Enacted Legislation
 - Within our dynamic voting system, the process of amending enacted legislation is designed to be open and flexible.
@@ -199,7 +199,7 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy05NTMyMjQxMDUsMT
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xMDY1NTQ0ODcsMT
 M3Mjc4NDkzOSwtMTA5NjcxOTk5NSwtMTcyNTQzOTE5NCwxMTUz
 Njg5NjcsMTQyODIzNzQ3MCwtMTAxNzEwNDE1MCwzNDUyMTEzMj
 QsMjk2NTQ3MzAxLDEzMTczMTk2NzIsMTE4ODY5NzM0MF19
