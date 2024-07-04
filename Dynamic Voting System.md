@@ -97,10 +97,10 @@ The voting section of our platform is designed for intuitive navigation and effi
 
 -   The left sidebar houses a range of filtering options, enabling users to tailor their view. These filters include sorting by "Time Frame," focusing on "Favorite Categories" with a nested list of the user's preferred topics, accessing "Starred Legislation" for marking important bills, tracking "Representative's Votes" through nested checkboxes for each representative, filtering by "Topic Category," and viewing "Tags" extracted from the currently filtered view for additional context and categorization.
 
-This thoughtful layout ensures that users can navigate, engage with, and make informed decisions on legislative matters with ease within our dynamic voting system.
+This thoughtful layout ensures that users can navigate, engage with, and make informed decisions on legislative matters with ease within the dynamic voting system.
 
 ###  Timing of Cycles
-In our dynamic voting system, the timing of voting is carefully structured to ensure fairness, participation, and to grant the ability for users to plan their participation. We implement a cyclic approach where political topics rotate in succession, each recurring at a set frequency. This deliberate scheduling allows participants to anticipate and plan their involvement in topics they care deeply about.
+In our dynamic voting system, the timing of voting is carefully structured to ensure fairness, participation, and to grant the ability for users to plan their participation. We implement a cyclic approach where political **topic areas** rotate in succession, each recurring at a set frequency. This deliberate scheduling allows participants to anticipate and plan their involvement in topics they care deeply about.
 
 The voting process is complemented by a well-defined legislative timeline. Participants can propose legislation on any topic throughout the cycle; however, a month prior to a vote on a specific topic, no further legislation can be proposed for that particular topic in the upcoming vote.
 
@@ -204,9 +204,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy04MzcwODg1OTcsLT
-EwNjU1NDQ4NywxMzcyNzg0OTM5LC0xMDk2NzE5OTk1LC0xNzI1
-NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3NDcwLC0xMDE3MTA0MT
-UwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMxOTY3MiwxMTg4
-Njk3MzQwXX0=
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzYxOTgyMDkxOSwtMT
+A2NTU0NDg3LDEzNzI3ODQ5MzksLTEwOTY3MTk5OTUsLTE3MjU0
+MzkxOTQsMTE1MzY4OTY3LDE0MjgyMzc0NzAsLTEwMTcxMDQxNT
+AsMzQ1MjExMzI0LDI5NjU0NzMwMSwxMzE3MzE5NjcyLDExODg2
+OTczNDBdfQ==
 -->
