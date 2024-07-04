@@ -147,13 +147,11 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 
 2. **Decentralization:** Instead of relying on a central authority, our system utilizes a decentralized network of nodes to validate and record transactions. This ensures that no single entity has control over the entire system, reducing the risk of manipulation or fraud.
 
-3. **Transparency:** The blockchain ledger is visible to all participants, allowing them to independently verify the accuracy of transactions. This transparency builds confidence in the legitimacy of the voting system and provides a comprehensive audit trail for every legislative proposal, vote, and interaction.
+3. **Transparency:** The blockchain ledger is visible to all participants, allowing them to independently verify the accuracy of transactions. This transparency builds confidence in the legitimacy of the voting system and provides a comprehensive audit trail for every legislative proposal, amendment, and vote.
 
-4. **Smart Contracts:** Smart contracts, self-executing contracts with coded terms, can automate various aspects of the voting process. For instance, they can enforce predefined rules for proposal submission, voting eligibility, and amendment acceptance. This automation not only streamlines the process but also reduces the likelihood of human error or manipulation.
+4. **Security Against Cyber Threats:** The cryptographic algorithms employed in blockchain technology enhance the security of participant data. The decentralized and distributed nature of the blockchain mitigates the risk of single points of failure, making it resilient against cyber threats.
 
-5. **Security Against Cyber Threats:** The cryptographic algorithms employed in blockchain technology enhance the security of participant data. The decentralized and distributed nature of the blockchain mitigates the risk of single points of failure, making it resilient against cyber threats.
-
-6. **Secure Identity Verification:** Blockchain can facilitate secure identity verification during participant registration. Once verified, the participant's identity is linked to their unique cryptographic key, ensuring a secure and reliable authentication process.
+5. **Secure Identity Verification:** Blockchain can facilitate secure identity verification during participant registration. A user's identifiable documents, Once verified, the participant's identity is linked to their unique cryptographic key, ensuring a secure and reliable authentication process.
 
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
@@ -207,9 +205,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wzg2NDIyODEwMywxND
-g3NzM2ODU4LC0xMDY1NTQ0ODcsMTM3Mjc4NDkzOSwtMTA5Njcx
-OTk5NSwtMTcyNTQzOTE5NCwxMTUzNjg5NjcsMTQyODIzNzQ3MC
-wtMTAxNzEwNDE1MCwzNDUyMTEzMjQsMjk2NTQ3MzAxLDEzMTcz
-MTk2NzIsMTE4ODY5NzM0MF19
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wzg1NjQ1OTU0LDE0OD
+c3MzY4NTgsLTEwNjU1NDQ4NywxMzcyNzg0OTM5LC0xMDk2NzE5
+OTk1LC0xNzI1NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3NDcwLC
+0xMDE3MTA0MTUwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMx
+OTY3MiwxMTg4Njk3MzQwXX0=
 -->
