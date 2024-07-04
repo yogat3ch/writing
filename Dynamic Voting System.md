@@ -139,11 +139,11 @@ This introductory wizard not only simplifies the user experience but also empowe
 # Security
 ## Blockchain Voting
 
-Blockchain technology stands as a cornerstone in fortifying the security and transparency of our dynamic voting system. By leveraging the decentralized nature of blockchain, we establish an unalterable ledger that captures and records all participant interactions, ensuring the integrity of the democratic process.
+Blockchain technology stands as a cornerstone in fortifying the security and transparency of our dynamic voting system. By leveraging the decentralized nature of blockchain, we establish an unalterable ledger that captures and records all participant votes, ensuring the integrity of the democratic process.
 
 **Key Features:**
 
-1. **Immutability:** Each participant's action, from proposing legislation to casting votes, is cryptographically sealed into a block. Once added to the blockchain, these blocks are linked in a way that makes altering any information within them practically impossible. This immutability safeguards the record of participant interactions, fostering trust and accountability.
+1. **Immutability:** Each participant's certified actions, from proposing legislation to casting votes, is cryptographically sealed into a block. Once added to the blockchain, these blocks are linked in a way that makes altering any information within them practically impossible. This immutability safeguards the record of participant interactions, fostering trust and accountability.
 
 2. **Decentralization:** Instead of relying on a central authority, our system utilizes a decentralized network of nodes to validate and record transactions. This ensures that no single entity has control over the entire system, reducing the risk of manipulation or fraud.
 
@@ -207,9 +207,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE4MTg5NTExNTEsMT
-Q4NzczNjg1OCwtMTA2NTU0NDg3LDEzNzI3ODQ5MzksLTEwOTY3
-MTk5OTUsLTE3MjU0MzkxOTQsMTE1MzY4OTY3LDE0MjgyMzc0Nz
-AsLTEwMTcxMDQxNTAsMzQ1MjExMzI0LDI5NjU0NzMwMSwxMzE3
-MzE5NjcyLDExODg2OTczNDBdfQ==
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wzg2NDIyODEwMywxND
+g3NzM2ODU4LC0xMDY1NTQ0ODcsMTM3Mjc4NDkzOSwtMTA5Njcx
+OTk5NSwtMTcyNTQzOTE5NCwxMTUzNjg5NjcsMTQyODIzNzQ3MC
+wtMTAxNzEwNDE1MCwzNDUyMTEzMjQsMjk2NTQ3MzAxLDEzMTcz
+MTk2NzIsMTE4ODY5NzM0MF19
 -->
