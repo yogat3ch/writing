@@ -60,7 +60,7 @@ Ratification of legislation is determined by the outcome of a voting phase with 
 ##### Ratification / Passing Criteria
 Ratification of legislation is determined by the outcome of a voting phase that meets two criteria:
 ###### Star Voting
-Voting is done via a [star voting system](https://www.starvoting.org/) in which candidates are attributed stars on a Likert 1-5 scale. Each voting domain can bring the _passing threshold_ to vote, wherein the threshold of the averaged star count a piece of legislation must achieve to pass is determined. The threshold is agreed upon at each layer of the political hierarchy. 
+Voting is done via a [star voting system](https://www.starvoting.org/) in which candidate legislation is attributed stars on a Likert 1-5 scale. Each voting domain can bring the _passing threshold_ to vote, wherein the threshold of the averaged star count a piece of legislation must achieve to pass is determined. The threshold is agreed upon at each layer of the political hierarchy. 
 ###### Quorum / Representative Sampling 
 The ratification also requires a quorum of voters for the given population area over which the legislation will preside. Quorum is established using a statistical modeling power calculation which requires a margin of error. 
 $$n=\left(\dfrac{z_{\alpha/2}\sigma}{E}\right)^2$$
@@ -153,8 +153,8 @@ LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
 bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY2NDYsImVuZCI6NjcwNH
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6ODcyNywiZW5kIjo4Nz
-I3fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6ODczNywiZW5kIjo4Nz
+M3fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
 dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3NTk5LCJlbmQiOj
 c1OTl9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
 eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
@@ -197,8 +197,8 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xMDk2NzE5OTk1LC
-0xNzI1NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3NDcwLC0xMDE3
-MTA0MTUwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMxOTY3Mi
-wxMTg4Njk3MzQwXX0=
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy00OTQ5ODIyNjksLT
+EwOTY3MTk5OTUsLTE3MjU0MzkxOTQsMTE1MzY4OTY3LDE0Mjgy
+Mzc0NzAsLTEwMTcxMDQxNTAsMzQ1MjExMzI0LDI5NjU0NzMwMS
+wxMzE3MzE5NjcyLDExODg2OTczNDBdfQ==
 -->
