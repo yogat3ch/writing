@@ -40,7 +40,7 @@ The Proposing Legislation Disclaimer asserts that individuals who propose legisl
 
 #### Refinement 
 During the refinement phase, no language may be added that would extend the proposal beyond the initial scope of the legislation determined at the outset of the Refinement phase. 
-The legislation can be broken into sections, implementation plans can be elaborate, edge cases can be considered and accounted for. 
+The legislation can be broken into sections, implementation plans can be elaborated, edge cases can be considered and accounted for. 
 A special **Structured Text interface** mode may be activated by any user perusing a piece of legislation in the refinement phase.
 This interface is derived from an algorithmic parsing of the legislation into structured chunks based on section, sentence, clause and word.  Each chunk may be:
 - suggested upon
@@ -147,15 +147,15 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2NDQwLCJlbmQiOjY0NDV9
+RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2NDQxLCJlbmQiOjY0NDZ9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY1OTAsImVuZCI6NjY0OH
+bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY1OTEsImVuZCI6NjY0OX
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJlbmQiOjg2NzEsInN0YXJ0Ijo4Nj
-cxfSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
-dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3NTQzLCJlbmQiOj
-c1NDN9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6ODY3MiwiZW5kIjo4Nj
+cyfSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
+dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3NTQ0LCJlbmQiOj
+c1NDR9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
 eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
 ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6
 Ik1heWJlIG1vcmUsIGJ1dCBJIHdvdWxkIG5vdCB3YW50IGhpZ2
@@ -196,8 +196,8 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xNzI1NDM5MTk0LD
-ExNTM2ODk2NywxNDI4MjM3NDcwLC0xMDE3MTA0MTUwLDM0NTIx
-MTMyNCwyOTY1NDczMDEsMTMxNzMxOTY3MiwxMTg4Njk3MzQwXX
-0=
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE0ODk5MzE3NjAsLT
+E3MjU0MzkxOTQsMTE1MzY4OTY3LDE0MjgyMzc0NzAsLTEwMTcx
+MDQxNTAsMzQ1MjExMzI0LDI5NjU0NzMwMSwxMzE3MzE5NjcyLD
+ExODg2OTczNDBdfQ==
 -->
