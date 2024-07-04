@@ -84,13 +84,13 @@ The voting section of our platform is designed for intuitive navigation and effi
 -   Tabs across the top of the page offer the following choices:
 - _Current Cycle_ for voting in the active election cycle on the active **topic areas** for that cycle, viewing and interacting with proposed legislation.
 - _Upcoming Cycle_ for viewing, amending, and upvoting/downvoting  legislation proposed for other **topic areas** in future cycles.
--  _Historical_ for reviewing past votes.
 - _My Representatives_ for reviewing the votes made by your elected representatives, and for changing your representatives per **topic area**.
 - _My Legislation_ for viewing and interacting with pieces of legislation and amendments you've proposed.
+-  _Historical_ for reviewing the outcome of past votes.
 
 **Navigation:**
 
--   The primary means of navigation are individual "legislation posts," offering extensive options for user interaction. Users can sort, filter, collapse, preview, and maximize these posts to access relevant details.
+-   The primary means of navigation within the _Current_ and _Upcoming Cycle_ tabs are individual "legislation posts," offering extensive options for user interaction. Users can sort, filter, collapse, preview, and maximize these posts to access relevant details.
 -   Iconography and abbreviated labels on each "legislation post" facilitate quick recognition of topic categories, ensuring efficient browsing.
 
 **Filtering:**
@@ -204,9 +204,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xNTU1NTUwOTUxLC
-0xMDY1NTQ0ODcsMTM3Mjc4NDkzOSwtMTA5NjcxOTk5NSwtMTcy
-NTQzOTE5NCwxMTUzNjg5NjcsMTQyODIzNzQ3MCwtMTAxNzEwND
-E1MCwzNDUyMTEzMjQsMjk2NTQ3MzAxLDEzMTczMTk2NzIsMTE4
-ODY5NzM0MF19
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy04MzcwODg1OTcsLT
+EwNjU1NDQ4NywxMzcyNzg0OTM5LC0xMDk2NzE5OTk1LC0xNzI1
+NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3NDcwLC0xMDE3MTA0MT
+UwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMxOTY3MiwxMTg4
+Njk3MzQwXX0=
 -->
