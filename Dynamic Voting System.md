@@ -62,10 +62,11 @@ Ratification of legislation is determined by the outcome of a voting phase that 
 ###### Star Voting
 Voting is done via a [star voting system](https://www.starvoting.org/) in which candidate legislation is attributed stars on a Likert 1-5 scale. Winners are determined by the average number of stars exceeding a _passing threshold_.  Each voting domain can bring the _passing threshold_ to vote, wherein the threshold of the averaged star count a piece of legislation must achieve to pass is determined. The threshold is agreed upon at each layer of the political hierarchy. 
 ###### Quorum / Representative Sampling 
-The ratification also requires a quorum of voters for the given population area over which the legislation will preside. Quorum is established using a statistical modeling power calculation which requires a margin of error. 
+The ratification also requires a quorum of voters for the given population area over which the legislation will preside. Quorum is established using a statistical modeling power calculation which requires a critical value. 
 $$n=\left(\dfrac{z_{\alpha/2}\sigma}{E}\right)^2$$
 
-Where $\sigma$ is the standard deviation of the voted stars, and the margin of error $(E)$ is derived from the critical value $(\alpha)$. The critical value $(\alpha)$ is set by popular vote in a special cycle that be initiated at most once per year,  with typical critical values being anywhere from $.01$ to $.1$.
+$n$ is the number of voters needed for quorum to make the vote valid.
+Where $\sigma$ is the standard deviation of the voted stars, and the margin of error $(E)$ is derived from the critical value $(\alpha)$. The critical value $(\alpha)$ is set by popular vote in a special cycle that be initiated at most once per year.  Typical critical values are usually anywhere from $.01$ to $.1$. Higher levels of the political hierarchy might have 
 
 ### Amending Enacted Legislation
 - Within our dynamic voting system, the process of amending enacted legislation is designed to be open and flexible.
@@ -154,8 +155,8 @@ LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
 bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY2NDYsImVuZCI6NjcwNH
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTAxNiwiZW5kIjo5MD
-E2fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTA4NiwiZW5kIjo5MD
+g2fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
 dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3NTk5LCJlbmQiOj
 c1OTl9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
 eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
@@ -198,8 +199,8 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wzc5NDM5NTU2NSwxMz
-cyNzg0OTM5LC0xMDk2NzE5OTk1LC0xNzI1NDM5MTk0LDExNTM2
-ODk2NywxNDI4MjM3NDcwLC0xMDE3MTA0MTUwLDM0NTIxMTMyNC
-wyOTY1NDczMDEsMTMxNzMxOTY3MiwxMTg4Njk3MzQwXX0=
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzEwNTU2MTI0OTQsMT
+M3Mjc4NDkzOSwtMTA5NjcxOTk5NSwtMTcyNTQzOTE5NCwxMTUz
+Njg5NjcsMTQyODIzNzQ3MCwtMTAxNzEwNDE1MCwzNDUyMTEzMj
+QsMjk2NTQ3MzAxLDEzMTczMTk2NzIsMTE4ODY5NzM0MF19
 -->
