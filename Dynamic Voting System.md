@@ -123,9 +123,9 @@ In our dynamic voting system, participants have the flexibility to abstain from 
 ### Newcomer Wizard Intro
 For newcomers to our platform, we've designed an intuitive wizard introduction that simplifies the dynamic representative system. Upon joining, users are greeted by a step-by-step guide that explains how the dynamic voting system works. This introductory wizard aims to make their experience seamless and informative.
 
-One key feature of this wizard is a questionnaire reminiscent of popular platforms like isidewith.com. This questionnaire covers a comprehensive spectrum of political topics, each followed by multiple-choice answers that are sorted by popularity. If a user's perspective isn't already represented, they can select "Other" and provide their own response through free-form text input. The platform leverages artificial intelligence to distill similar "Other"  answers into a coherent single response, which if recurrence frequency is high enough, is promoted to a new multiple choice entry. Our AI will then suggest matches by comparing their input with distilled answers from other users.
+One key feature of this wizard is a questionnaire reminiscent of popular platforms like isidewith.com. This questionnaire covers a comprehensive spectrum of political topics, each followed by multiple-choice answers that are sorted by popularity. If a user's perspective isn't already represented, they can select "Other" and provide their own response through free-form text input. The platform leverages artificial intelligence to distill similar "Other"  answers into a coherent single response, which if recurrence frequency is high enough, is promoted to a new multiple choice entry.
 
-Importantly, users have the freedom to answer as many or as few questions as they like, allowing for a flexible and personalized onboarding process. After completing the questionnaire, users will receive suggested representatives based on their alignment percentage. Additionally, they'll gain insight into the percentage of alignment with the entire perspective of a proposed representative, helping them identify unanswered **topic area**s that may not align with their suggested representative.
+Importantly, users have the freedom to answer as many or as few questions as they like, allowing for a flexible and personalized onboarding process. After completing the questionnaire, users will receive suggested representatives based on the percentage of alignment of their answers with those of other users. Any user is a potential representative for another user. Additionally, a data visualization shows the percentage of alignment with the entire perspective of a proposed representative, helping them identify unanswered **topic area**s that may not align with their suggested representative.
 
 As users complete the multiple choices questions, users are provided with a set of suggested representatives selected based on overall congruency, measured by a percent match. Additionally, representatives are suggested based on percent congruence for each specific political **topic area**, ensuring each user can find congruent representation for their votes when they are unable to participate.
 
@@ -205,9 +205,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0yOTk1ODU3MywxND
-g3NzM2ODU4LC0xMDY1NTQ0ODcsMTM3Mjc4NDkzOSwtMTA5Njcx
-OTk5NSwtMTcyNTQzOTE5NCwxMTUzNjg5NjcsMTQyODIzNzQ3MC
-wtMTAxNzEwNDE1MCwzNDUyMTEzMjQsMjk2NTQ3MzAxLDEzMTcz
-MTk2NzIsMTE4ODY5NzM0MF19
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE0Njc3NzY1ODQsMT
+Q4NzczNjg1OCwtMTA2NTU0NDg3LDEzNzI3ODQ5MzksLTEwOTY3
+MTk5OTUsLTE3MjU0MzkxOTQsMTE1MzY4OTY3LDE0MjgyMzc0Nz
+AsLTEwMTcxMDQxNTAsMzQ1MjExMzI0LDI5NjU0NzMwMSwxMzE3
+MzE5NjcyLDExODg2OTczNDBdfQ==
 -->
