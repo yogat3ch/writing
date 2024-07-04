@@ -46,6 +46,7 @@ This interface is derived from an algorithmic parsing of the legislation into st
 - suggested upon
 - commented upon
 - voted up or down
+
 Ultimately, only proposers or amenders are granted edit permissions to make changes to the legislation, but community feedback in these forms may be used to guide the modifications. 
 
 ##### Popularity Voting
@@ -147,15 +148,15 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2NDQxLCJlbmQiOjY0NDZ9
+RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2NDQyLCJlbmQiOjY0NDd9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY1OTEsImVuZCI6NjY0OX
+bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY1OTIsImVuZCI6NjY1MH
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6ODY3MiwiZW5kIjo4Nj
-cyfSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
-dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3NTQ0LCJlbmQiOj
-c1NDR9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6ODY3MywiZW5kIjo4Nj
+czfSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
+dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3NTQ1LCJlbmQiOj
+c1NDV9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
 eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
 ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6
 Ik1heWJlIG1vcmUsIGJ1dCBJIHdvdWxkIG5vdCB3YW50IGhpZ2
@@ -196,8 +197,8 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE0ODk5MzE3NjAsLT
-E3MjU0MzkxOTQsMTE1MzY4OTY3LDE0MjgyMzc0NzAsLTEwMTcx
-MDQxNTAsMzQ1MjExMzI0LDI5NjU0NzMwMSwxMzE3MzE5NjcyLD
-ExODg2OTczNDBdfQ==
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xOTUyOTUxNjY3LC
+0xNzI1NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3NDcwLC0xMDE3
+MTA0MTUwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMxOTY3Mi
+wxMTg4Njk3MzQwXX0=
 -->
