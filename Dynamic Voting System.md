@@ -123,7 +123,7 @@ In our dynamic voting system, participants have the flexibility to abstain from 
 ### Newcomer Wizard Intro
 For newcomers to our platform, we've designed an intuitive wizard introduction that simplifies the dynamic representative system. Upon joining, users are greeted by a step-by-step guide that explains how the dynamic voting system works. This introductory wizard aims to make their experience seamless and informative.
 
-One key feature of this wizard is a questionnaire reminiscent of popular platforms like isidewith.com. This questionnaire covers a comprehensive spectrum of political topics, each followed by multiple-choice answers that are sorted by popularity based on previous user responses. Our platform leverages artificial intelligence to distill similar answers into a coherent single response. If a user's perspective isn't already represented, they can provide their own response through free-form text input. Our AI will then suggest matches by comparing their input with distilled answers from other users.
+One key feature of this wizard is a questionnaire reminiscent of popular platforms like isidewith.com. This questionnaire covers a comprehensive spectrum of political topics, each followed by multiple-choice answers that are sorted by popularity. If a user's perspective isn't already represented, they can select "Other" provide their own response through free-form text input. based on previous user's "other" responses. The platform leverages artificial intelligence to distill similar answers when a user selects "Other" into a coherent single response. Our AI will then suggest matches by comparing their input with distilled answers from other users.
 
 Importantly, users have the freedom to answer as many or as few questions as they like, allowing for a flexible and personalized onboarding process. After completing the questionnaire, users will receive suggested representatives based on their alignment percentage. Additionally, they'll gain insight into the percentage of alignment with the entire perspective of a proposed representative, helping them identify unanswered **topic area**s that may not align with their suggested representative.
 
@@ -205,9 +205,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE0ODc3MzY4NTgsLT
-EwNjU1NDQ4NywxMzcyNzg0OTM5LC0xMDk2NzE5OTk1LC0xNzI1
-NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3NDcwLC0xMDE3MTA0MT
-UwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMxOTY3MiwxMTg4
-Njk3MzQwXX0=
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0zODU5NTYyLDE0OD
+c3MzY4NTgsLTEwNjU1NDQ4NywxMzcyNzg0OTM5LC0xMDk2NzE5
+OTk1LC0xNzI1NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3NDcwLC
+0xMDE3MTA0MTUwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMx
+OTY3MiwxMTg4Njk3MzQwXX0=
 -->
