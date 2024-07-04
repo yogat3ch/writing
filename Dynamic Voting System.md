@@ -151,7 +151,7 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 
 4. **Security Against Cyber Threats:** The cryptographic algorithms employed in blockchain technology enhance the security of participant data. The decentralized and distributed nature of the blockchain mitigates the risk of single points of failure, making it resilient against cyber threats.
 
-5. **Secure Identity Verification:** Blockchain can facilitate secure identity verification during participant registration. A user's identifiable documents, Once verified, the participant's identity is linked to their unique cryptographic key, ensuring a secure and reliable authentication process.
+5. **Secure Identity Verification:** Blockchain can facilitate secure identity verification during participant registration. A user's identifiable documents, such as SSN card, Passport, or Driver's License, once verified, and linked with facial recognition biometric data which is then tied to their unique cryptographic key, ensuring a secure and reliable authentication process and record of certified actions on the platform.
 
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
@@ -205,9 +205,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wzg1NjQ1OTU0LDE0OD
-c3MzY4NTgsLTEwNjU1NDQ4NywxMzcyNzg0OTM5LC0xMDk2NzE5
-OTk1LC0xNzI1NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3NDcwLC
-0xMDE3MTA0MTUwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMx
-OTY3MiwxMTg4Njk3MzQwXX0=
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xNDg4NDM1MTM5LD
+E0ODc3MzY4NTgsLTEwNjU1NDQ4NywxMzcyNzg0OTM5LC0xMDk2
+NzE5OTk1LC0xNzI1NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3ND
+cwLC0xMDE3MTA0MTUwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMx
+NzMxOTY3MiwxMTg4Njk3MzQwXX0=
 -->
