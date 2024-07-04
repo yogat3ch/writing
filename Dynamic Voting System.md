@@ -83,8 +83,8 @@ The voting section of our platform is designed for intuitive navigation and effi
 -   A top-level drop-downs allow a user to move between different layers of government, providing access to counties, municipalities, states, regional, and federal levels.
 -   Tabs across the top of the page offer the following choices:
 - _Current Cycle_ for ongoing votes
--  _Historical" for reviewing past votes.
-- My legislat
+-  _Historical_ for reviewing past votes.
+- _My Representatives_ for reviewing the votes made by your elected representatives, and for changing your representatives per **topic area**.
 
 **Navigation:**
 
@@ -202,9 +202,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzY4MTc5NTU2MSwtMT
-A2NTU0NDg3LDEzNzI3ODQ5MzksLTEwOTY3MTk5OTUsLTE3MjU0
-MzkxOTQsMTE1MzY4OTY3LDE0MjgyMzc0NzAsLTEwMTcxMDQxNT
-AsMzQ1MjExMzI0LDI5NjU0NzMwMSwxMzE3MzE5NjcyLDExODg2
-OTczNDBdfQ==
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzExMDQ0OTYzNzIsLT
+EwNjU1NDQ4NywxMzcyNzg0OTM5LC0xMDk2NzE5OTk1LC0xNzI1
+NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3NDcwLC0xMDE3MTA0MT
+UwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMxOTY3MiwxMTg4
+Njk3MzQwXX0=
 -->
