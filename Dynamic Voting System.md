@@ -111,7 +111,7 @@ Total characters and total reading time, instead of a 1-7 threshold of pieces of
 Users may revoke their vote from any piece of legislation during the vote process at any point prior to the ratification decision at the conclusion of the vote period. 
 
 #### Override
-In emergency circumstances such as natural disaster, threat of war, etc it may be necessary to bring legislation to vote with more immediacy than the next cycle in which it's **topic area** would have come up for vote. A piece of legislation can be flagged as Urgent. If flagged as urgent by a quorum of people in the layer of the political hierarchy 
+In emergency circumstances such as natural disaster, threat of war, etc it may be necessary to bring legislation to vote with more immediacy than the next cycle in which it's **topic area** would have come up for vote. A piece of legislation can be flagged as Urgent. If flagged as urgent by a quorum of people in the layer of the political hierarchy, it can be brought to vote in the current cycle, regardless of whether it matches the current **topic area**.
 
 ### Abstention
 
@@ -205,7 +205,7 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzEyMDg4ODg1OTcsLT
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE0ODc3MzY4NTgsLT
 EwNjU1NDQ4NywxMzcyNzg0OTM5LC0xMDk2NzE5OTk1LC0xNzI1
 NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3NDcwLC0xMDE3MTA0MT
 UwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMxOTY3MiwxMTg4
