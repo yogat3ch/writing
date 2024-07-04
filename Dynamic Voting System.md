@@ -86,6 +86,7 @@ The voting section of our platform is designed for intuitive navigation and effi
 - _Upcoming Cycle_ for viewing, amending, and upvoting/downvoting  legislation proposed for other **topic areas** in future cycles.
 -  _Historical_ for reviewing past votes.
 - _My Representatives_ for reviewing the votes made by your elected representatives, and for changing your representatives per **topic area**.
+- _My Legislation_ for viewing and interacting with pieces of legistlation and amendments you've proposed.
 
 **Navigation:**
 
@@ -203,9 +204,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0yNjkzMTkzNDUsLT
-EwNjU1NDQ4NywxMzcyNzg0OTM5LC0xMDk2NzE5OTk1LC0xNzI1
-NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3NDcwLC0xMDE3MTA0MT
-UwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMxOTY3MiwxMTg4
-Njk3MzQwXX0=
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wzg5NDU3Nzk5NywtMT
+A2NTU0NDg3LDEzNzI3ODQ5MzksLTEwOTY3MTk5OTUsLTE3MjU0
+MzkxOTQsMTE1MzY4OTY3LDE0MjgyMzc0NzAsLTEwMTcxMDQxNT
+AsMzQ1MjExMzI0LDI5NjU0NzMwMSwxMzE3MzE5NjcyLDExODg2
+OTczNDBdfQ==
 -->
