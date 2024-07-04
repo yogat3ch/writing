@@ -71,7 +71,7 @@ $\sigma$ is the standard deviation of votes (along the 1-5 scale), and the margi
 ### Amending Enacted Legislation
 - Within our dynamic voting system, the process of amending enacted legislation is designed to be open and flexible.
 - Previous legislation, once enacted, can have amendments suggested at any time, allowing for continuous improvement and adaptation to changing needs.
-- Proposing amendments to enacted legislation follows a similar process to proposing new legislation. Users can draft an amendment post, which is structured similarly to a proposal post. However, it contains a link to the enacted legislation that it seeks to modify.
+- Proposing amendments to enacted legislation follows the six stage voting process akin to proposing new legislation. Users can draft an amendment post, which is structured similarly to a proposal post. However, it will always link to the enacted legislation that it seeks to modify.
 - This link provides users with the ability to view both the original enacted legislation and how it would appear after the proposed amendment is applied. It offers transparency and clarity, ensuring that the community can assess the impact and implications of the suggested changes.
 - This approach to amending enacted legislation encourages ongoing refinement and responsiveness to the evolving needs and perspectives of the community, promoting a dynamic and adaptable legal framework.
 
@@ -199,9 +199,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xNjgzNTYyOTA2LC
-0xMDY1NTQ0ODcsMTM3Mjc4NDkzOSwtMTA5NjcxOTk5NSwtMTcy
-NTQzOTE5NCwxMTUzNjg5NjcsMTQyODIzNzQ3MCwtMTAxNzEwND
-E1MCwzNDUyMTEzMjQsMjk2NTQ3MzAxLDEzMTczMTk2NzIsMTE4
-ODY5NzM0MF19
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzQwMzM3MzI2NiwtMT
+A2NTU0NDg3LDEzNzI3ODQ5MzksLTEwOTY3MTk5OTUsLTE3MjU0
+MzkxOTQsMTE1MzY4OTY3LDE0MjgyMzc0NzAsLTEwMTcxMDQxNT
+AsMzQ1MjExMzI0LDI5NjU0NzMwMSwxMzE3MzE5NjcyLDExODg2
+OTczNDBdfQ==
 -->
