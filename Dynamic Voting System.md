@@ -131,6 +131,8 @@ A **representative** can be any other user on the platform who's opted in to bei
 
 In order to provide full transparency to users, every person that opts to act as a **representative** will have all of their multiple choice answers, their entire voting history, and their legislative proposals, amendments, and active legislation made public and searchable. This will allow users to continuously determine whether their representatives are aligned with their interests.
 
+The final part of the wizard introduces the currently designated political **topic area**s and the time of year in which each **topic area** comes for a vote. A user can set granular notifications for each topi
+
 This introductory wizard not only simplifies the user experience but also empowers users to make informed choices and engage meaningfully with the dynamic representation system, enhancing their participation in the democratic process.
 
 
@@ -205,9 +207,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy05Njc4ODI5NjMsMT
-Q4NzczNjg1OCwtMTA2NTU0NDg3LDEzNzI3ODQ5MzksLTEwOTY3
-MTk5OTUsLTE3MjU0MzkxOTQsMTE1MzY4OTY3LDE0MjgyMzc0Nz
-AsLTEwMTcxMDQxNTAsMzQ1MjExMzI0LDI5NjU0NzMwMSwxMzE3
-MzE5NjcyLDExODg2OTczNDBdfQ==
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzY3ODIxNDk4NiwxND
+g3NzM2ODU4LC0xMDY1NTQ0ODcsMTM3Mjc4NDkzOSwtMTA5Njcx
+OTk5NSwtMTcyNTQzOTE5NCwxMTUzNjg5NjcsMTQyODIzNzQ3MC
+wtMTAxNzEwNDE1MCwzNDUyMTEzMjQsMjk2NTQ3MzAxLDEzMTcz
+MTk2NzIsMTE4ODY5NzM0MF19
 -->
