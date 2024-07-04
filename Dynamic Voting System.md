@@ -127,7 +127,7 @@ One key feature of this wizard is a questionnaire reminiscent of popular platfor
 
 Importantly, users have the freedom to answer as many or as few questions as they like, allowing for a flexible and personalized onboarding process. After completing the questionnaire, users will receive suggested representatives based on the percentage of alignment of their answers with those of other users. Any user is a potential representative for another user. Additionally, a data visualization shows the percentage of alignment with the entire perspective of a proposed representative across all **topic areas**.  With this information a user can identify **topic area**s that may not align with their suggested **representative** and find another **representative** for that **topic area** who better represents their values.
 
-A **representative** can be any other user on the platform to which a user delegates their vote. The ** representative**s vote casts as many votes in an election as they have constituents eg other users who've allocated their vote to them.  Any user can delegate their vote to any representative at any time. If a user is absent and they have delegated their vote to a **representative** the **representative**s vote counts as their own plus the absent voter. If a user becomes active after a period of absence 
+A **representative** can be any other user on the platform to which a user delegates their vote. The ** representative**s vote casts as many votes in an election as they have constituents eg other users who've allocated their vote to them.  Any user can delegate their vote to any representative at any time. If a user is absent and they have delegated their vote to a **representative** the **representative**s vote counts as their own plus the absent voter. If a user becomes active after a period of absence and casts votes on a piece of legislation in an election cycle, the  vote is automatically removed from their **representative's**' vote count, though they may still 
 
 In order to provide full transparency to users, every person that opts to act as a representative will have all of their multiple choice answers, their entire voting history, and their legislative proposals, amendments, and active legislation made public and searchable. This will allow user's to continuously determine whether their representatives are aligned with their interests.
 
@@ -205,9 +205,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzExNTI0MDIxOTgsMT
-Q4NzczNjg1OCwtMTA2NTU0NDg3LDEzNzI3ODQ5MzksLTEwOTY3
-MTk5OTUsLTE3MjU0MzkxOTQsMTE1MzY4OTY3LDE0MjgyMzc0Nz
-AsLTEwMTcxMDQxNTAsMzQ1MjExMzI0LDI5NjU0NzMwMSwxMzE3
-MzE5NjcyLDExODg2OTczNDBdfQ==
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wzg3ODE0NTMxOCwxND
+g3NzM2ODU4LC0xMDY1NTQ0ODcsMTM3Mjc4NDkzOSwtMTA5Njcx
+OTk5NSwtMTcyNTQzOTE5NCwxMTUzNjg5NjcsMTQyODIzNzQ3MC
+wtMTAxNzEwNDE1MCwzNDUyMTEzMjQsMjk2NTQ3MzAxLDEzMTcz
+MTk2NzIsMTE4ODY5NzM0MF19
 -->
