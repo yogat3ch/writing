@@ -66,7 +66,7 @@ The ratification also requires a quorum of voters for the given population area 
 $$n=\left(\dfrac{z_{\alpha/2}\sigma}{E}\right)^2$$
 
 $n$ is the number of voters needed for quorum to make the vote valid.
-$\sigma$ is the standard deviation of the voted stars, and the margin of error $(E)$ is derived from the critical value $(\alpha)$. The critical value $(\alpha)$ is set by popular vote in a special cycle that can be initiated at most once per year.  Typical critical values are usually anywhere from $.01$ to $.1$. Higher levels of the political hierarchy might have lower critical values such that higher turnout and consensus are required at levels of the political hierarchy where greater numbers of citizens are effected by the outcome.
+$\sigma$ is the standard deviation of votes (along the 1-5 scale), and the margin of error $(E)$ is derived from the critical value $(\alpha)$. The critical value $(\alpha)$ is set by popular vote in a special cycle that can be initiated at most once per year.  Typical critical values are usually anywhere from $.01$ to $.1$. Higher levels of the political hierarchy might have lower critical values such that higher turnout and consensus are required at levels of the political hierarchy where greater numbers of citizens are effected by the outcome.
 
 ### Amending Enacted Legislation
 - Within our dynamic voting system, the process of amending enacted legislation is designed to be open and flexible.
@@ -155,8 +155,8 @@ LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
 bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY2NDYsImVuZCI6NjcwNH
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTA4NCwiZW5kIjo5MD
-g0fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTA5NiwiZW5kIjo5MD
+k2fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
 dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3NTk5LCJlbmQiOj
 c1OTl9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
 eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
@@ -199,8 +199,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xMDY1NTQ0ODcsMT
-M3Mjc4NDkzOSwtMTA5NjcxOTk5NSwtMTcyNTQzOTE5NCwxMTUz
-Njg5NjcsMTQyODIzNzQ3MCwtMTAxNzEwNDE1MCwzNDUyMTEzMj
-QsMjk2NTQ3MzAxLDEzMTczMTk2NzIsMTE4ODY5NzM0MF19
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xNjgzNTYyOTA2LC
+0xMDY1NTQ0ODcsMTM3Mjc4NDkzOSwtMTA5NjcxOTk5NSwtMTcy
+NTQzOTE5NCwxMTUzNjg5NjcsMTQyODIzNzQ3MCwtMTAxNzEwND
+E1MCwzNDUyMTEzMjQsMjk2NTQ3MzAxLDEzMTczMTk2NzIsMTE4
+ODY5NzM0MF19
 -->
