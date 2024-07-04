@@ -127,7 +127,7 @@ One key feature of this wizard is a questionnaire reminiscent of popular platfor
 
 Importantly, users have the freedom to answer as many or as few questions as they like, allowing for a flexible and personalized onboarding process. After completing the questionnaire, users will receive suggested representatives based on the percentage of alignment of their answers with those of other users. Any user is a potential representative for another user. Additionally, a data visualization shows the percentage of alignment with the entire perspective of a proposed representative across all **topic areas**.  With this information a user can identify **topic area**s that may not align with their suggested representative and find another representative for that **topic area** who better represents their values.
 
-As users complete the multiple choices questions, users are provided with a set of suggested representatives selected based on overall congruency, measured by a percent match. Additionally, representatives are suggested based on percent congruence for each specific political **topic area**, ensuring each user can find congruent representation for their votes when they are unable to participate.
+An **elected representative** can be any other user on the platform to which a user delegates their vote should they be absent from casting their own vote, or 
 
 In order to provide full transparency to users, every person that opts to act as a representative will have all of their multiple choice answers, their entire voting history, and their legislative proposals, amendments, and active legislation made public and searchable. This will allow user's to continuously determine whether their representatives are aligned with their interests.
 
@@ -205,9 +205,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0zNTcyMTc4MjEsMT
-Q4NzczNjg1OCwtMTA2NTU0NDg3LDEzNzI3ODQ5MzksLTEwOTY3
-MTk5OTUsLTE3MjU0MzkxOTQsMTE1MzY4OTY3LDE0MjgyMzc0Nz
-AsLTEwMTcxMDQxNTAsMzQ1MjExMzI0LDI5NjU0NzMwMSwxMzE3
-MzE5NjcyLDExODg2OTczNDBdfQ==
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzgyMjgwMTY3LDE0OD
+c3MzY4NTgsLTEwNjU1NDQ4NywxMzcyNzg0OTM5LC0xMDk2NzE5
+OTk1LC0xNzI1NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3NDcwLC
+0xMDE3MTA0MTUwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMxNzMx
+OTY3MiwxMTg4Njk3MzQwXX0=
 -->
