@@ -117,7 +117,7 @@ In emergency circumstances such as natural disaster, threat of war, etc it may b
 
 In our dynamic voting system, participants have the flexibility to abstain from any vote, whether it pertains to an individual piece of legislation, a specific **topic area**, a particular level of government, or for a predetermined period, even indefinitely. To streamline this process, abstention settings are strategically placed within the settings tabs for each layer of the governance hierarchy and in each voting topic pane. This allows users to tailor their abstention preferences to specific levels of government or topics. All granular settings, spanning **topic area**s and layers of government, can be conveniently managed directly from their respective panes. Furthermore, these granular settings are aggregated into global abstention settings accessible from the global settings menu. This aggregated configuration is easily accessible through the user's profile settings menu, providing a centralized location for managing and customizing abstention preferences across the dynamic voting system.
 
-
+###
 
 ## Representation
 ### Newcomer Wizard Intro
@@ -205,9 +205,9 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xNDg4NDM1MTM5LD
-E0ODc3MzY4NTgsLTEwNjU1NDQ4NywxMzcyNzg0OTM5LC0xMDk2
-NzE5OTk1LC0xNzI1NDM5MTk0LDExNTM2ODk2NywxNDI4MjM3ND
-cwLC0xMDE3MTA0MTUwLDM0NTIxMTMyNCwyOTY1NDczMDEsMTMx
-NzMxOTY3MiwxMTg4Njk3MzQwXX0=
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE5MzI1NjA3MDYsLT
+E0ODg0MzUxMzksMTQ4NzczNjg1OCwtMTA2NTU0NDg3LDEzNzI3
+ODQ5MzksLTEwOTY3MTk5OTUsLTE3MjU0MzkxOTQsMTE1MzY4OT
+Y3LDE0MjgyMzc0NzAsLTEwMTcxMDQxNTAsMzQ1MjExMzI0LDI5
+NjU0NzMwMSwxMzE3MzE5NjcyLDExODg2OTczNDBdfQ==
 -->
