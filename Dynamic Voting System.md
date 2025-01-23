@@ -5,7 +5,7 @@
 ## Platform Overview
 In our innovative dynamic voting system, we've reimagined the democratic process to enhance accessibility, transparency, and accountability. This cutting-edge platform allows individuals to engage in elections using their personal devices, streamlining the voting process. Upon initial registration, users' identities are verified using their social security number and/or driver's license, establishing a secure, one-time authentication process. Subsequently, they're automatically registered to vote, reducing bureaucratic hurdles and fostering broader civic participation.
 
-But what truly sets our system apart is the concept of representation. Users can choose to designate 'representatives' from among their peers on the platform, entrusting them with their votes. To maintain this trust, representatives must adhere to their constituents' wishes, ensuring that users' voices are heard in the decision-making process. A user can reassign their vote to another representative if trust is lost.
+But what truly sets our system apart is the concept of representation. Users can choose to designate 'representatives' from among their peers on the platform, entrusting them with their votes. To maintain this trust, representatives must adhere to their constituents' wishes, ensuring that users' voices are heard in the decision-making process. A user can reassign their vote in any election process while underway if their representative does not vote in accord with their interest, and may designate a new 'representative' at any time.
 
 ## Legislation
 What's more, our dynamic voting system encourages active engagement in the legislative process. Anyone can propose ideas for new laws or changes to existing ones, promoting inclusivity. These proposals undergo community discussion and can be upvoted, and good representatives play a pivotal role by identifying and enhancing promising legislation for broader consideration.
@@ -156,15 +156,15 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2NTA5LCJlbmQiOjY1MTR9
+RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2NjI3LCJlbmQiOjY2MzJ9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY3MTMsImVuZCI6Njc3MX
+bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY4MzEsImVuZCI6Njg4OX
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTE2MywiZW5kIjo5MT
-YzfSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
-dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3NjY2LCJlbmQiOj
-c2NjZ9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTI4MSwiZW5kIjo5Mj
+gxfSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
+dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3Nzg0LCJlbmQiOj
+c3ODR9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
 eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
 ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6
 Ik1heWJlIG1vcmUsIGJ1dCBJIHdvdWxkIG5vdCB3YW50IGhpZ2
@@ -205,10 +205,10 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE5NzUzODkzNjYsMT
-kzMjU2MDcwNiwtMTQ4ODQzNTEzOSwxNDg3NzM2ODU4LC0xMDY1
-NTQ0ODcsMTM3Mjc4NDkzOSwtMTA5NjcxOTk5NSwtMTcyNTQzOT
-E5NCwxMTUzNjg5NjcsMTQyODIzNzQ3MCwtMTAxNzEwNDE1MCwz
-NDUyMTEzMjQsMjk2NTQ3MzAxLDEzMTczMTk2NzIsMTE4ODY5Nz
-M0MF19
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xNTQzMDYyMTY5LD
+E5MzI1NjA3MDYsLTE0ODg0MzUxMzksMTQ4NzczNjg1OCwtMTA2
+NTU0NDg3LDEzNzI3ODQ5MzksLTEwOTY3MTk5OTUsLTE3MjU0Mz
+kxOTQsMTE1MzY4OTY3LDE0MjgyMzc0NzAsLTEwMTcxMDQxNTAs
+MzQ1MjExMzI0LDI5NjU0NzMwMSwxMzE3MzE5NjcyLDExODg2OT
+czNDBdfQ==
 -->
