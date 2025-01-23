@@ -50,7 +50,7 @@ This interface is derived from an algorithmic parsing of the legislation into st
 Ultimately, only proposers or amenders are granted edit permissions to make changes to the legislation, but community feedback in these forms may be used to guide the modifications. 
 
 ##### Popularity Voting
-The overall piece of legislation can be voted up or down during the refinement period. A variable threshold between one and seven items of legislation for consideration per period may be set per layer of the political hierarchy that determines the number of top voted pieces of legislation that may enter the voting phase. This number can be brought to vote during any legislative cycle to be changed for the following cycle. 
+The overall piece of legislation can be voted up or down during the refinement period. A variable threshold between one and seven items of legislation for consideration per period may be set per layer of the political hierarchy that determines the number of top voted pieces of legislation that may enter the voting phase. This number can be brought to vote during any legislative cycle to be changed for the following cycle(s). 
 
 #### Vote
 During the vote phase, the top voted pieces of refined legislation are brought to vote. During this 2 week to month long time period, the legislation remains static. The **Structured Text Interface** mode is available during this phase with only commentary allowed from users. The commentary from the Refinement phase is archived to allow for a focused conversation on the version being voted on. Comment threads may be started on any piece of structured text or the legislation as a whole, facilitating lively debate that will determine whether the legislation fails or is ratified. 
@@ -161,10 +161,10 @@ LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
 bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY4NjEsImVuZCI6NjkxOX
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTMxMSwiZW5kIjo5Mz
-ExfSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
-dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3ODE0LCJlbmQiOj
-c4MTR9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTMxNCwiZW5kIjo5Mz
+E0fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
+dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3ODE3LCJlbmQiOj
+c4MTd9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
 eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
 ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6
 Ik1heWJlIG1vcmUsIGJ1dCBJIHdvdWxkIG5vdCB3YW50IGhpZ2
@@ -205,5 +205,6 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wzk0ODMxNTE4NF19
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xMjI0Njg0NDA2LD
+k0ODMxNTE4NF19
 -->
