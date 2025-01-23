@@ -8,7 +8,7 @@ In our innovative dynamic voting system, we've reimagined the democratic process
 But what truly sets our system apart is the concept of representation. Users can choose to designate 'representatives' from among their peers on the platform, entrusting them with their votes. To maintain this trust, representatives must adhere to their constituents' wishes, ensuring that users' voices are heard in the decision-making process. A user can reassign their vote in any election process while it's underway if their representative does not vote in accord with their interest, and may designate a new 'representative' at any time.
 
 ## Legislation
-What's more, our dynamic voting system encourages active engagement in the legislative process. Anyone can propose ideas for new laws or changes to existing ones, promoting inclusivity. These proposals undergo community discussion and can be upvoted, and good representatives play a pivotal role by identifying and enhancing promising legislation for broader consideration.
+ dynamic voting system encourages active engagement in the legislative process. Anyone can propose ideas for new laws or changes to existing ones, promoting inclusivity. These proposals undergo community discussion and can be upvoted, and good representatives play a pivotal role by identifying and enhancing promising legislation for broader consideration.
 
 We've also implemented a multi-tiered hierarchical structure, mirroring the layers of government, with legislation always starting at the municipal level. This approach ensures that laws are grounded in local needs while still allowing for broader perspectives as they ascend the hierarchy.
 
@@ -154,3 +154,57 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 5. **Secure Identity Verification:** Blockchain can facilitate secure identity verification during participant registration. A user's identifiable documents, such as SSN card, Passport, or Driver's License, once verified, and linked with facial recognition biometric data which is then tied to their unique cryptographic key, ensuring a secure and reliable authentication process and record of certified actions on the platform.
 
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
+<!--stackedit_data:
+eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
+RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2NjAzLCJlbmQiOjY2MDh9
+LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
+FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
+bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY4MDcsImVuZCI6Njg2NX
+0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTI1NywiZW5kIjo5Mj
+U3fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
+dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3NzYwLCJlbmQiOj
+c3NjB9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
+eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
+ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6
+Ik1heWJlIG1vcmUsIGJ1dCBJIHdvdWxkIG5vdCB3YW50IGhpZ2
+hseSBlbmdhZ2VkIHVzZXJzIGJlaW5nIGFibGUgdG8gYWJ1c2Ug
+dGhlIHN5c3RlbSBieSBwdXNoaW5nIHRocm91Z2ggbG90cyBvZi
+BsZWdpc2xhdGlvbiBkdXJpbmcgdGltZXMgd2hlbiBmZXcgdXNl
+cnMgYXJlIGFibGUgdG8gZW5nYWdlLiIsImNyZWF0ZWQiOjE3MD
+Q2NjA2MDc2NDd9LCJmWElOWlluNnQzOG5qZlFEIjp7ImRpc2N1
+c3Npb25JZCI6IjRMUDdXalJmRWxZNm1KZ04iLCJzdWIiOiJnbz
+oxMDEwMTI4NzgxMjU2NjgyMjQyMTQiLCJ0ZXh0IjoiUG9zc2li
+bHkgYWxzbyBhIGZlYXR1cmUgdG8gYnJpbmcgdG8gdm90ZSBzY2
+hlZHVsZWQgY2hhbmdlcyBvZiB0aGUgdGhyZXNob2xkIGFjcm9z
+cyBhIHNwZWNpZmljIHRpbWUgc3BhbiBiYXNlZCBvbiB0aGUgYX
+ZhaWxhYmlsaXR5L2VuZ2FnZW1lbnQgb2YgdGhlIHBvcHVsYWNl
+IGR1cmluZyBkaWZmZXJlbnQgdGltZXMgb2YgeWVhciBldGMiLC
+JjcmVhdGVkIjoxNzA0NjYwODQyNDkxfSwibVdsNE9LdnJKWlV6
+WWxpeSI6eyJkaXNjdXNzaW9uSWQiOiI0cDB6ZkJudTdhS2hvaz
+BjIiwic3ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0Iiwi
+dGV4dCI6IlN1Y2Nlc3MgLyBGYWlsdXJlIHdpbGwgbmVlZCB0by
+B0YWtlIGludG8gYWNjb3VudCBzb21lIHN0YXRpc3RpY2FsIG1v
+ZGVsaW5nIG9mIHRoZSBwYXJ0aWNpcGF0aW5nIGVsZWN0b3JhdG
+UsIHRoZSBxdWFudGl0eSBvZiB2b3RlcyBjb3VudGVkLCBtZWFz
+dXJlZCBhZ2FpbnN0IGFuIGF2ZXJhZ2Ugb2YgcmVjZW50IHZvdG
+VzIGNvdW50ZWQuIERldGVybWluaW5nIHdoYXQgcGFzc2VzIGFu
+ZCB3aGF0IGRvZXNuJ3QgYmFzZWQgb24gdGhlIG51bWJlciBvZi
+B2b3RlcyB3aXRoaW4gYSB2b3RpbmcgYm9keSBpcyBnb2luZyB0
+byBiZSBhIGNyaXRpY2FsIGFuZCBjb21wbGV4IGZlYXR1cmUgdG
+8gc29ydCBvdXQiLCJjcmVhdGVkIjoxNzA0NjY1NTMyMzgxfSwi
+Y0wzM0ZneWN4clRXTXJBNSI6eyJkaXNjdXNzaW9uSWQiOiJ0RG
+hQc3F5c3Jpc0xtZTNXIiwic3ViIjoiZ286MTAxMDEyODc4MTI1
+NjY4MjI0MjE0IiwidGV4dCI6IlN1Y2Nlc3MgLyBGYWlsdXJlIH
+dpbGwgbmVlZCB0byB0YWtlIGludG8gYWNjb3VudCBzb21lIHN0
+YXRpc3RpY2FsIG1vZGVsaW5nIG9mIHRoZSBwYXJ0aWNpcGF0aW
+5nIGVsZWN0b3JhdGUsIHRoZSBxdWFudGl0eSBvZiB2b3RlcyBj
+b3VudGVkLCBtZWFzdXJlZCBhZ2FpbnN0IGFuIGF2ZXJhZ2Ugb2
+YgcmVjZW50IHZvdGVzIGNvdW50ZWQuIERldGVybWluaW5nIHdo
+YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
+B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
+b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
+BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0yNTYyMjU4NzldfQ
+==
+-->
