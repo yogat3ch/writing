@@ -126,7 +126,7 @@ One key feature of this wizard is a questionnaire reminiscent of popular platfor
 
 Importantly, users have the freedom to answer as many or as few questions as they like, allowing for a flexible and personalized onboarding process. After completing the questionnaire, users will receive suggested representatives based on the percentage of alignment of their answers with those of other users. Any user is a potential representative for another user. Additionally, a data visualization shows the percentage of alignment with the entire perspective of a proposed representative across all **topic areas**.  With this information a user can identify **topic area**s that may not align with their suggested **representative** and find another **representative** for that **topic area** who better represents their values.
 
-A **representative** can be any other user on the platform who's opted in to being a representative, to which a user delegates their vote. The **representative**s vote casts as many votes in an election as they have constituents eg other users who've allocated their vote to them.  Any user can delegate their vote to any representative at any time. If a user is absent and they have delegated their vote to a **representative** the **representative**s vote counts as their own plus the votes delegated to them as a **representative*. If a user becomes active after a period of absence and casts votes on a piece of legislation in an election cycle, the vote on that piece of legislation is automatically removed from their **representative's**' vote count, though they may still elect to have that person as their representative. 
+A **representative** can be any other user on the platform who's opted in to being a representative, to which a user delegates their vote. The **representative**s vote casts as many votes in an election as they have constituents eg other users who've allocated their vote to them.  Any user can delegate their vote to any representative at any time. If a user is absent and they have delegated their vote to a **representative** the **representative**s vote counts as their own plus the votes delegated to them as a **representative**. If a user becomes active after a period of absence and casts votes on a piece of legislation in an election cycle, the vote on that piece of legislation is automatically removed from their **representative's**' vote count, though they may still elect to have that person as their representative. 
 
 In order to provide full transparency to users, every person that opts to act as a **representative** will have all of their multiple choice answers, their entire voting history, and their legislative proposals, amendments, and active legislation made public and searchable. This will allow users to continuously determine whether their representatives are aligned with their interests.
 
@@ -153,57 +153,3 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 5. **Secure Identity Verification:** Blockchain can facilitate secure identity verification during participant registration. A user's identifiable documents, such as SSN card, Passport, or Driver's License, once verified, and linked with facial recognition biometric data which is then tied to their unique cryptographic key, ensuring a secure and reliable authentication process and record of certified actions on the platform.
 
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
-<!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2NjU3LCJlbmQiOjY2NjJ9
-LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
-FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY4NjEsImVuZCI6NjkxOX
-0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTMxNCwiZW5kIjo5Mz
-E0fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
-dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3ODE3LCJlbmQiOj
-c4MTd9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
-eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
-ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6
-Ik1heWJlIG1vcmUsIGJ1dCBJIHdvdWxkIG5vdCB3YW50IGhpZ2
-hseSBlbmdhZ2VkIHVzZXJzIGJlaW5nIGFibGUgdG8gYWJ1c2Ug
-dGhlIHN5c3RlbSBieSBwdXNoaW5nIHRocm91Z2ggbG90cyBvZi
-BsZWdpc2xhdGlvbiBkdXJpbmcgdGltZXMgd2hlbiBmZXcgdXNl
-cnMgYXJlIGFibGUgdG8gZW5nYWdlLiIsImNyZWF0ZWQiOjE3MD
-Q2NjA2MDc2NDd9LCJmWElOWlluNnQzOG5qZlFEIjp7ImRpc2N1
-c3Npb25JZCI6IjRMUDdXalJmRWxZNm1KZ04iLCJzdWIiOiJnbz
-oxMDEwMTI4NzgxMjU2NjgyMjQyMTQiLCJ0ZXh0IjoiUG9zc2li
-bHkgYWxzbyBhIGZlYXR1cmUgdG8gYnJpbmcgdG8gdm90ZSBzY2
-hlZHVsZWQgY2hhbmdlcyBvZiB0aGUgdGhyZXNob2xkIGFjcm9z
-cyBhIHNwZWNpZmljIHRpbWUgc3BhbiBiYXNlZCBvbiB0aGUgYX
-ZhaWxhYmlsaXR5L2VuZ2FnZW1lbnQgb2YgdGhlIHBvcHVsYWNl
-IGR1cmluZyBkaWZmZXJlbnQgdGltZXMgb2YgeWVhciBldGMiLC
-JjcmVhdGVkIjoxNzA0NjYwODQyNDkxfSwibVdsNE9LdnJKWlV6
-WWxpeSI6eyJkaXNjdXNzaW9uSWQiOiI0cDB6ZkJudTdhS2hvaz
-BjIiwic3ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0Iiwi
-dGV4dCI6IlN1Y2Nlc3MgLyBGYWlsdXJlIHdpbGwgbmVlZCB0by
-B0YWtlIGludG8gYWNjb3VudCBzb21lIHN0YXRpc3RpY2FsIG1v
-ZGVsaW5nIG9mIHRoZSBwYXJ0aWNpcGF0aW5nIGVsZWN0b3JhdG
-UsIHRoZSBxdWFudGl0eSBvZiB2b3RlcyBjb3VudGVkLCBtZWFz
-dXJlZCBhZ2FpbnN0IGFuIGF2ZXJhZ2Ugb2YgcmVjZW50IHZvdG
-VzIGNvdW50ZWQuIERldGVybWluaW5nIHdoYXQgcGFzc2VzIGFu
-ZCB3aGF0IGRvZXNuJ3QgYmFzZWQgb24gdGhlIG51bWJlciBvZi
-B2b3RlcyB3aXRoaW4gYSB2b3RpbmcgYm9keSBpcyBnb2luZyB0
-byBiZSBhIGNyaXRpY2FsIGFuZCBjb21wbGV4IGZlYXR1cmUgdG
-8gc29ydCBvdXQiLCJjcmVhdGVkIjoxNzA0NjY1NTMyMzgxfSwi
-Y0wzM0ZneWN4clRXTXJBNSI6eyJkaXNjdXNzaW9uSWQiOiJ0RG
-hQc3F5c3Jpc0xtZTNXIiwic3ViIjoiZ286MTAxMDEyODc4MTI1
-NjY4MjI0MjE0IiwidGV4dCI6IlN1Y2Nlc3MgLyBGYWlsdXJlIH
-dpbGwgbmVlZCB0byB0YWtlIGludG8gYWNjb3VudCBzb21lIHN0
-YXRpc3RpY2FsIG1vZGVsaW5nIG9mIHRoZSBwYXJ0aWNpcGF0aW
-5nIGVsZWN0b3JhdGUsIHRoZSBxdWFudGl0eSBvZiB2b3RlcyBj
-b3VudGVkLCBtZWFzdXJlZCBhZ2FpbnN0IGFuIGF2ZXJhZ2Ugb2
-YgcmVjZW50IHZvdGVzIGNvdW50ZWQuIERldGVybWluaW5nIHdo
-YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
-B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
-b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
-BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE4Njc4NDcwNjMsLT
-EyMjQ2ODQ0MDYsOTQ4MzE1MTg0XX0=
--->
