@@ -8,9 +8,9 @@ In our innovative dynamic voting system, we've reimagined the democratic process
 But what truly sets our system apart is the concept of representation. Users can choose to designate 'representatives' from among their peers on the platform, entrusting them with their votes. To maintain this trust, representatives must adhere to their constituents' wishes, ensuring that users' voices are heard in the decision-making process. A user can reassign their vote in any election process while it's underway if their representative does not vote in accord with their interest, and may designate a new 'representative' at any time.
 
 ## Legislation
- dynamic voting system encourages active engagement in the legislative process. Anyone can propose ideas for new laws or changes to existing ones, promoting inclusivity. These proposals undergo community discussion and can be upvoted, and good representatives play a pivotal role by identifying and enhancing promising legislation for broader consideration.
+ dynamic voting system encourages active engagement in the legislative process. Anyone can propose ideas for new laws or changes to existing ones, promoting inclusivity. These proposals undergo community discussion and can be upvoted. Users play a pivotal role with upvotes by identifying and enhancing promising legislation for broader consideration.
 
-We've also implemented a multi-tiered hierarchical structure, mirroring the layers of government, with legislation always starting at the municipal level. This approach ensures that laws are grounded in local needs while still allowing for broader perspectives as they ascend the hierarchy.
+The system is architected as a multi-tiered hierarchical structure, mirroring the layers of government, with legislation always starting at the municipal level. This approach ensures that laws are grounded in local needs while still allowing for broader perspectives as they ascend the hierarchy.
 
 In line with our commitment to transparency, all proposed legislation must be single-topic, easily understandable to high school-educated individuals. AI technology scans bills for unrelated riders, safeguarding against deception in legislative referendums. Additionally, our platform dynamically collates proposed legislation with existing laws in the same **topic area**, providing voters with comprehensive context and enabling informed decisions.
 
@@ -205,6 +205,6 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0yNTYyMjU4NzldfQ
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy04MDc0ODU1NjhdfQ
 ==
 -->
