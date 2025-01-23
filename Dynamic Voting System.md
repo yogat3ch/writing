@@ -25,7 +25,7 @@ Our legislative process is divided into six distinct phases, each serving a spec
     
 4.  **Recycle | Ratify**: Depending on the outcome of the vote, proposals follow one of two paths. Those that are not approved can be recycled back into the legislative process, giving participants the opportunity to revise and resubmit them. Approved proposals are ratified and become part of the body of ratified legislation for the given **topic area**, shaping the rules and regulations.
     
-5.  **Enactment**: Enacted legislation enters a dedicated application designed for individual taxpayers to . Here, taxpayers have the ability to allocate their taxes and coordinate the assignment of teams to implement the legislation effectively. This phase ensures that the laws passed are put into action with the necessary resources and coordination. The tax allocation and implementation app is outside the scope of this idea but will be forthcoming.
+5.  **Enactment**: Enacted legislation enters a dedicated application designed for individual taxpayers to allocate budget for the implementation. Here, taxpayers have the ability to allocate their taxes and coordinate the assignment of teams to implement the legislation effectively. This phase ensures that the laws passed are put into action with the necessary resources and coordination. The tax allocation and implementation app is outside the scope of this idea but will be forthcoming.
     
 6.  **Retirement | Recycle**: Legislation that reaches its expiry date faces a decision point. It can either be recycled, allowing its implementors to re-enter the legislative process with updated proposals, or retired. In the retirement phase, the legislation is archived, and the teams responsible for its implementation are disbanded. This process streamlines the legislative framework and maintains relevance over time.
     
@@ -154,57 +154,3 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 5. **Secure Identity Verification:** Blockchain can facilitate secure identity verification during participant registration. A user's identifiable documents, such as SSN card, Passport, or Driver's License, once verified, and linked with facial recognition biometric data which is then tied to their unique cryptographic key, ensuring a secure and reliable authentication process and record of certified actions on the platform.
 
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
-<!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2NjEzLCJlbmQiOjY2MTh9
-LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
-FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY4MTcsImVuZCI6Njg3NX
-0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTI2NywiZW5kIjo5Mj
-Y3fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
-dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3NzcwLCJlbmQiOj
-c3NzB9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
-eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
-ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6
-Ik1heWJlIG1vcmUsIGJ1dCBJIHdvdWxkIG5vdCB3YW50IGhpZ2
-hseSBlbmdhZ2VkIHVzZXJzIGJlaW5nIGFibGUgdG8gYWJ1c2Ug
-dGhlIHN5c3RlbSBieSBwdXNoaW5nIHRocm91Z2ggbG90cyBvZi
-BsZWdpc2xhdGlvbiBkdXJpbmcgdGltZXMgd2hlbiBmZXcgdXNl
-cnMgYXJlIGFibGUgdG8gZW5nYWdlLiIsImNyZWF0ZWQiOjE3MD
-Q2NjA2MDc2NDd9LCJmWElOWlluNnQzOG5qZlFEIjp7ImRpc2N1
-c3Npb25JZCI6IjRMUDdXalJmRWxZNm1KZ04iLCJzdWIiOiJnbz
-oxMDEwMTI4NzgxMjU2NjgyMjQyMTQiLCJ0ZXh0IjoiUG9zc2li
-bHkgYWxzbyBhIGZlYXR1cmUgdG8gYnJpbmcgdG8gdm90ZSBzY2
-hlZHVsZWQgY2hhbmdlcyBvZiB0aGUgdGhyZXNob2xkIGFjcm9z
-cyBhIHNwZWNpZmljIHRpbWUgc3BhbiBiYXNlZCBvbiB0aGUgYX
-ZhaWxhYmlsaXR5L2VuZ2FnZW1lbnQgb2YgdGhlIHBvcHVsYWNl
-IGR1cmluZyBkaWZmZXJlbnQgdGltZXMgb2YgeWVhciBldGMiLC
-JjcmVhdGVkIjoxNzA0NjYwODQyNDkxfSwibVdsNE9LdnJKWlV6
-WWxpeSI6eyJkaXNjdXNzaW9uSWQiOiI0cDB6ZkJudTdhS2hvaz
-BjIiwic3ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0Iiwi
-dGV4dCI6IlN1Y2Nlc3MgLyBGYWlsdXJlIHdpbGwgbmVlZCB0by
-B0YWtlIGludG8gYWNjb3VudCBzb21lIHN0YXRpc3RpY2FsIG1v
-ZGVsaW5nIG9mIHRoZSBwYXJ0aWNpcGF0aW5nIGVsZWN0b3JhdG
-UsIHRoZSBxdWFudGl0eSBvZiB2b3RlcyBjb3VudGVkLCBtZWFz
-dXJlZCBhZ2FpbnN0IGFuIGF2ZXJhZ2Ugb2YgcmVjZW50IHZvdG
-VzIGNvdW50ZWQuIERldGVybWluaW5nIHdoYXQgcGFzc2VzIGFu
-ZCB3aGF0IGRvZXNuJ3QgYmFzZWQgb24gdGhlIG51bWJlciBvZi
-B2b3RlcyB3aXRoaW4gYSB2b3RpbmcgYm9keSBpcyBnb2luZyB0
-byBiZSBhIGNyaXRpY2FsIGFuZCBjb21wbGV4IGZlYXR1cmUgdG
-8gc29ydCBvdXQiLCJjcmVhdGVkIjoxNzA0NjY1NTMyMzgxfSwi
-Y0wzM0ZneWN4clRXTXJBNSI6eyJkaXNjdXNzaW9uSWQiOiJ0RG
-hQc3F5c3Jpc0xtZTNXIiwic3ViIjoiZ286MTAxMDEyODc4MTI1
-NjY4MjI0MjE0IiwidGV4dCI6IlN1Y2Nlc3MgLyBGYWlsdXJlIH
-dpbGwgbmVlZCB0byB0YWtlIGludG8gYWNjb3VudCBzb21lIHN0
-YXRpc3RpY2FsIG1vZGVsaW5nIG9mIHRoZSBwYXJ0aWNpcGF0aW
-5nIGVsZWN0b3JhdGUsIHRoZSBxdWFudGl0eSBvZiB2b3RlcyBj
-b3VudGVkLCBtZWFzdXJlZCBhZ2FpbnN0IGFuIGF2ZXJhZ2Ugb2
-YgcmVjZW50IHZvdGVzIGNvdW50ZWQuIERldGVybWluaW5nIHdo
-YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
-B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
-b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
-BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy04Mjc1NjI5NDYsLT
-gwNzQ4NTU2OF19
--->
