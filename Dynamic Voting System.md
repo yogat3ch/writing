@@ -10,9 +10,9 @@ But what truly sets our system apart is the concept of representation. Users can
 ## Legislation
  dynamic voting system encourages active engagement in the legislative process. Anyone can propose ideas for new laws or changes to existing ones, promoting inclusivity. These proposals undergo community discussion and can be upvoted. Users play a pivotal role with upvotes by identifying and enhancing promising legislation for broader consideration.
 
-The system is architected as a multi-tiered hierarchical structure, mirroring the layers of government, with legislation always starting at the municipal level. This approach ensures that laws are grounded in local needs while still allowing for broader perspectives as they ascend the hierarchy.
+The system is architected as a multi-tiered hierarchical structure, mirroring the layers of government, with legislation always starting at the municipal level. This approach ensures that laws are grounded in local needs while allowing for broader perspectives as they ascend the hierarchy.
 
-In line with our commitment to transparency, all proposed legislation must be single-topic, easily understandable to high school-educated individuals. AI technology scans bills for unrelated riders, safeguarding against deception in legislative referendums. Additionally, our platform dynamically collates proposed legislation with existing laws in the same **topic area**, providing voters with comprehensive context and enabling informed decisions.
+In line with our commitment to transparency, all proposed legislation must be single-topic, easily understandable to high school-educated individuals. AI technology scans bills for unrelated riders, safeguarding against deception in legislative referendums. Additionally, our platform dynamically collates proposed legislation with existing laws in the same **topic area** for display, providing voters with comprehensive context and enabling informed decisions.
 
 ### Legislative Cycle
 Our legislative process is divided into six distinct phases, each serving a specific purpose and contributing to the evolution of high quality laws, policy and government services.
@@ -25,7 +25,7 @@ Our legislative process is divided into six distinct phases, each serving a spec
     
 4.  **Recycle | Ratify**: Depending on the outcome of the vote, proposals follow one of two paths. Those that are not approved can be recycled back into the legislative process, giving participants the opportunity to revise and resubmit them. Approved proposals are ratified and become part of the body of ratified legislation for the given **topic area**, shaping the rules and regulations.
     
-5.  **Enactment**: Enacted legislation enters a dedicated application designed for individual taxpayers. Here, taxpayers have the ability to allocate their taxes and coordinate the assignment of teams to implement the legislation effectively. This phase ensures that the laws passed are put into action with the necessary resources and coordination. The tax allocation and implementation app is outside the scope of this idea but will be forthcoming.
+5.  **Enactment**: Enacted legislation enters a dedicated application designed for individual taxpayers to . Here, taxpayers have the ability to allocate their taxes and coordinate the assignment of teams to implement the legislation effectively. This phase ensures that the laws passed are put into action with the necessary resources and coordination. The tax allocation and implementation app is outside the scope of this idea but will be forthcoming.
     
 6.  **Retirement | Recycle**: Legislation that reaches its expiry date faces a decision point. It can either be recycled, allowing its implementors to re-enter the legislative process with updated proposals, or retired. In the retirement phase, the legislation is archived, and the teams responsible for its implementation are disbanded. This process streamlines the legislative framework and maintains relevance over time.
     
@@ -156,15 +156,15 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2NjAzLCJlbmQiOjY2MDh9
+RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2NjEzLCJlbmQiOjY2MTh9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY4MDcsImVuZCI6Njg2NX
+bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjY4MTcsImVuZCI6Njg3NX
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTI1NywiZW5kIjo5Mj
-U3fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
-dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3NzYwLCJlbmQiOj
-c3NjB9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTI2NywiZW5kIjo5Mj
+Y3fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
+dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3NzcwLCJlbmQiOj
+c3NzB9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
 eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
 ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6
 Ik1heWJlIG1vcmUsIGJ1dCBJIHdvdWxkIG5vdCB3YW50IGhpZ2
@@ -205,6 +205,6 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy04MDc0ODU1NjhdfQ
-==
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy04Mjc1NjI5NDYsLT
+gwNzQ4NTU2OF19
 -->
