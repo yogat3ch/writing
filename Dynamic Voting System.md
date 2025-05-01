@@ -157,7 +157,7 @@ The **Representative Unbinding** is a mechanism to ensure that user's representa
 A pane of the app will be entitled Representatives and will provide an interface for selecting Representatives for  **topic area** s.  When a user selects a representative they also select the **topic area** s for which the representative will represent the user's vote. In the representative selection pane, there will be a sorted table of other users who've opted to serve as representatives, ranked based on the percentage of alignment between their **voting history** and answers on the **Introductory Questionnaire** as well as a navigation system to drill down on the **representative profile,** or all of the representative's activity within the app. Any user meeting the **Affinity Threshold** may opt to be a representative for another user. 
 Additionally, a data visualization shows the percentage of alignment between the entire **vote history** of the user and the representative across all **topic areas**.  With this information a user can identify **topic area** s that may not align with their suggested **representative** and find another **representative** for that **topic area** who better represents their values. 
 
-In order to provide full transparency to users, every person that opts to act as a **representative** will have all of their **intro questionnaire** answers, their entire voting history, and their legislative proposals, amendments, and active legislation made public and searchable. This will allow users to continuously determine whether their representatives are aligned with their interests.
+In order to provide full transparency to users, every person that opts to act as a **representative** will have all of their **intro questionnaire** answers, their entire **voting history**, and their **legislative proposals**, **amendments**, and **active legislation** made public and searchable. This will allow users to continuously determine whether their representatives are aligned with their interests.
 
 The final part of the wizard introduces the currently designated political **topic area** s and the time of year in which each **topic area** comes for a vote. A user can set granular notifications for each **topic area** to stay abreast of proposed legislation in the given **topic area**, or to be notified when a **topic area** enters a phase of the **legislative cycle**.
 
@@ -239,6 +239,6 @@ IjoxNzA0NjY1NzU3NDg0fSwiRkdDdnVkTHJwM3hUVlJseCI6ey
 JkaXNjdXNzaW9uSWQiOiJ5U2dMeXhhY1haZUJUOEMwIiwic3Vi
 IjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6Ik
 FuY2hvciBsaW5rIHRoaXMiLCJjcmVhdGVkIjoxNzQ2MTA0ODQy
-MTk4fX0sImhpc3RvcnkiOlsxOTEyMjExMTA2LC01ODA5ODIzOT
-ldfQ==
+MTk4fX0sImhpc3RvcnkiOlsxNjQ2MTk1NjE4LDE5MTIyMTExMD
+YsLTU4MDk4MjM5OV19
 -->
