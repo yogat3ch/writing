@@ -48,7 +48,7 @@ This interface is derived from an algorithmic parsing of the legislation into st
 - voted up or down
 
 Ultimately, only proposers or amenders are granted edit permissions to make changes to the legislation, but community feedback in these forms may be used to guide the modifications. 
-During the refinement phase, readers are encouraged to highlight critical components of the legislation. The hihighlights are aggregated and use 
+During the refinement phase, readers are encouraged to highlight critical components of the legislation. These highlights are then used for [abuse prevention](#abuse prevention).
 
 ##### Popularity Voting
 The overall piece of legislation can be voted up or down during the refinement period. A variable threshold between one and seven items of legislation for consideration per period may be set per layer of the political hierarchy that determines the number of top voted pieces of legislation that may enter the voting phase. This number can be brought to vote during any legislative cycle to be changed for the following cycle(s). 
@@ -101,7 +101,8 @@ The voting section of our platform is designed for intuitive navigation and effi
 This thoughtful layout ensures that users can navigate, engage with, and make informed decisions on legislative matters with ease within the dynamic voting system.
 
 ### Abuse Prevention
-Each piece of legislation is 
+To qualify to vote on a piece of legislation, each person must pass a 
+The sections are prioritized based are aggregated and use 
 
 
 ###  Timing of Cycles
@@ -160,15 +161,15 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2ODAzLCJlbmQiOjY4MDh9
+RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2ODM2LCJlbmQiOjY4NDF9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjcwMDcsImVuZCI6NzA2NX
+bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjcwNDAsImVuZCI6NzA5OH
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTQ2MCwiZW5kIjo5ND
-YwfSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
-dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3OTYzLCJlbmQiOj
-c5NjN9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTQ5MywiZW5kIjo5ND
+kzfSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
+dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3OTk2LCJlbmQiOj
+c5OTZ9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEzVHJjTCI6
 eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPODhQIiwic3
 ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6
 Ik1heWJlIG1vcmUsIGJ1dCBJIHdvdWxkIG5vdCB3YW50IGhpZ2
@@ -209,5 +210,6 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wzg1MjI3Njk2XX0=
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xNTk5NTgxNzM2XX
+0=
 -->
