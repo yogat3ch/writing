@@ -136,8 +136,13 @@ One key feature of this wizard is a questionnaire reminiscent of popular platfor
 
 Importantly, users have the freedom to answer as many or as few questions as they like, allowing for a flexible and personalized onboarding process. After completing the questionnaire, users will receive suggested legislation to participate in the refinement of, or vote on.
 
-#### Affinity Thresholds
-In order to mitigate the deleterious effect that the popularity contest effect of social media can have on democracy we've devised a system of affinity thresholds and periodic unbinding 
+### Abuse Prevention
+The allocation of votes to representatives is subject to abuse via influencer popularity. Anyone with a great deal of social media influence can potentially aggregate undue influence in elections if anyone can sign up for the system and allocate their vote to a representative immediately and never return to the app. 
+
+#### Affinity Thresholds & Periodic Unbinding
+In order to mitigate the deleterious effect that the popularity contest effect of social media can have on democracy we've devised a system of affinity thresholds and periodic unbinding of representation. 
+
+
 
 
 representatives based on the percentage of alignment of their answers with those of other users. Any user is a potential representative for another user. Additionally, a data visualization shows the percentage of alignment with the entire perspective of a proposed representative across all **topic areas**.  With this information a user can identify **topic area**s that may not align with their suggested **representative** and find another **representative** for that **topic area** who better represents their values.
@@ -150,8 +155,8 @@ The final part of the wizard introduces the currently designated political **top
 
 This introductory wizard not only simplifies the user experience but also empowers users to make informed choices and engage meaningfully with the dynamic representation system, enhancing their participation in the democratic process.
 
-### Abuse Prevention
-The allocation of votes to representatives is also subject to abuse via influencer popularity. Anyone with a great deal of social media influence can potentially aggregate undue influence in elections if anyone can sign up for the system and allocate their vote to a representative immediately and never return to the app. 
+
+
 
 
 
@@ -225,6 +230,6 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE4OTI3Nzg5NjUsLT
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy01NTQ5MzE2NDUsLT
 U4MDk4MjM5OV19
 -->
