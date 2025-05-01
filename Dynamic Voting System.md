@@ -129,6 +129,8 @@ In our dynamic voting system, participants have the flexibility to abstain from 
 
 
 ## Representation
+A **representative** can be any other user on the platform who's opted in to being a representative, to which a user delegates their vote. The **representative**'s vote casts as many votes in an election as they have constituents eg other users who've allocated their vote to them.  Any user meeting the **Affinity Threshold** can delegate their vote to any representative at any time. If a user is absent and they have delegated their vote to a **representative** the **representative** s vote counts as their own plus the votes delegated to them as a **representative**. If a user becomes active after a period of absence and casts votes on a piece of legislation in an election cycle, the vote on that piece of legislation is automatically removed from their **representative's**' vote count, though they may still elect to have that person as their representative. 
+
 ### Newcomer Wizard Intro
 For newcomers to our platform, we've designed an intuitive wizard introduction that simplifies the dynamic representative system. Upon joining, users are greeted by a step-by-step guide that explains how the dynamic voting system works. This introductory wizard aims to make their experience seamless and informative.
 
@@ -149,10 +151,9 @@ hierarchy will set it's **Affinity Threshold** which is a set of criteria a user
 
 Once the **Affinity Threshold** criteria for that layer of the political hierarchy are met the user can then select a representative. 
 
-The **Representative Unbinding** is a mechanism to ensure that user's representative selections con
+The **Representative Unbinding** is a mechanism to ensure that user's representative selections continue to reflect their values as the representative votes. As a representative votes, all of their **constituents** or 
 
 ### Selecting a representative
-A **representative** can be any other user on the platform who's opted in to being a representative, to which a user delegates their vote. The **representative**'s vote casts as many votes in an election as they have constituents eg other users who've allocated their vote to them.  Any user meeting the **Affinity Threshold** can delegate their vote to any representative at any time. If a user is absent and they have delegated their vote to a **representative** the **representative**s vote counts as their own plus the votes delegated to them as a **representative**. If a user becomes active after a period of absence and casts votes on a piece of legislation in an election cycle, the vote on that piece of legislation is automatically removed from their **representative's**' vote count, though they may still elect to have that person as their representative. 
 
 A pane of the app will be entitled Representatives and will provide an interface for selecting Representatives for  **topic area** s.  In the representative selection pane, there will be a sorted table of other users who've opted to serve as representatives, ranked based on the percentage of alignment between their **voting history** and answers on the **Introductory Questionnaire** as well as a navigation system to drill down on the **representative profile,** or all of the representative's activity within the app. Any user meeting the **Affinity Threshold** may opt to be a potential representative for another user. 
 Additionally, a data visualization shows the percentage of alignment with the entire perspective of a proposed representative across all **topic areas**.  With this information a user can identify **topic area**s that may not align with their suggested **representative** and find another **representative** for that **topic area** who better represents their values.
@@ -238,6 +239,6 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE3MDk2OTAyMTcsLT
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzIwOTU3ODM5OTIsLT
 U4MDk4MjM5OV19
 -->
