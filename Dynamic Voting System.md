@@ -139,7 +139,7 @@ Importantly, users have the freedom to answer as many or as few questions as the
 ### Abuse Prevention
 The allocation of votes to representatives is subject to abuse via influencer popularity. Anyone with a great deal of social media influence can potentially aggregate undue influence in elections if anyone can sign up for the system and allocate their vote to a representative immediately and never return to the app. 
 
-#### Affinity Thresholds & Periodic Unbinding
+#### Affinity Thresholds & Representative Unbinding
 In order to mitigate the deleterious effect that the popularity contest effect of social media can have on democracy we've devised a system of affinity thresholds and periodic unbinding of representation. 
 After completing the intro wizard the user will receive suggested legislation pertinent to their priority **topic areas** such that they can begin to engage in the democratic process. All activity in the app is tracked, from proposing, to commenting, and voting. Each layer of the
 hierarchy will set it's **Affinity Threshold** which is a set of criteria a user must qualify for in order to allocate their vote to a representative. Possible criteria could be:
@@ -149,7 +149,7 @@ hierarchy will set it's **Affinity Threshold** which is a set of criteria a user
 
 Once the **Affinity Threshold** criteria for that layer of the political hierarchy are met the user can then select a representative. 
 
-The **Periodic Unbinding** is a regularly recurring reset of the 
+The **Representative Unbinding** is a mechanism to ensure that user's representative selections con
 
 ### Selecting a representative
 A **representative** can be any other user on the platform who's opted in to being a representative, to which a user delegates their vote. The **representative**'s vote casts as many votes in an election as they have constituents eg other users who've allocated their vote to them.  Any user meeting the **Affinity Threshold** can delegate their vote to any representative at any time. If a user is absent and they have delegated their vote to a **representative** the **representative**s vote counts as their own plus the votes delegated to them as a **representative**. If a user becomes active after a period of absence and casts votes on a piece of legislation in an election cycle, the vote on that piece of legislation is automatically removed from their **representative's**' vote count, though they may still elect to have that person as their representative. 
@@ -238,6 +238,6 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy05MDMyNjA3NzAsLT
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzE3MDk2OTAyMTcsLT
 U4MDk4MjM5OV19
 -->
