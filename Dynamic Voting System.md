@@ -99,6 +99,10 @@ The voting section of our platform is designed for intuitive navigation and effi
 
 This thoughtful layout ensures that users can navigate, engage with, and make informed decisions on legislative matters with ease within the dynamic voting system.
 
+### Abuse Prevention
+Each piece of legislation is 
+
+
 ###  Timing of Cycles
 In our dynamic voting system, the timing of voting is carefully structured to ensure fairness, participation, and to grant the ability for users to plan their participation. We implement a cyclic approach where political **topic areas** rotate in succession, each recurring at a set frequency. This deliberate scheduling allows participants to anticipate and plan their involvement in topics they care deeply about.
 
@@ -204,5 +208,6 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzUwMjE3NTMzOV19
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xNzc2MzM5NzgzXX
+0=
 -->
