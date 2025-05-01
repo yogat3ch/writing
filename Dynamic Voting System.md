@@ -151,7 +151,7 @@ hierarchy will set it's **Affinity Threshold** which is a set of criteria a user
 
 Once the **Affinity Threshold** criteria for that layer of the political hierarchy are met the user can then select a representative. 
 
-The **Representative Unbinding** is a mechanism to ensure that user's representative selections continue to reflect their values as the representative votes. As a representative votes, all of their **constituents** or 
+The **Representative Unbinding** is a mechanism to ensure that user's representative selections continue to reflect their values as the representative votes. As a representative votes, all of their **constituents** receive notifications about the representatives vote and are offered a binary choice to approve or disapprove of the vote. If a user disapproves of a representatives choice, the  vote for that user is removed from the repr
 
 ### Selecting a representative
 
@@ -245,6 +245,6 @@ IjoxNzA0NjY1NzU3NDg0fSwiRkdDdnVkTHJwM3hUVlJseCI6ey
 JkaXNjdXNzaW9uSWQiOiJ5U2dMeXhhY1haZUJUOEMwIiwic3Vi
 IjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6Ik
 FuY2hvciBsaW5rIHRoaXMiLCJjcmVhdGVkIjoxNzQ2MTA0ODQy
-MTk4fX0sImhpc3RvcnkiOlstNzAzNDcxNjAxLC01ODA5ODIzOT
-ldfQ==
+MTk4fX0sImhpc3RvcnkiOlstMTkyNDc1MDIyNiwtNTgwOTgyMz
+k5XX0=
 -->
