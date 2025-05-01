@@ -151,7 +151,7 @@ hierarchy will set it's **Affinity Threshold** which is a set of criteria a user
 
 Once the **Affinity Threshold** criteria for that layer of the political hierarchy are met the user can then select a representative. 
 
-The **Representative Unbinding** is a mechanism to ensure that user's representative selections continue to reflect their values as the representative votes. As a representative votes, all of their **constituents** receive notifications about the representatives vote and are offered a binary choice to approve or disapprove of the vote. If a user disapproves of a representatives choice while a voting window is still active, the vote for that user is removed from the representative's voting points. All of the voting record of a person's representative is logged for the user to approve or disapprove of, and a user is encouraged to log in to periodicall
+The **Representative Unbinding** is a mechanism to ensure that user's representative selections continue to reflect their values as the representative votes. As a representative votes, all of their **constituents** receive notifications about the representatives vote and are offered a binary choice to approve or disapprove of the vote. If a user disapproves of a representatives choice while a voting window is still active, the vote for that user is removed from the representative's voting points. All of the voting record of a person's representative is logged for the user to approve or disapprove of, and a user is encouraged to log in to periodically evaluate whether the representative continues to represent them faithfully if the approve/disapprove questions are not being answered for an extended period of time. Each year, if a user has 
 
 ### Selecting a representative
 
@@ -245,6 +245,6 @@ IjoxNzA0NjY1NzU3NDg0fSwiRkdDdnVkTHJwM3hUVlJseCI6ey
 JkaXNjdXNzaW9uSWQiOiJ5U2dMeXhhY1haZUJUOEMwIiwic3Vi
 IjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6Ik
 FuY2hvciBsaW5rIHRoaXMiLCJjcmVhdGVkIjoxNzQ2MTA0ODQy
-MTk4fX0sImhpc3RvcnkiOlstMTg0NzE3MjAzMywtNTgwOTgyMz
+MTk4fX0sImhpc3RvcnkiOlstMTA3OTUyMjM5NywtNTgwOTgyMz
 k5XX0=
 -->
