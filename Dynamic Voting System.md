@@ -141,7 +141,7 @@ The allocation of votes to representatives is subject to abuse via influencer po
 
 #### Affinity Thresholds & Periodic Unbinding
 In order to mitigate the deleterious effect that the popularity contest effect of social media can have on democracy we've devised a system of affinity thresholds and periodic unbinding of representation. 
-
+After completing the intro wizard the user will receive suggested legislation pertinent to their priority **topic areas** such that they can begin to engage in the democratic process. All activity in the app is tracked, from vo
 
 
 
@@ -230,6 +230,6 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy01NTQ5MzE2NDUsLT
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6WzEzMzM5NTExMTYsLT
 U4MDk4MjM5OV19
 -->
