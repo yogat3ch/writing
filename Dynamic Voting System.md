@@ -1,6 +1,6 @@
 
 
-# Dynamic Voting System
+# Dynamic Direct Democracy
 
 ## Platform Overview
 In our innovative dynamic voting system, we've reimagined the democratic process to enhance accessibility, transparency, and accountability. This cutting-edge platform allows individuals to engage in elections using their personal devices, streamlining the voting process. Upon initial registration, users' identities are verified using their social security number and/or driver's license, establishing a secure, one-time authentication process. Subsequently, they're automatically registered to vote, reducing bureaucratic hurdles and fostering broader civic participation.
