@@ -144,7 +144,8 @@ In order to mitigate the deleterious effect that the popularity contest effect o
 After completing the intro wizard the user will receive suggested legislation pertinent to their priority **topic areas** such that they can begin to engage in the democratic process. All activity in the app is tracked, from proposing, to commenting, and voting. Each layer of the
 hierarchy will set it's **Affinity Threshold** which is a set of criteria a user must qualify for in order to allocate their vote to a representative. Possible criteria could be:
 
-- P 
+- Being a proposer or amender of ratified legislation
+- Casting 40 votes on various pieces of legislation across 12 legislative cycles
 
 
 representatives based on the percentage of alignment of their answers with those of other users. Any user is a potential representative for another user. Additionally, a data visualization shows the percentage of alignment with the entire perspective of a proposed representative across all **topic areas**.  With this information a user can identify **topic area**s that may not align with their suggested **representative** and find another **representative** for that **topic area** who better represents their values.
@@ -232,6 +233,6 @@ YXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYXNlZCBvbi
 B0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBi
 b2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbX
 BsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3
-MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xMzk1NzM0MzQxLC
+MDQ2NjU3NTc0ODR9fSwiaGlzdG9yeSI6Wy0xNzMxNDM4MTk0LC
 01ODA5ODIzOTldfQ==
 -->
