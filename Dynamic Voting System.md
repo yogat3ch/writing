@@ -44,7 +44,7 @@ In the text input interface used to write and amend legislation there will be a 
 4. An AI auto-suggestion thesaurus
 
 ###### Word Count and Estimated Reading Time
-A word count and estimated reading time will be provided to the proposer in order to keep
+A word count and estimated reading time will be provided such that the drafter can be be consistently aware of the amount of time it will take a reader to completely read and comprehend the legislation. Longer and more complex legislation may prevent readers from be
 
  
 
@@ -202,16 +202,16 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo3MzkwLCJlbmQiOjczOTV9
+RleHQiOiJzZXZlbiIsInN0YXJ0Ijo3NTY3LCJlbmQiOjc1NzJ9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjc1OTQsImVuZCI6NzY1Mn
+bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjc3NzEsImVuZCI6NzgyOX
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6MTAwNDcsImVuZCI6MT
-AwNDd9LCJ0RGhQc3F5c3Jpc0xtZTNXIjp7InRleHQiOiJmYWls
-cyB0aGUgdm90aW5nIHJvdW5kIiwic3RhcnQiOjg1NTAsImVuZC
-I6ODU1MH0sInlTZ0x5eGFjWFplQlQ4QzAiOnsic3RhcnQiOjE5
-MjQ5LCJlbmQiOjE5MjcxLCJ0ZXh0IjoiKipBZmZpbml0eSBUaH
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6MTAyMjQsImVuZCI6MT
+AyMjR9LCJ0RGhQc3F5c3Jpc0xtZTNXIjp7InRleHQiOiJmYWls
+cyB0aGUgdm90aW5nIHJvdW5kIiwic3RhcnQiOjg3MjcsImVuZC
+I6ODcyN30sInlTZ0x5eGFjWFplQlQ4QzAiOnsic3RhcnQiOjE5
+NDI2LCJlbmQiOjE5NDQ4LCJ0ZXh0IjoiKipBZmZpbml0eSBUaH
 Jlc2hvbGQqKiJ9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEz
 VHJjTCI6eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPOD
 hQIiwic3ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0Iiwi
@@ -257,6 +257,6 @@ ZWQiOjE3MDQ2NjU3NTc0ODR9LCJGR0N2dWRMcnAzeFRWUmx4Ij
 p7ImRpc2N1c3Npb25JZCI6InlTZ0x5eGFjWFplQlQ4QzAiLCJz
 dWIiOiJnbzoxMDEwMTI4NzgxMjU2NjgyMjQyMTQiLCJ0ZXh0Ij
 oiQW5jaG9yIGxpbmsgdGhpcyIsImNyZWF0ZWQiOjE3NDYxMDQ4
-NDIxOTh9fSwiaGlzdG9yeSI6WzQ2NTY1MjE5Myw2ODQ1MzkwNz
-hdfQ==
+NDIxOTh9fSwiaGlzdG9yeSI6WzE3NTg1NzE3OTQsNjg0NTM5MD
+c4XX0=
 -->
