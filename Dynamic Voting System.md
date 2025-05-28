@@ -37,7 +37,8 @@ Within the legislation proposal section of the app, a disclaimer regarding the u
 The Proposing Legislation Disclaimer asserts that individuals who propose legislation, as well as those who amend legislation, assume responsibility for implementing or facilitating the implementation of the proposed legislation, provided that the legislation is adequately funded in the Ratify and Enactment phases and provided that the proposers and amenders are able to coordinate or contract to successfully enact the legislation. This step ensures that proposers are aware of the implications of their proposals and are committed to seeing them through to implementation. This disclaimer serves as a critical component of the legislative process, emphasizing the importance of responsibility and accountability in shaping the laws of the community.
 
 ##### Flesch-kincaid Threshold
-All proposed legislation must 
+In the text input interface used to write and amend legislation there will be a number of support widgets to assist with the drafting process. These supporting widgets are as follows:
+1. A word count 
 
  
 
@@ -195,16 +196,16 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2OTk1LCJlbmQiOjcwMDB9
+RleHQiOiJzZXZlbiIsInN0YXJ0Ijo3MTY1LCJlbmQiOjcxNzB9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjcxOTksImVuZCI6NzI1N3
+bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjczNjksImVuZCI6NzQyN3
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTY1MiwiZW5kIjo5Nj
-UyfSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
-dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo4MTU1LCJlbmQiOj
-gxNTV9LCJ5U2dMeXhhY1haZUJUOEMwIjp7InN0YXJ0IjoxODg1
-NCwiZW5kIjoxODg3NiwidGV4dCI6IioqQWZmaW5pdHkgVGhyZX
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTgyMiwiZW5kIjo5OD
+IyfSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
+dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo4MzI1LCJlbmQiOj
+gzMjV9LCJ5U2dMeXhhY1haZUJUOEMwIjp7InN0YXJ0IjoxOTAy
+NCwiZW5kIjoxOTA0NiwidGV4dCI6IioqQWZmaW5pdHkgVGhyZX
 Nob2xkKioifX0sImNvbW1lbnRzIjp7IkcwRWNXNU9kNDFBM1Ry
 Y0wiOnsiZGlzY3Vzc2lvbklkIjoiV2trQk1kM2luWmZiTzg4UC
 IsInN1YiI6ImdvOjEwMTAxMjg3ODEyNTY2ODIyNDIxNCIsInRl
@@ -250,6 +251,6 @@ IjoxNzA0NjY1NzU3NDg0fSwiRkdDdnVkTHJwM3hUVlJseCI6ey
 JkaXNjdXNzaW9uSWQiOiJ5U2dMeXhhY1haZUJUOEMwIiwic3Vi
 IjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6Ik
 FuY2hvciBsaW5rIHRoaXMiLCJjcmVhdGVkIjoxNzQ2MTA0ODQy
-MTk4fX0sImhpc3RvcnkiOlstMTI0OTc0MDYyMyw2ODQ1MzkwNz
-hdfQ==
+MTk4fX0sImhpc3RvcnkiOlsxNzMzNDMxNjM3LDY4NDUzOTA3OF
+19
 -->
