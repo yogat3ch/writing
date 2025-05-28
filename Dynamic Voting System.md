@@ -12,6 +12,16 @@ The dynamic voting system encourages active engagement in the legislative proces
 
 The system is architected as a multi-tiered hierarchical structure, mirroring the layers of government, with legislation always starting at the municipal level. This approach ensures that laws are grounded in local needs while allowing for broader perspectives as they ascend the hierarchy.
 
+The levels of the hierarchy are as follows:
+| **Level**         | **Common Name**        | **Scope**                                |
+|-------------------|------------------------|-------------------------------------------|
+| 1. Local          | Municipal              | Neighborhood and city/town affairs        |
+| 2. Regional-Local | County/District        | Services spanning multiple municipalities |
+| 3. Mid-Level      | State/Province         | Large-scale infrastructure, education     |
+| 4. Meta-Regional  | Regional (if applicable)| Inter-state/local coordination            |
+| 5. National       | Federal/National       | Defense, diplomacy, constitutional matters|
+ 
+
 In line with our commitment to transparency, all proposed legislation must be single-topic, easily understandable to high school-educated individuals. AI technology scans bills for unrelated riders, safeguarding against deception in legislative referendums. Additionally, our platform dynamically collates proposed legislation with existing laws in the same **topic area** for display, providing voters with comprehensive context and enabling informed decisions.
 
 ### Legislative Cycle
@@ -204,61 +214,61 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo4MzgyLCJlbmQiOjgzODd9
+RleHQiOiJzZXZlbiIsInN0YXJ0Ijo5MDY2LCJlbmQiOjkwNzF9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjg1ODYsImVuZCI6ODY0NH
+bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjkyNzAsImVuZCI6OTMyOH
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6MTEwMzksImVuZCI6MT
-EwMzl9LCJ0RGhQc3F5c3Jpc0xtZTNXIjp7InRleHQiOiJmYWls
-cyB0aGUgdm90aW5nIHJvdW5kIiwic3RhcnQiOjk1NDIsImVuZC
-I6OTU0Mn0sInlTZ0x5eGFjWFplQlQ4QzAiOnsic3RhcnQiOjIw
-MjQxLCJlbmQiOjIwMjYzLCJ0ZXh0IjoiKipBZmZpbml0eSBUaH
-Jlc2hvbGQqKiJ9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEz
-VHJjTCI6eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPOD
-hQIiwic3ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0Iiwi
-dGV4dCI6Ik1heWJlIG1vcmUsIGJ1dCBJIHdvdWxkIG5vdCB3YW
-50IGhpZ2hseSBlbmdhZ2VkIHVzZXJzIGJlaW5nIGFibGUgdG8g
-YWJ1c2UgdGhlIHN5c3RlbSBieSBwdXNoaW5nIHRocm91Z2ggbG
-90cyBvZiBsZWdpc2xhdGlvbiBkdXJpbmcgdGltZXMgd2hlbiBm
-ZXcgdXNlcnMgYXJlIGFibGUgdG8gZW5nYWdlLiIsImNyZWF0ZW
-QiOjE3MDQ2NjA2MDc2NDd9LCJmWElOWlluNnQzOG5qZlFEIjp7
-ImRpc2N1c3Npb25JZCI6IjRMUDdXalJmRWxZNm1KZ04iLCJzdW
-IiOiJnbzoxMDEwMTI4NzgxMjU2NjgyMjQyMTQiLCJ0ZXh0Ijoi
-UG9zc2libHkgYWxzbyBhIGZlYXR1cmUgdG8gYnJpbmcgdG8gdm
-90ZSBzY2hlZHVsZWQgY2hhbmdlcyBvZiB0aGUgdGhyZXNob2xk
-IGFjcm9zcyBhIHNwZWNpZmljIHRpbWUgc3BhbiBiYXNlZCBvbi
-B0aGUgYXZhaWxhYmlsaXR5L2VuZ2FnZW1lbnQgb2YgdGhlIHBv
-cHVsYWNlIGR1cmluZyBkaWZmZXJlbnQgdGltZXMgb2YgeWVhci
-BldGMiLCJjcmVhdGVkIjoxNzA0NjYwODQyNDkxfSwibVdsNE9L
-dnJKWlV6WWxpeSI6eyJkaXNjdXNzaW9uSWQiOiI0cDB6ZkJudT
-dhS2hvazBjIiwic3ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0
-MjE0IiwidGV4dCI6IlN1Y2Nlc3MgLyBGYWlsdXJlIHdpbGwgbm
-VlZCB0byB0YWtlIGludG8gYWNjb3VudCBzb21lIHN0YXRpc3Rp
-Y2FsIG1vZGVsaW5nIG9mIHRoZSBwYXJ0aWNpcGF0aW5nIGVsZW
-N0b3JhdGUsIHRoZSBxdWFudGl0eSBvZiB2b3RlcyBjb3VudGVk
-LCBtZWFzdXJlZCBhZ2FpbnN0IGFuIGF2ZXJhZ2Ugb2YgcmVjZW
-50IHZvdGVzIGNvdW50ZWQuIERldGVybWluaW5nIHdoYXQgcGFz
-c2VzIGFuZCB3aGF0IGRvZXNuJ3QgYmFzZWQgb24gdGhlIG51bW
-JlciBvZiB2b3RlcyB3aXRoaW4gYSB2b3RpbmcgYm9keSBpcyBn
-b2luZyB0byBiZSBhIGNyaXRpY2FsIGFuZCBjb21wbGV4IGZlYX
-R1cmUgdG8gc29ydCBvdXQiLCJjcmVhdGVkIjoxNzA0NjY1NTMy
-MzgxfSwiY0wzM0ZneWN4clRXTXJBNSI6eyJkaXNjdXNzaW9uSW
-QiOiJ0RGhQc3F5c3Jpc0xtZTNXIiwic3ViIjoiZ286MTAxMDEy
-ODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6IlN1Y2Nlc3MgLyBGYW
-lsdXJlIHdpbGwgbmVlZCB0byB0YWtlIGludG8gYWNjb3VudCBz
-b21lIHN0YXRpc3RpY2FsIG1vZGVsaW5nIG9mIHRoZSBwYXJ0aW
-NpcGF0aW5nIGVsZWN0b3JhdGUsIHRoZSBxdWFudGl0eSBvZiB2
-b3RlcyBjb3VudGVkLCBtZWFzdXJlZCBhZ2FpbnN0IGFuIGF2ZX
-JhZ2Ugb2YgcmVjZW50IHZvdGVzIGNvdW50ZWQuIERldGVybWlu
-aW5nIHdoYXQgcGFzc2VzIGFuZCB3aGF0IGRvZXNu4oCZdCBiYX
-NlZCBvbiB0aGUgbnVtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZv
-dGluZyBib2R5IGlzIGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW
-5kIGNvbXBsZXggZmVhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0
-ZWQiOjE3MDQ2NjU3NTc0ODR9LCJGR0N2dWRMcnAzeFRWUmx4Ij
-p7ImRpc2N1c3Npb25JZCI6InlTZ0x5eGFjWFplQlQ4QzAiLCJz
-dWIiOiJnbzoxMDEwMTI4NzgxMjU2NjgyMjQyMTQiLCJ0ZXh0Ij
-oiQW5jaG9yIGxpbmsgdGhpcyIsImNyZWF0ZWQiOjE3NDYxMDQ4
-NDIxOTh9fSwiaGlzdG9yeSI6WzExMTYxOTQxNjcsNjg0NTM5MD
-c4XX0=
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6MTE3MjMsImVuZCI6MT
+E3MjN9LCJ0RGhQc3F5c3Jpc0xtZTNXIjp7InRleHQiOiJmYWls
+cyB0aGUgdm90aW5nIHJvdW5kIiwic3RhcnQiOjEwMjI2LCJlbm
+QiOjEwMjI2fSwieVNnTHl4YWNYWmVCVDhDMCI6eyJzdGFydCI6
+MjA5MjUsImVuZCI6MjA5NDcsInRleHQiOiIqKkFmZmluaXR5IF
+RocmVzaG9sZCoqIn19LCJjb21tZW50cyI6eyJHMEVjVzVPZDQx
+QTNUcmNMIjp7ImRpc2N1c3Npb25JZCI6Ildra0JNZDNpblpmYk
+84OFAiLCJzdWIiOiJnbzoxMDEwMTI4NzgxMjU2NjgyMjQyMTQi
+LCJ0ZXh0IjoiTWF5YmUgbW9yZSwgYnV0IEkgd291bGQgbm90IH
+dhbnQgaGlnaGx5IGVuZ2FnZWQgdXNlcnMgYmVpbmcgYWJsZSB0
+byBhYnVzZSB0aGUgc3lzdGVtIGJ5IHB1c2hpbmcgdGhyb3VnaC
+Bsb3RzIG9mIGxlZ2lzbGF0aW9uIGR1cmluZyB0aW1lcyB3aGVu
+IGZldyB1c2VycyBhcmUgYWJsZSB0byBlbmdhZ2UuIiwiY3JlYX
+RlZCI6MTcwNDY2MDYwNzY0N30sImZYSU5aWW42dDM4bmpmUUQi
+OnsiZGlzY3Vzc2lvbklkIjoiNExQN1dqUmZFbFk2bUpnTiIsIn
+N1YiI6ImdvOjEwMTAxMjg3ODEyNTY2ODIyNDIxNCIsInRleHQi
+OiJQb3NzaWJseSBhbHNvIGEgZmVhdHVyZSB0byBicmluZyB0by
+B2b3RlIHNjaGVkdWxlZCBjaGFuZ2VzIG9mIHRoZSB0aHJlc2hv
+bGQgYWNyb3NzIGEgc3BlY2lmaWMgdGltZSBzcGFuIGJhc2VkIG
+9uIHRoZSBhdmFpbGFiaWxpdHkvZW5nYWdlbWVudCBvZiB0aGUg
+cG9wdWxhY2UgZHVyaW5nIGRpZmZlcmVudCB0aW1lcyBvZiB5ZW
+FyIGV0YyIsImNyZWF0ZWQiOjE3MDQ2NjA4NDI0OTF9LCJtV2w0
+T0t2ckpaVXpZbGl5Ijp7ImRpc2N1c3Npb25JZCI6IjRwMHpmQm
+51N2FLaG9rMGMiLCJzdWIiOiJnbzoxMDEwMTI4NzgxMjU2Njgy
+MjQyMTQiLCJ0ZXh0IjoiU3VjY2VzcyAvIEZhaWx1cmUgd2lsbC
+BuZWVkIHRvIHRha2UgaW50byBhY2NvdW50IHNvbWUgc3RhdGlz
+dGljYWwgbW9kZWxpbmcgb2YgdGhlIHBhcnRpY2lwYXRpbmcgZW
+xlY3RvcmF0ZSwgdGhlIHF1YW50aXR5IG9mIHZvdGVzIGNvdW50
+ZWQsIG1lYXN1cmVkIGFnYWluc3QgYW4gYXZlcmFnZSBvZiByZW
+NlbnQgdm90ZXMgY291bnRlZC4gRGV0ZXJtaW5pbmcgd2hhdCBw
+YXNzZXMgYW5kIHdoYXQgZG9lc24ndCBiYXNlZCBvbiB0aGUgbn
+VtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBib2R5IGlz
+IGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbXBsZXggZm
+VhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3MDQ2NjU1
+MzIzODF9LCJjTDMzRmd5Y3hyVFdNckE1Ijp7ImRpc2N1c3Npb2
+5JZCI6InREaFBzcXlzcmlzTG1lM1ciLCJzdWIiOiJnbzoxMDEw
+MTI4NzgxMjU2NjgyMjQyMTQiLCJ0ZXh0IjoiU3VjY2VzcyAvIE
+ZhaWx1cmUgd2lsbCBuZWVkIHRvIHRha2UgaW50byBhY2NvdW50
+IHNvbWUgc3RhdGlzdGljYWwgbW9kZWxpbmcgb2YgdGhlIHBhcn
+RpY2lwYXRpbmcgZWxlY3RvcmF0ZSwgdGhlIHF1YW50aXR5IG9m
+IHZvdGVzIGNvdW50ZWQsIG1lYXN1cmVkIGFnYWluc3QgYW4gYX
+ZlcmFnZSBvZiByZWNlbnQgdm90ZXMgY291bnRlZC4gRGV0ZXJt
+aW5pbmcgd2hhdCBwYXNzZXMgYW5kIHdoYXQgZG9lc27igJl0IG
+Jhc2VkIG9uIHRoZSBudW1iZXIgb2Ygdm90ZXMgd2l0aGluIGEg
+dm90aW5nIGJvZHkgaXMgZ29pbmcgdG8gYmUgYSBjcml0aWNhbC
+BhbmQgY29tcGxleCBmZWF0dXJlIHRvIHNvcnQgb3V0IiwiY3Jl
+YXRlZCI6MTcwNDY2NTc1NzQ4NH0sIkZHQ3Z1ZExycDN4VFZSbH
+giOnsiZGlzY3Vzc2lvbklkIjoieVNnTHl4YWNYWmVCVDhDMCIs
+InN1YiI6ImdvOjEwMTAxMjg3ODEyNTY2ODIyNDIxNCIsInRleH
+QiOiJBbmNob3IgbGluayB0aGlzIiwiY3JlYXRlZCI6MTc0NjEw
+NDg0MjE5OH19LCJoaXN0b3J5IjpbLTQzODQ0NDQzMSwxMTE2MT
+k0MTY3LDY4NDUzOTA3OF19
 -->
