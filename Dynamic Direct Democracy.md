@@ -8,16 +8,28 @@ In our innovative dynamic voting system, we've reimagined the democratic process
 But what truly sets our system apart is the concept of representation. Users can choose to designate 'representatives' from among their peers on the platform, entrusting them with their votes. To maintain this trust, representatives must adhere to their constituents' wishes, ensuring that users' voices are heard in the decision-making process. A user can reassign their vote in any election process while it's underway if their representative does not vote in accord with their interest, and may designate a new 'representative' at any time.
 
 ## Legislation
- dynamic voting system encourages active engagement in the legislative process. Anyone can propose ideas for new laws or changes to existing ones, promoting inclusivity. These proposals undergo community discussion and can be upvoted. Users play a pivotal role with upvotes by identifying and enhancing promising legislation for broader consideration.
+The dynamic voting system encourages active engagement in the legislative process. Anyone can propose ideas for new laws or changes to existing ones, promoting inclusivity. These proposals undergo community discussion and can be upvoted. Users play a pivotal role with upvotes by identifying and enhancing promising legislation for broader consideration.
 
+### Levels of Political Hierarchy
 The system is architected as a multi-tiered hierarchical structure, mirroring the layers of government, with legislation always starting at the municipal level. This approach ensures that laws are grounded in local needs while allowing for broader perspectives as they ascend the hierarchy.
 
+The levels of the hierarchy are as follows:
+| **Level**         | **Common Name**        | **Scope**                                |
+|-------------------|------------------------|-------------------------------------------|
+| 1. Local          | Municipal              | Neighborhood and city/town affairs        |
+| 2. Regional-Local | County/District        | Services spanning multiple municipalities |
+| 3. Mid-Level      | State/Province         | Large-scale infrastructure, education     |
+| 4. Meta-Regional  | Regional (if applicable)| Inter-state/local coordination            |
+| 5. National       | Federal/National       | Defense, diplomacy, constitutional matters|
+ 
+
 In line with our commitment to transparency, all proposed legislation must be single-topic, easily understandable to high school-educated individuals. AI technology scans bills for unrelated riders, safeguarding against deception in legislative referendums. Additionally, our platform dynamically collates proposed legislation with existing laws in the same **topic area** for display, providing voters with comprehensive context and enabling informed decisions.
+Hereforth, a layer of the political hierarchy will be referred to as a "**governance tier**."
 
 ### Legislative Cycle
 Our legislative process is divided into six distinct phases, each serving a specific purpose and contributing to the evolution of high quality laws, policy and government services.
 
-1.  **Proposal**: In this phase, legislation can be proposed and amended by participants. It's the initial stage where ideas are put forward and refined through collaborative efforts.
+1.  **Proposal**: In this phase, legislation can be proposed and amended by participants. It's the initial stage where ideas are put forward and refined through collaborative efforts. It is at this point that user's can begin highlighting and commenting on the legislation.
     
 2.  **Refinement**: Legislation in this phase undergoes further development. It can be reworded, elaborated upon, refined, or have sections removed, but amendments are not permitted at this stage. The focus is on improving the clarity and quality of proposed laws.
     
@@ -36,6 +48,18 @@ These six phases ensure a well-structured and adaptable legislative process that
 Within the legislation proposal section of the app, a disclaimer regarding the usage of this feature is prominently displayed to ensure transparency and accountability and must be signed before being granted post, or amend privileges. 
 The Proposing Legislation Disclaimer asserts that individuals who propose legislation, as well as those who amend legislation, assume responsibility for implementing or facilitating the implementation of the proposed legislation, provided that the legislation is adequately funded in the Ratify and Enactment phases and provided that the proposers and amenders are able to coordinate or contract to successfully enact the legislation. This step ensures that proposers are aware of the implications of their proposals and are committed to seeing them through to implementation. This disclaimer serves as a critical component of the legislative process, emphasizing the importance of responsibility and accountability in shaping the laws of the community.
 
+##### Flesch-kincaid Threshold
+In the text input interface used to write and amend legislation there will be a number of support widgets to assist with the drafting process. These supporting widgets are as follows:
+1. A word count
+2. An estimated reading time
+3. A Flesch-kincaid score
+4. An AI auto-suggestion thesaurus
+
+###### Word Count and Estimated Reading Time
+A word count and estimated reading time will be provided such that the drafter can be be consistently aware of the amount of time it will take a reader to completely read and comprehend the legislation. Longer and more complex legislation may prevent readers from becoming prospective voters if they're unable to allocate the time necessary to understand the legislation sufficiently to pass [the Comprehension Quiz](#The Comprehension Quiz). Keep in mind that each vote must reach a statistical quorum set specific to the **governance tier** and proportional to the participants at that level.
+
+###### A Flesch-kindcaid score & AI Auto suggestion thesaurus
+The Flesch-kincaid score will be provided for the drafter to consider the reading level at which a prospective voter must be to understand the legislation. The threshold score is set at each **governance tier** by a **vote**. The AI auto-suggestion thesaurus can be used manually throughout the drafting process and will be tuned to provide output at or below the Flesch-kincaid threshold for that **governance tier**. When a sentence pushes the document over the threshold for that tier, the AI will automatically prompt with a simplified sentence that communicates the same concept.
  
 
 #### Refinement 
@@ -51,7 +75,7 @@ Ultimately, only proposers or amenders are granted edit permissions to make chan
 During the refinement phase, readers are encouraged to highlight critical components of the legislation. These highlights are then used for [abuse prevention](#abuse prevention).
 
 ##### Popularity Voting
-The overall piece of legislation can be voted up or down during the refinement period. A variable threshold between one and seven items of legislation for consideration per period may be set per layer of the political hierarchy that determines the number of top voted pieces of legislation that may enter the voting phase. This number can be brought to vote during any legislative cycle to be changed for the following cycle(s). 
+The overall piece of legislation can be voted up or down during the refinement period. A variable threshold between one and seven items of legislation for consideration per period may be set per **governance tier** that determines the number of top voted pieces of legislation that may enter the voting phase. This number can be brought to vote during any legislative cycle to be changed for the following cycle(s). 
 
 #### Vote
 During the vote phase, the top voted pieces of refined legislation are brought to vote. During this 2 week to month long time period, the legislation remains static. The **Structured Text Interface** mode is available during this phase with only commentary allowed from users. The commentary from the Refinement phase is archived to allow for a focused conversation on the version being voted on. Comment threads may be started on any piece of structured text or the legislation as a whole, facilitating lively debate that will determine whether the legislation fails or is ratified. 
@@ -61,7 +85,7 @@ Ratification of legislation is determined by the outcome of a voting phase with 
 ##### Ratification / Passing Criteria
 Ratification of legislation is determined by the outcome of a voting phase that meets two criteria:
 ###### Star Voting
-Voting is done via a [star voting system](https://www.starvoting.org/) in which candidate legislation is attributed stars on a Likert 1-5 scale. Winners are determined by the average number of stars exceeding a _passing threshold_.  Each voting domain can bring the _passing threshold_ to vote, wherein the threshold of the averaged star count a piece of legislation must achieve to pass is determined. The threshold is agreed upon at each layer of the political hierarchy. 
+Voting is done via a [star voting system](https://www.starvoting.org/) in which candidate legislation is attributed stars on a Likert 1-5 scale. Winners are determined by the average number of stars exceeding a _passing threshold_.  Each voting domain can bring the _passing threshold_ to vote, wherein the threshold of the averaged star count a piece of legislation must achieve to pass is determined. The threshold is agreed upon at each **governance tier**. 
 ###### Quorum / Representative Sampling 
 The ratification also requires a quorum of voters for the given population area over which the legislation will preside. Quorum is established using a statistical modeling power calculation which requires a critical value. 
 $$n=\left(\dfrac{z_{\alpha/2}\sigma}{E}\right)^2$$
@@ -102,11 +126,12 @@ This thoughtful layout ensures that users can navigate, engage with, and make in
 
 ### Abuse Prevention
 #### Rationale
-A problematic aspect of an pure democracy voting system such as this is the potential for abuse. The spread of misinformation for manipulative purposes on the internet has been identified as a difficult issue to mitigate. It is very possible for people desiring to pass their legislation via whatever means possible to use polarizing and misleading rhetoric to encourage "viral voter turnout" in which they coerce their followers to vote prolifically on a piece of legislation that they want to get passed, or that they want to prevent the passage of, without the voters actually knowing what they're voting on. 
-In anticipation of these effects, we've created a system to mitigate the deleterious effects viral phenomenon and misinformation may have on open democracy.
-#### The Viral Dam
-To qualify to vote on a piece of legislation, each person must pass a quiz with randomized questions generated by AI and approved by the proposers of the legislation. 
-The questions are derived from the reader highlights added during the refinement phase. All sections with highlighting are translated to questions by AI, with a point score attributed to each question based on the aggregated number of highlights made on that section. The aggregated highlights are used as a proxy to reflect the relative importance of the section to human readers. The score is used as a weighting system that is algorithmically balanced with a randomization system to generate a set of questions proportional to the number of critical aspects of the legislation for each prospective voter. In order to vote on a piece of legislation, a voter must pass the screening quiz with a score above the threshold set for that layer of the political hierarchy.
+A problematic aspect of a pure democracy voting system is the potential for abuse. The spread of misinformation for manipulative purposes on the internet has been identified as a difficult issue to mitigate. It is very possible for people desiring to pass their legislation via whatever means possible to use polarizing and misleading rhetoric to encourage "viral voter turnout" in which they coerce their followers to vote blindly on a piece of legislation that they want to get passed, or that they want to prevent the passage of, without the voters actually knowing what they're voting on. 
+In anticipation of these effects, we've created a system to mitigate the deleterious effects of viral phenomenon and misinformation on direct and open democracy.
+
+#### The Comprehension Quiz
+To qualify to vote on a piece of legislation, each person must pass a **comprehension quiz** of randomized questions. The questions are drawn from a bank of questions & answers that is either a) generated by AI or b) user submitted, that the **key points** of a piece of legislation. A **key point** is a section of legislation with a total number of highlights above the mean number of highlights for any given section. A **key point** will be used to derive multiple AI generated iterations of question and answer pairs to populate the bank of possible questions displayed to users.  All question and answer pairs are approved by the proposers & amenders of the legislation, collectively the **legislation proposal team**. 
+The **key points** are selected from all user's highlights retained in the final text of the legislation. An **importance score** is attributed to each question based on the aggregate number of highlights made to that section. The **importance score** will influence the frequency of its appearance in **comprehension quizzes**. The **importance score** will be algorithmically balanced by a randomization score to determine overall frequency of appearance. The randomization score is used to ensure the rotation of questions between **comprehension quiz** deliveries. The number of questions in a **comprehension quiz** will be proportional to the number of **key points** in the legislation. In order to vote on a piece of legislation, a voter must pass the **comprehension quiz** with a score above the threshold set for that **governance tier**.
 
 
 ###  Timing of Cycles
@@ -121,11 +146,11 @@ Total characters and total reading time, instead of a 1-7 threshold of pieces of
 Users may revoke their vote from any piece of legislation during the vote process at any point prior to the ratification decision at the conclusion of the vote period. 
 
 #### Override
-In emergency circumstances such as natural disaster, threat of war, etc it may be necessary to bring legislation to vote with more immediacy than the next cycle in which it's **topic area** would have come up for vote. A piece of legislation can be flagged as Urgent. If flagged as urgent by a quorum of people in the layer of the political hierarchy, it can be brought to vote in the current cycle, regardless of whether it matches the current **topic area**.
+In emergency circumstances such as natural disaster, threat of war, etc it may be necessary to bring legislation to vote with more immediacy than the next cycle in which it's **topic area** would have come up for vote. A piece of legislation can be flagged as Urgent. If flagged as urgent by a quorum of people in the **governance tier**, it can be brought to vote in the current cycle, regardless of whether it matches the current **topic area**.
 
 ### Abstention
 
-In our dynamic voting system, participants have the flexibility to abstain from any vote, whether it pertains to an individual piece of legislation, a specific **topic area**, a particular level of government, or for a predetermined period, even indefinitely. To streamline this process, abstention settings are strategically placed within the settings tabs for each layer of the governance hierarchy and in each voting topic pane. This allows users to tailor their abstention preferences to specific levels of government or topics. All granular settings, spanning **topic area**s and layers of government, can be conveniently managed directly from their respective panes. Furthermore, these granular settings are aggregated into global abstention settings accessible from the global settings menu. This aggregated configuration is easily accessible through the user's profile settings menu, providing a centralized location for managing and customizing abstention preferences across the dynamic voting system.
+In our dynamic voting system, participants have the flexibility to abstain from any vote, whether it pertains to an individual piece of legislation, a specific **topic area**, a particular level of government, or for a predetermined period, even indefinitely. To streamline this process, abstention settings are strategically placed within the settings tabs for each **governance tier** and in each voting topic pane. This allows users to tailor their abstention preferences to specific levels of government or topics. All granular settings, spanning **topic area**s and layers of government, can be conveniently managed directly from their respective panes. Furthermore, these granular settings are aggregated into global abstention settings accessible from the global settings menu. This aggregated configuration is easily accessible through the user's profile settings menu, providing a centralized location for managing and customizing abstention preferences across the dynamic voting system.
 
 
 ## Representation
@@ -134,9 +159,13 @@ A **representative** can be any other user on the platform meeting the **Affinit
 ### Newcomer Wizard Intro
 For newcomers to our platform, we've designed an intuitive wizard introduction that simplifies the dynamic representative system. Upon joining, users are greeted by a step-by-step guide that explains how the dynamic voting system works. This introductory wizard aims to make their experience seamless and informative.
 
-One key feature of this wizard is an **introductory questionnaire** reminiscent of popular platforms like isidewith.com. This questionnaire covers a comprehensive spectrum of political topics, each followed by multiple-choice answers that are sorted by popularity. If a user's perspective isn't already represented, they can select "Other" and provide their own response through free-form text input. The platform leverages artificial intelligence to distill similar "Other"  answers into a coherent single response, which if recurrence frequency is high enough, is promoted to a new multiple choice entry.
+One key feature of this wizard is an **introductory questionnaire** reminiscent of popular platforms like [isidewith.com](https://www.isidewith.com/). This questionnaire covers a comprehensive spectrum of political topics, each followed by multiple-choice answers that are sorted by popularity. If a user's perspective isn't already represented, they can select "Other" and provide their own response through free-form text input. The platform leverages artificial intelligence to distill similar "Other"  answers into a coherent single response, which if recurrence frequency is high enough, is promoted to a new multiple choice entry.
 
 Importantly, users have the freedom to answer as many or as few questions as they like, allowing for a flexible and personalized onboarding process. After completing the questionnaire, users will receive suggested legislation to participate in the refinement of, or vote on.
+The final part of the wizard introduces the currently designated political **topic area** s and the time of year in which each **topic area** comes for a vote. A user can set granular notifications for each **topic area** to stay abreast of proposed legislation in the given **topic area**, or to be notified when a **topic area** enters a phase of the **legislative cycle**.
+
+This introductory wizard not only simplifies the user experience but also empowers users to make informed choices and engage meaningfully with the dynamic representation system, enhancing their participation in the democratic process.
+
 
 ### Abuse Prevention
 The allocation of votes to representatives is subject to abuse via influencer popularity. Anyone with a great deal of social media influence can potentially aggregate undue influence in elections if anyone can sign up for the system and allocate their vote to a representative immediately and never return to the app. 
@@ -144,24 +173,27 @@ The allocation of votes to representatives is subject to abuse via influencer po
 #### Affinity Thresholds & Representative Unbinding
 In order to mitigate the deleterious effect that the popularity contest effect of social media can have on democracy we've devised a system of affinity thresholds and periodic unbinding of representation. 
 After completing the intro wizard the user will receive suggested legislation pertinent to their priority **topic areas** such that they can begin to engage in the democratic process. All activity in the app is tracked, from proposing, to commenting, and voting. Each layer of the
-hierarchy will set it's **Affinity Threshold** which is a set of criteria a user must qualify for in order to allocate their vote to a representative. Possible criteria could be:
+hierarchy will set it's custom **Affinity Threshold** which is a set of criteria a user must qualify for in order to allocate their vote to a representative. Possible criteria could be:
 
 - Casting 40 votes on various pieces of legislation across 12 legislative cycles
 - Suggesting amendments to 10 pieces of legislation of which 50% are ratified.
 
-Once the **Affinity Threshold** criteria for that layer of the political hierarchy are met the user can then select a representative. 
+Once the **Affinity Threshold** criteria for that **governance tier** are met the user can then select a representative. 
 
-The **Representative Unbinding** is a mechanism to ensure that user's representative selections continue to reflect their values as the representative votes. As a representative votes, all of their **constituents** receive notifications about the representatives vote and are offered a binary choice to approve or disapprove of the vote, called a **vote approval**. If a user disapproves of a representatives choice while a voting window is still active, the vote for that user is removed from the representative's voting points. If a user approves of a representatives choice, the vote will be added to the user's voting history.  All of the voting record of a person's representative is logged for the user to cast **vote approvals**. A user is encouraged to log in to periodically evaluate whether the representative continues to represent them faithfully via answering the **vote approval** backlog. If the unanswered **vote approval** backlog exceeds 60% of the total votes cast by the representative on behalf of the constituent, the user's vote becomes unbound from the representative, for which a user receives a notification. Votes cast by that representative will no longer have the user's vote until the user answers at least 60% of the **vote approval** backlog. 
+The **Representative Unbinding** is a mechanism to ensure that user's representative selections continue to reflect their values as the representative votes. As a representative votes, all of their **constituents** receive notifications about the representative's vote and are offered a **vote approval**. A **vote approval** consists of:
+ - a link to a summary of the legislation with key points
+ - a short **comprehension quiz** over the key points
+ - a binary question to the user as to whether they approve or disapprove of the representatives choice 
+
+If a user disapproves of a representatives choice while a voting window is still active, the vote for that user is removed from the representative's voting points cast towards the legislation. If a user approves of a representatives choice, the vote will be recorded in the user's voting history.  All of the voting record of a person's representative is logged for the user to cast **vote approvals**. A user is encouraged to log in and periodically evaluate whether the representative continues to represent them faithfully by responding to the **vote approval** backlog. If the unanswered **vote approval** backlog exceeds 60% of the total votes cast by the representative on behalf of the constituent, the user's vote becomes unbound from the representative, for which a user receives a notification. Votes cast by that representative will no longer have the user's vote until the user answers at least 60% of the **vote approval** backlog. 
 
 ### Selecting a representative
 A pane of the app will be entitled Representatives and will provide an interface for selecting Representatives for  **topic area** s.  When a user selects a representative they also select the **topic area** s for which the representative will represent the user's vote. In the representative selection pane, there will be a sorted table of other users who've opted to serve as representatives, ranked based on the percentage of alignment between their **voting history** and answers on the **Introductory Questionnaire** as well as a navigation system to drill down on the **representative profile,** or all of the representative's activity within the app. Any user meeting the **Affinity Threshold** may opt to be a representative for another user. 
 Additionally, a data visualization shows the percentage of alignment between the entire **vote history** of the user and the representative across all **topic areas**.  With this information a user can identify **topic area** s that may not align with their suggested **representative** and find another **representative** for that **topic area** who better represents their values. 
 
-In order to provide full transparency to users, every person that opts to act as a **representative** will have all of their **intro questionnaire** answers, their entire **voting history**, and their **legislative proposals**, **amendments**, and **active legislation** made public and searchable. This will allow users to continuously determine whether their representatives are aligned with their interests.
+In order to provide full transparency to users, every person that opts to act as a **representative** will have all of their **intro questionnaire** answers, their entire **voting history**, and their **legislative proposals**, **amendments**, and **active legislation** made public and searchable. This will allow users to continuously determine the representatives most aligned with their interests.
 
-The final part of the wizard introduces the currently designated political **topic area** s and the time of year in which each **topic area** comes for a vote. A user can set granular notifications for each **topic area** to stay abreast of proposed legislation in the given **topic area**, or to be notified when a **topic area** enters a phase of the **legislative cycle**.
 
-This introductory wizard not only simplifies the user experience but also empowers users to make informed choices and engage meaningfully with the dynamic representation system, enhancing their participation in the democratic process.
 
 
 # Security
@@ -184,60 +216,61 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo2ODM5LCJlbmQiOjY4NDR9
+RleHQiOiJzZXZlbiIsInN0YXJ0Ijo5MzU0LCJlbmQiOjkzNTl9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjcwNDMsImVuZCI6NzEwMX
+bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjk1NDUsImVuZCI6OTYwM3
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6OTQ5NiwiZW5kIjo5ND
-k2fSwidERoUHNxeXNyaXNMbWUzVyI6eyJ0ZXh0IjoiZmFpbHMg
-dGhlIHZvdGluZyByb3VuZCIsInN0YXJ0Ijo3OTk5LCJlbmQiOj
-c5OTl9LCJ5U2dMeXhhY1haZUJUOEMwIjp7InN0YXJ0IjoxODA1
-MCwiZW5kIjoxODA3MiwidGV4dCI6IioqQWZmaW5pdHkgVGhyZX
-Nob2xkKioifX0sImNvbW1lbnRzIjp7IkcwRWNXNU9kNDFBM1Ry
-Y0wiOnsiZGlzY3Vzc2lvbklkIjoiV2trQk1kM2luWmZiTzg4UC
-IsInN1YiI6ImdvOjEwMTAxMjg3ODEyNTY2ODIyNDIxNCIsInRl
-eHQiOiJNYXliZSBtb3JlLCBidXQgSSB3b3VsZCBub3Qgd2FudC
-BoaWdobHkgZW5nYWdlZCB1c2VycyBiZWluZyBhYmxlIHRvIGFi
-dXNlIHRoZSBzeXN0ZW0gYnkgcHVzaGluZyB0aHJvdWdoIGxvdH
-Mgb2YgbGVnaXNsYXRpb24gZHVyaW5nIHRpbWVzIHdoZW4gZmV3
-IHVzZXJzIGFyZSBhYmxlIHRvIGVuZ2FnZS4iLCJjcmVhdGVkIj
-oxNzA0NjYwNjA3NjQ3fSwiZlhJTlpZbjZ0MzhuamZRRCI6eyJk
-aXNjdXNzaW9uSWQiOiI0TFA3V2pSZkVsWTZtSmdOIiwic3ViIj
-oiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6IlBv
-c3NpYmx5IGFsc28gYSBmZWF0dXJlIHRvIGJyaW5nIHRvIHZvdG
-Ugc2NoZWR1bGVkIGNoYW5nZXMgb2YgdGhlIHRocmVzaG9sZCBh
-Y3Jvc3MgYSBzcGVjaWZpYyB0aW1lIHNwYW4gYmFzZWQgb24gdG
-hlIGF2YWlsYWJpbGl0eS9lbmdhZ2VtZW50IG9mIHRoZSBwb3B1
-bGFjZSBkdXJpbmcgZGlmZmVyZW50IHRpbWVzIG9mIHllYXIgZX
-RjIiwiY3JlYXRlZCI6MTcwNDY2MDg0MjQ5MX0sIm1XbDRPS3Zy
-SlpVellsaXkiOnsiZGlzY3Vzc2lvbklkIjoiNHAwemZCbnU3YU
-tob2swYyIsInN1YiI6ImdvOjEwMTAxMjg3ODEyNTY2ODIyNDIx
-NCIsInRleHQiOiJTdWNjZXNzIC8gRmFpbHVyZSB3aWxsIG5lZW
-QgdG8gdGFrZSBpbnRvIGFjY291bnQgc29tZSBzdGF0aXN0aWNh
-bCBtb2RlbGluZyBvZiB0aGUgcGFydGljaXBhdGluZyBlbGVjdG
-9yYXRlLCB0aGUgcXVhbnRpdHkgb2Ygdm90ZXMgY291bnRlZCwg
-bWVhc3VyZWQgYWdhaW5zdCBhbiBhdmVyYWdlIG9mIHJlY2VudC
-B2b3RlcyBjb3VudGVkLiBEZXRlcm1pbmluZyB3aGF0IHBhc3Nl
-cyBhbmQgd2hhdCBkb2Vzbid0IGJhc2VkIG9uIHRoZSBudW1iZX
-Igb2Ygdm90ZXMgd2l0aGluIGEgdm90aW5nIGJvZHkgaXMgZ29p
-bmcgdG8gYmUgYSBjcml0aWNhbCBhbmQgY29tcGxleCBmZWF0dX
-JlIHRvIHNvcnQgb3V0IiwiY3JlYXRlZCI6MTcwNDY2NTUzMjM4
-MX0sImNMMzNGZ3ljeHJUV01yQTUiOnsiZGlzY3Vzc2lvbklkIj
-oidERoUHNxeXNyaXNMbWUzVyIsInN1YiI6ImdvOjEwMTAxMjg3
-ODEyNTY2ODIyNDIxNCIsInRleHQiOiJTdWNjZXNzIC8gRmFpbH
-VyZSB3aWxsIG5lZWQgdG8gdGFrZSBpbnRvIGFjY291bnQgc29t
-ZSBzdGF0aXN0aWNhbCBtb2RlbGluZyBvZiB0aGUgcGFydGljaX
-BhdGluZyBlbGVjdG9yYXRlLCB0aGUgcXVhbnRpdHkgb2Ygdm90
-ZXMgY291bnRlZCwgbWVhc3VyZWQgYWdhaW5zdCBhbiBhdmVyYW
-dlIG9mIHJlY2VudCB2b3RlcyBjb3VudGVkLiBEZXRlcm1pbmlu
-ZyB3aGF0IHBhc3NlcyBhbmQgd2hhdCBkb2VzbuKAmXQgYmFzZW
-Qgb24gdGhlIG51bWJlciBvZiB2b3RlcyB3aXRoaW4gYSB2b3Rp
-bmcgYm9keSBpcyBnb2luZyB0byBiZSBhIGNyaXRpY2FsIGFuZC
-Bjb21wbGV4IGZlYXR1cmUgdG8gc29ydCBvdXQiLCJjcmVhdGVk
-IjoxNzA0NjY1NzU3NDg0fSwiRkdDdnVkTHJwM3hUVlJseCI6ey
-JkaXNjdXNzaW9uSWQiOiJ5U2dMeXhhY1haZUJUOEMwIiwic3Vi
-IjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0IiwidGV4dCI6Ik
-FuY2hvciBsaW5rIHRoaXMiLCJjcmVhdGVkIjoxNzQ2MTA0ODQy
-MTk4fX0sImhpc3RvcnkiOlszNjY1ODQ5MTRdfQ==
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6MTE5ODUsImVuZCI6MT
+E5ODV9LCJ0RGhQc3F5c3Jpc0xtZTNXIjp7InRleHQiOiJmYWls
+cyB0aGUgdm90aW5nIHJvdW5kIiwic3RhcnQiOjEwNTAxLCJlbm
+QiOjEwNTAxfSwieVNnTHl4YWNYWmVCVDhDMCI6eyJzdGFydCI6
+MjExNDcsImVuZCI6MjExNjksInRleHQiOiIqKkFmZmluaXR5IF
+RocmVzaG9sZCoqIn19LCJjb21tZW50cyI6eyJHMEVjVzVPZDQx
+QTNUcmNMIjp7ImRpc2N1c3Npb25JZCI6Ildra0JNZDNpblpmYk
+84OFAiLCJzdWIiOiJnbzoxMDEwMTI4NzgxMjU2NjgyMjQyMTQi
+LCJ0ZXh0IjoiTWF5YmUgbW9yZSwgYnV0IEkgd291bGQgbm90IH
+dhbnQgaGlnaGx5IGVuZ2FnZWQgdXNlcnMgYmVpbmcgYWJsZSB0
+byBhYnVzZSB0aGUgc3lzdGVtIGJ5IHB1c2hpbmcgdGhyb3VnaC
+Bsb3RzIG9mIGxlZ2lzbGF0aW9uIGR1cmluZyB0aW1lcyB3aGVu
+IGZldyB1c2VycyBhcmUgYWJsZSB0byBlbmdhZ2UuIiwiY3JlYX
+RlZCI6MTcwNDY2MDYwNzY0N30sImZYSU5aWW42dDM4bmpmUUQi
+OnsiZGlzY3Vzc2lvbklkIjoiNExQN1dqUmZFbFk2bUpnTiIsIn
+N1YiI6ImdvOjEwMTAxMjg3ODEyNTY2ODIyNDIxNCIsInRleHQi
+OiJQb3NzaWJseSBhbHNvIGEgZmVhdHVyZSB0byBicmluZyB0by
+B2b3RlIHNjaGVkdWxlZCBjaGFuZ2VzIG9mIHRoZSB0aHJlc2hv
+bGQgYWNyb3NzIGEgc3BlY2lmaWMgdGltZSBzcGFuIGJhc2VkIG
+9uIHRoZSBhdmFpbGFiaWxpdHkvZW5nYWdlbWVudCBvZiB0aGUg
+cG9wdWxhY2UgZHVyaW5nIGRpZmZlcmVudCB0aW1lcyBvZiB5ZW
+FyIGV0YyIsImNyZWF0ZWQiOjE3MDQ2NjA4NDI0OTF9LCJtV2w0
+T0t2ckpaVXpZbGl5Ijp7ImRpc2N1c3Npb25JZCI6IjRwMHpmQm
+51N2FLaG9rMGMiLCJzdWIiOiJnbzoxMDEwMTI4NzgxMjU2Njgy
+MjQyMTQiLCJ0ZXh0IjoiU3VjY2VzcyAvIEZhaWx1cmUgd2lsbC
+BuZWVkIHRvIHRha2UgaW50byBhY2NvdW50IHNvbWUgc3RhdGlz
+dGljYWwgbW9kZWxpbmcgb2YgdGhlIHBhcnRpY2lwYXRpbmcgZW
+xlY3RvcmF0ZSwgdGhlIHF1YW50aXR5IG9mIHZvdGVzIGNvdW50
+ZWQsIG1lYXN1cmVkIGFnYWluc3QgYW4gYXZlcmFnZSBvZiByZW
+NlbnQgdm90ZXMgY291bnRlZC4gRGV0ZXJtaW5pbmcgd2hhdCBw
+YXNzZXMgYW5kIHdoYXQgZG9lc24ndCBiYXNlZCBvbiB0aGUgbn
+VtYmVyIG9mIHZvdGVzIHdpdGhpbiBhIHZvdGluZyBib2R5IGlz
+IGdvaW5nIHRvIGJlIGEgY3JpdGljYWwgYW5kIGNvbXBsZXggZm
+VhdHVyZSB0byBzb3J0IG91dCIsImNyZWF0ZWQiOjE3MDQ2NjU1
+MzIzODF9LCJjTDMzRmd5Y3hyVFdNckE1Ijp7ImRpc2N1c3Npb2
+5JZCI6InREaFBzcXlzcmlzTG1lM1ciLCJzdWIiOiJnbzoxMDEw
+MTI4NzgxMjU2NjgyMjQyMTQiLCJ0ZXh0IjoiU3VjY2VzcyAvIE
+ZhaWx1cmUgd2lsbCBuZWVkIHRvIHRha2UgaW50byBhY2NvdW50
+IHNvbWUgc3RhdGlzdGljYWwgbW9kZWxpbmcgb2YgdGhlIHBhcn
+RpY2lwYXRpbmcgZWxlY3RvcmF0ZSwgdGhlIHF1YW50aXR5IG9m
+IHZvdGVzIGNvdW50ZWQsIG1lYXN1cmVkIGFnYWluc3QgYW4gYX
+ZlcmFnZSBvZiByZWNlbnQgdm90ZXMgY291bnRlZC4gRGV0ZXJt
+aW5pbmcgd2hhdCBwYXNzZXMgYW5kIHdoYXQgZG9lc27igJl0IG
+Jhc2VkIG9uIHRoZSBudW1iZXIgb2Ygdm90ZXMgd2l0aGluIGEg
+dm90aW5nIGJvZHkgaXMgZ29pbmcgdG8gYmUgYSBjcml0aWNhbC
+BhbmQgY29tcGxleCBmZWF0dXJlIHRvIHNvcnQgb3V0IiwiY3Jl
+YXRlZCI6MTcwNDY2NTc1NzQ4NH0sIkZHQ3Z1ZExycDN4VFZSbH
+giOnsiZGlzY3Vzc2lvbklkIjoieVNnTHl4YWNYWmVCVDhDMCIs
+InN1YiI6ImdvOjEwMTAxMjg3ODEyNTY2ODIyNDIxNCIsInRleH
+QiOiJBbmNob3IgbGluayB0aGlzIiwiY3JlYXRlZCI6MTc0NjEw
+NDg0MjE5OH19LCJoaXN0b3J5IjpbMTgxNjAxNTc5MiwxMTE2MT
+k0MTY3LDY4NDUzOTA3OF19
 -->
