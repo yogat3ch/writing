@@ -24,7 +24,7 @@ The levels of the hierarchy are as follows:
  
 
 In line with our commitment to transparency, all proposed legislation must be single-topic, easily understandable to high school-educated individuals. AI technology scans bills for unrelated riders, safeguarding against deception in legislative referendums. Additionally, our platform dynamically collates proposed legislation with existing laws in the same **topic area** for display, providing voters with comprehensive context and enabling informed decisions.
-Hereforth, a layer of the political hierarchy will be referred to as a "political tier."
+Hereforth, a layer of the political hierarchy will be referred to as a "**governance tier**."
 
 ### Legislative Cycle
 Our legislative process is divided into six distinct phases, each serving a specific purpose and contributing to the evolution of high quality laws, policy and government services.
@@ -56,10 +56,10 @@ In the text input interface used to write and amend legislation there will be a 
 4. An AI auto-suggestion thesaurus
 
 ###### Word Count and Estimated Reading Time
-A word count and estimated reading time will be provided such that the drafter can be be consistently aware of the amount of time it will take a reader to completely read and comprehend the legislation. Longer and more complex legislation may prevent readers from becoming prospective voters if they're unable to allocate the time necessary to understand the legislation sufficiently to pass [the Comprehension Quiz](#The Comprehension Quiz). Keep in mind that each vote must reach a statistical quorum set specific to the layer of the political hierarchy and proportional to the participants at that level.
+A word count and estimated reading time will be provided such that the drafter can be be consistently aware of the amount of time it will take a reader to completely read and comprehend the legislation. Longer and more complex legislation may prevent readers from becoming prospective voters if they're unable to allocate the time necessary to understand the legislation sufficiently to pass [the Comprehension Quiz](#The Comprehension Quiz). Keep in mind that each vote must reach a statistical quorum set specific to the **governance tier** and proportional to the participants at that level.
 
 ###### A Flesch-kindcaid score & AI Auto suggestion thesaurus
-The Flesch-kincaid score will be provided for the drafter to consider the reading level at which a prospective voter must be to understand the legislation. The threshold score is set at each layer of the political hierarchy by a **vote**. The AI auto-suggestion thesaurus can be used manually throughout the drafting process and will be tuned to provide output at or below the Flesch-kincaid threshold for that 
+The Flesch-kincaid score will be provided for the drafter to consider the reading level at which a prospective voter must be to understand the legislation. The threshold score is set at each **governance tier** by a **vote**. The AI auto-suggestion thesaurus can be used manually throughout the drafting process and will be tuned to provide output at or below the Flesch-kincaid threshold for that 
  
 
 #### Refinement 
@@ -75,7 +75,7 @@ Ultimately, only proposers or amenders are granted edit permissions to make chan
 During the refinement phase, readers are encouraged to highlight critical components of the legislation. These highlights are then used for [abuse prevention](#abuse prevention).
 
 ##### Popularity Voting
-The overall piece of legislation can be voted up or down during the refinement period. A variable threshold between one and seven items of legislation for consideration per period may be set per layer of the political hierarchy that determines the number of top voted pieces of legislation that may enter the voting phase. This number can be brought to vote during any legislative cycle to be changed for the following cycle(s). 
+The overall piece of legislation can be voted up or down during the refinement period. A variable threshold between one and seven items of legislation for consideration per period may be set per **governance tier** that determines the number of top voted pieces of legislation that may enter the voting phase. This number can be brought to vote during any legislative cycle to be changed for the following cycle(s). 
 
 #### Vote
 During the vote phase, the top voted pieces of refined legislation are brought to vote. During this 2 week to month long time period, the legislation remains static. The **Structured Text Interface** mode is available during this phase with only commentary allowed from users. The commentary from the Refinement phase is archived to allow for a focused conversation on the version being voted on. Comment threads may be started on any piece of structured text or the legislation as a whole, facilitating lively debate that will determine whether the legislation fails or is ratified. 
@@ -85,7 +85,7 @@ Ratification of legislation is determined by the outcome of a voting phase with 
 ##### Ratification / Passing Criteria
 Ratification of legislation is determined by the outcome of a voting phase that meets two criteria:
 ###### Star Voting
-Voting is done via a [star voting system](https://www.starvoting.org/) in which candidate legislation is attributed stars on a Likert 1-5 scale. Winners are determined by the average number of stars exceeding a _passing threshold_.  Each voting domain can bring the _passing threshold_ to vote, wherein the threshold of the averaged star count a piece of legislation must achieve to pass is determined. The threshold is agreed upon at each layer of the political hierarchy. 
+Voting is done via a [star voting system](https://www.starvoting.org/) in which candidate legislation is attributed stars on a Likert 1-5 scale. Winners are determined by the average number of stars exceeding a _passing threshold_.  Each voting domain can bring the _passing threshold_ to vote, wherein the threshold of the averaged star count a piece of legislation must achieve to pass is determined. The threshold is agreed upon at each **governance tier**. 
 ###### Quorum / Representative Sampling 
 The ratification also requires a quorum of voters for the given population area over which the legislation will preside. Quorum is established using a statistical modeling power calculation which requires a critical value. 
 $$n=\left(\dfrac{z_{\alpha/2}\sigma}{E}\right)^2$$
@@ -131,7 +131,7 @@ In anticipation of these effects, we've created a system to mitigate the deleter
 
 #### The Comprehension Quiz
 To qualify to vote on a piece of legislation, each person must pass a **comprehension quiz** of randomized questions. The questions are drawn from a bank of questions & answers that is either a) generated by AI or b) user submitted, that the **key points** of a piece of legislation. A **key point** is a section of legislation with a total number of highlights above the mean number of highlights for any given section. A **key point** will be used to derive multiple AI generated iterations of question and answer pairs to populate the bank of possible questions displayed to users.  All question and answer pairs are approved by the proposers & amenders of the legislation, collectively the **legislation proposal team**. 
-The **key points** are selected from all user's highlights retained in the final text of the legislation. An **importance score** is attributed to each question based on the aggregate number of highlights made to that section. The **importance score** will influence the frequency of its appearance in **comprehension quizzes**. The **importance score** will be algorithmically balanced by a randomization score to determine overall frequency of appearance. The randomization score is used to ensure the rotation of questions between **comprehension quiz** deliveries. The number of questions in a **comprehension quiz** will be proportional to the number of **key points** in the legislation. In order to vote on a piece of legislation, a voter must pass the **comprehension quiz** with a score above the threshold set for that layer of the political hierarchy.
+The **key points** are selected from all user's highlights retained in the final text of the legislation. An **importance score** is attributed to each question based on the aggregate number of highlights made to that section. The **importance score** will influence the frequency of its appearance in **comprehension quizzes**. The **importance score** will be algorithmically balanced by a randomization score to determine overall frequency of appearance. The randomization score is used to ensure the rotation of questions between **comprehension quiz** deliveries. The number of questions in a **comprehension quiz** will be proportional to the number of **key points** in the legislation. In order to vote on a piece of legislation, a voter must pass the **comprehension quiz** with a score above the threshold set for that **governance tier**.
 
 
 ###  Timing of Cycles
@@ -146,11 +146,11 @@ Total characters and total reading time, instead of a 1-7 threshold of pieces of
 Users may revoke their vote from any piece of legislation during the vote process at any point prior to the ratification decision at the conclusion of the vote period. 
 
 #### Override
-In emergency circumstances such as natural disaster, threat of war, etc it may be necessary to bring legislation to vote with more immediacy than the next cycle in which it's **topic area** would have come up for vote. A piece of legislation can be flagged as Urgent. If flagged as urgent by a quorum of people in the layer of the political hierarchy, it can be brought to vote in the current cycle, regardless of whether it matches the current **topic area**.
+In emergency circumstances such as natural disaster, threat of war, etc it may be necessary to bring legislation to vote with more immediacy than the next cycle in which it's **topic area** would have come up for vote. A piece of legislation can be flagged as Urgent. If flagged as urgent by a quorum of people in the **governance tier**, it can be brought to vote in the current cycle, regardless of whether it matches the current **topic area**.
 
 ### Abstention
 
-In our dynamic voting system, participants have the flexibility to abstain from any vote, whether it pertains to an individual piece of legislation, a specific **topic area**, a particular level of government, or for a predetermined period, even indefinitely. To streamline this process, abstention settings are strategically placed within the settings tabs for each layer of the governance hierarchy and in each voting topic pane. This allows users to tailor their abstention preferences to specific levels of government or topics. All granular settings, spanning **topic area**s and layers of government, can be conveniently managed directly from their respective panes. Furthermore, these granular settings are aggregated into global abstention settings accessible from the global settings menu. This aggregated configuration is easily accessible through the user's profile settings menu, providing a centralized location for managing and customizing abstention preferences across the dynamic voting system.
+In our dynamic voting system, participants have the flexibility to abstain from any vote, whether it pertains to an individual piece of legislation, a specific **topic area**, a particular level of government, or for a predetermined period, even indefinitely. To streamline this process, abstention settings are strategically placed within the settings tabs for each **governance tier** and in each voting topic pane. This allows users to tailor their abstention preferences to specific levels of government or topics. All granular settings, spanning **topic area**s and layers of government, can be conveniently managed directly from their respective panes. Furthermore, these granular settings are aggregated into global abstention settings accessible from the global settings menu. This aggregated configuration is easily accessible through the user's profile settings menu, providing a centralized location for managing and customizing abstention preferences across the dynamic voting system.
 
 
 ## Representation
@@ -216,16 +216,16 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo5MTg5LCJlbmQiOjkxOTR9
+RleHQiOiJzZXZlbiIsInN0YXJ0Ijo5MTY4LCJlbmQiOjkxNzN9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjkzOTMsImVuZCI6OTQ1MX
+bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjkzNTksImVuZCI6OTQxN3
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6MTE4NDYsImVuZCI6MT
-E4NDZ9LCJ0RGhQc3F5c3Jpc0xtZTNXIjp7InRleHQiOiJmYWls
-cyB0aGUgdm90aW5nIHJvdW5kIiwic3RhcnQiOjEwMzQ5LCJlbm
-QiOjEwMzQ5fSwieVNnTHl4YWNYWmVCVDhDMCI6eyJzdGFydCI6
-MjEwNDgsImVuZCI6MjEwNzAsInRleHQiOiIqKkFmZmluaXR5IF
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6MTE3OTksImVuZCI6MT
+E3OTl9LCJ0RGhQc3F5c3Jpc0xtZTNXIjp7InRleHQiOiJmYWls
+cyB0aGUgdm90aW5nIHJvdW5kIiwic3RhcnQiOjEwMzE1LCJlbm
+QiOjEwMzE1fSwieVNnTHl4YWNYWmVCVDhDMCI6eyJzdGFydCI6
+MjA5NjEsImVuZCI6MjA5ODMsInRleHQiOiIqKkFmZmluaXR5IF
 RocmVzaG9sZCoqIn19LCJjb21tZW50cyI6eyJHMEVjVzVPZDQx
 QTNUcmNMIjp7ImRpc2N1c3Npb25JZCI6Ildra0JNZDNpblpmYk
 84OFAiLCJzdWIiOiJnbzoxMDEwMTI4NzgxMjU2NjgyMjQyMTQi
@@ -271,6 +271,6 @@ YXRlZCI6MTcwNDY2NTc1NzQ4NH0sIkZHQ3Z1ZExycDN4VFZSbH
 giOnsiZGlzY3Vzc2lvbklkIjoieVNnTHl4YWNYWmVCVDhDMCIs
 InN1YiI6ImdvOjEwMTAxMjg3ODEyNTY2ODIyNDIxNCIsInRleH
 QiOiJBbmNob3IgbGluayB0aGlzIiwiY3JlYXRlZCI6MTc0NjEw
-NDg0MjE5OH19LCJoaXN0b3J5IjpbNDE4MDM5Nzc4LDExMTYxOT
+NDg0MjE5OH19LCJoaXN0b3J5IjpbMjExNDM5MjUyLDExMTYxOT
 QxNjcsNjg0NTM5MDc4XX0=
 -->
