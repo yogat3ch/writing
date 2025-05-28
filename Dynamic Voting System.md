@@ -44,8 +44,10 @@ In the text input interface used to write and amend legislation there will be a 
 4. An AI auto-suggestion thesaurus
 
 ###### Word Count and Estimated Reading Time
-A word count and estimated reading time will be provided such that the drafter can be be consistently aware of the amount of time it will take a reader to completely read and comprehend the legislation. Longer and more complex legislation may prevent readers from becoming prospective voters if they're unable to allocate the time necessary to understand the legislation sufficiently to pass [the Comprehension Quiz](#The Comprehension Quiz). Keep in mind that each vote must reach a statistical quorum set at the level
+A word count and estimated reading time will be provided such that the drafter can be be consistently aware of the amount of time it will take a reader to completely read and comprehend the legislation. Longer and more complex legislation may prevent readers from becoming prospective voters if they're unable to allocate the time necessary to understand the legislation sufficiently to pass [the Comprehension Quiz](#The Comprehension Quiz). Keep in mind that each vote must reach a statistical quorum set specific to the layer of the political hierarchy and proportional to the participants at that level.
 
+###### A Flesch-kindcaid score 
+The Flesch-kincaid score will be provided for the drafter to consider the reading level at which a prospective voter must be to understand the legislation
  
 
 #### Refinement 
@@ -202,16 +204,16 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo3ODIwLCJlbmQiOjc4MjV9
+RleHQiOiJzZXZlbiIsInN0YXJ0Ijo4MDk1LCJlbmQiOjgxMDB9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjgwMjQsImVuZCI6ODA4Mn
+bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjgyOTksImVuZCI6ODM1N3
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6MTA0NzcsImVuZCI6MT
-A0Nzd9LCJ0RGhQc3F5c3Jpc0xtZTNXIjp7InRleHQiOiJmYWls
-cyB0aGUgdm90aW5nIHJvdW5kIiwic3RhcnQiOjg5ODAsImVuZC
-I6ODk4MH0sInlTZ0x5eGFjWFplQlQ4QzAiOnsic3RhcnQiOjE5
-Njc5LCJlbmQiOjE5NzAxLCJ0ZXh0IjoiKipBZmZpbml0eSBUaH
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6MTA3NTIsImVuZCI6MT
+A3NTJ9LCJ0RGhQc3F5c3Jpc0xtZTNXIjp7InRleHQiOiJmYWls
+cyB0aGUgdm90aW5nIHJvdW5kIiwic3RhcnQiOjkyNTUsImVuZC
+I6OTI1NX0sInlTZ0x5eGFjWFplQlQ4QzAiOnsic3RhcnQiOjE5
+OTU0LCJlbmQiOjE5OTc2LCJ0ZXh0IjoiKipBZmZpbml0eSBUaH
 Jlc2hvbGQqKiJ9fSwiY29tbWVudHMiOnsiRzBFY1c1T2Q0MUEz
 VHJjTCI6eyJkaXNjdXNzaW9uSWQiOiJXa2tCTWQzaW5aZmJPOD
 hQIiwic3ViIjoiZ286MTAxMDEyODc4MTI1NjY4MjI0MjE0Iiwi
@@ -257,6 +259,6 @@ ZWQiOjE3MDQ2NjU3NTc0ODR9LCJGR0N2dWRMcnAzeFRWUmx4Ij
 p7ImRpc2N1c3Npb25JZCI6InlTZ0x5eGFjWFplQlQ4QzAiLCJz
 dWIiOiJnbzoxMDEwMTI4NzgxMjU2NjgyMjQyMTQiLCJ0ZXh0Ij
 oiQW5jaG9yIGxpbmsgdGhpcyIsImNyZWF0ZWQiOjE3NDYxMDQ4
-NDIxOTh9fSwiaGlzdG9yeSI6Wy0xNDAzMDM1OTU1LDY4NDUzOT
+NDIxOTh9fSwiaGlzdG9yeSI6Wy0xODM4MDI1MDk2LDY4NDUzOT
 A3OF19
 -->
