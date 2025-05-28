@@ -59,7 +59,7 @@ In the text input interface used to write and amend legislation there will be a 
 A word count and estimated reading time will be provided such that the drafter can be be consistently aware of the amount of time it will take a reader to completely read and comprehend the legislation. Longer and more complex legislation may prevent readers from becoming prospective voters if they're unable to allocate the time necessary to understand the legislation sufficiently to pass [the Comprehension Quiz](#The Comprehension Quiz). Keep in mind that each vote must reach a statistical quorum set specific to the **governance tier** and proportional to the participants at that level.
 
 ###### A Flesch-kindcaid score & AI Auto suggestion thesaurus
-The Flesch-kincaid score will be provided for the drafter to consider the reading level at which a prospective voter must be to understand the legislation. The threshold score is set at each **governance tier** by a **vote**. The AI auto-suggestion thesaurus can be used manually throughout the drafting process and will be tuned to provide output at or below the Flesch-kincaid threshold for that 
+The Flesch-kincaid score will be provided for the drafter to consider the reading level at which a prospective voter must be to understand the legislation. The threshold score is set at each **governance tier** by a **vote**. The AI auto-suggestion thesaurus can be used manually throughout the drafting process and will be tuned to provide output at or below the Flesch-kincaid threshold for that **governance tier**. When a sentence pushes the document over the threshold for that tier, the AI will automatically prompt with a simplified way of communicating the same concept.
  
 
 #### Refinement 
@@ -178,7 +178,7 @@ hierarchy will set it's custom **Affinity Threshold** which is a set of criteria
 - Casting 40 votes on various pieces of legislation across 12 legislative cycles
 - Suggesting amendments to 10 pieces of legislation of which 50% are ratified.
 
-Once the **Affinity Threshold** criteria for that layer of the political hierarchy are met the user can then select a representative. 
+Once the **Affinity Threshold** criteria for that **governance tier** are met the user can then select a representative. 
 
 The **Representative Unbinding** is a mechanism to ensure that user's representative selections continue to reflect their values as the representative votes. As a representative votes, all of their **constituents** receive notifications about the representative's vote and are offered a **vote approval**. A **vote approval** consists of:
  - a link to a summary of the legislation with key points
@@ -216,16 +216,16 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo5MTY4LCJlbmQiOjkxNzN9
+RleHQiOiJzZXZlbiIsInN0YXJ0Ijo5MzQ4LCJlbmQiOjkzNTN9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjkzNTksImVuZCI6OTQxN3
+bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjk1MzksImVuZCI6OTU5N3
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6MTE3OTksImVuZCI6MT
-E3OTl9LCJ0RGhQc3F5c3Jpc0xtZTNXIjp7InRleHQiOiJmYWls
-cyB0aGUgdm90aW5nIHJvdW5kIiwic3RhcnQiOjEwMzE1LCJlbm
-QiOjEwMzE1fSwieVNnTHl4YWNYWmVCVDhDMCI6eyJzdGFydCI6
-MjA5NjEsImVuZCI6MjA5ODMsInRleHQiOiIqKkFmZmluaXR5IF
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6MTE5NzksImVuZCI6MT
+E5Nzl9LCJ0RGhQc3F5c3Jpc0xtZTNXIjp7InRleHQiOiJmYWls
+cyB0aGUgdm90aW5nIHJvdW5kIiwic3RhcnQiOjEwNDk1LCJlbm
+QiOjEwNDk1fSwieVNnTHl4YWNYWmVCVDhDMCI6eyJzdGFydCI6
+MjExNDEsImVuZCI6MjExNjMsInRleHQiOiIqKkFmZmluaXR5IF
 RocmVzaG9sZCoqIn19LCJjb21tZW50cyI6eyJHMEVjVzVPZDQx
 QTNUcmNMIjp7ImRpc2N1c3Npb25JZCI6Ildra0JNZDNpblpmYk
 84OFAiLCJzdWIiOiJnbzoxMDEwMTI4NzgxMjU2NjgyMjQyMTQi
@@ -271,6 +271,6 @@ YXRlZCI6MTcwNDY2NTc1NzQ4NH0sIkZHQ3Z1ZExycDN4VFZSbH
 giOnsiZGlzY3Vzc2lvbklkIjoieVNnTHl4YWNYWmVCVDhDMCIs
 InN1YiI6ImdvOjEwMTAxMjg3ODEyNTY2ODIyNDIxNCIsInRleH
 QiOiJBbmNob3IgbGluayB0aGlzIiwiY3JlYXRlZCI6MTc0NjEw
-NDg0MjE5OH19LCJoaXN0b3J5IjpbMjExNDM5MjUyLDExMTYxOT
+NDg0MjE5OH19LCJoaXN0b3J5IjpbNTcwNTQwNTQ0LDExMTYxOT
 QxNjcsNjg0NTM5MDc4XX0=
 -->
