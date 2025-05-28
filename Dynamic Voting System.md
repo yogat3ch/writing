@@ -10,6 +10,7 @@ But what truly sets our system apart is the concept of representation. Users can
 ## Legislation
 The dynamic voting system encourages active engagement in the legislative process. Anyone can propose ideas for new laws or changes to existing ones, promoting inclusivity. These proposals undergo community discussion and can be upvoted. Users play a pivotal role with upvotes by identifying and enhancing promising legislation for broader consideration.
 
+### Levels of Political Hierarchy
 The system is architected as a multi-tiered hierarchical structure, mirroring the layers of government, with legislation always starting at the municipal level. This approach ensures that laws are grounded in local needs while allowing for broader perspectives as they ascend the hierarchy.
 
 The levels of the hierarchy are as follows:
@@ -23,6 +24,7 @@ The levels of the hierarchy are as follows:
  
 
 In line with our commitment to transparency, all proposed legislation must be single-topic, easily understandable to high school-educated individuals. AI technology scans bills for unrelated riders, safeguarding against deception in legislative referendums. Additionally, our platform dynamically collates proposed legislation with existing laws in the same **topic area** for display, providing voters with comprehensive context and enabling informed decisions.
+Hereforth, a layer of the political hierarchy will be referred to as a "political tier."
 
 ### Legislative Cycle
 Our legislative process is divided into six distinct phases, each serving a specific purpose and contributing to the evolution of high quality laws, policy and government services.
@@ -214,16 +216,16 @@ Blockchain technology stands as a cornerstone in fortifying the security and tra
 Incorporating blockchain into our dynamic voting system not only fortifies its security but also aligns with the principles of transparency, accountability, and trust that underpin a robust democratic process. This innovative integration ensures that every participant interaction is recorded and preserved, fostering a resilient and secure platform for democratic engagement.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJXa2tCTWQzaW5aZmJPODhQIjp7In
-RleHQiOiJzZXZlbiIsInN0YXJ0Ijo5MDY2LCJlbmQiOjkwNzF9
+RleHQiOiJzZXZlbiIsInN0YXJ0Ijo5MTg5LCJlbmQiOjkxOTR9
 LCI0TFA3V2pSZkVsWTZtSmdOIjp7InRleHQiOiJudW1iZXIgY2
 FuIGJlIGJyb3VnaHQgdG8gdm90ZSBkdXJpbmcgYW55IGxlZ2lz
-bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjkyNzAsImVuZCI6OTMyOH
+bGF0aXZlIGN5Y2xlIiwic3RhcnQiOjkzOTMsImVuZCI6OTQ1MX
 0sIjRwMHpmQm51N2FLaG9rMGMiOnsidGV4dCI6ImZhaWxzIHRo
-ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6MTE3MjMsImVuZCI6MT
-E3MjN9LCJ0RGhQc3F5c3Jpc0xtZTNXIjp7InRleHQiOiJmYWls
-cyB0aGUgdm90aW5nIHJvdW5kIiwic3RhcnQiOjEwMjI2LCJlbm
-QiOjEwMjI2fSwieVNnTHl4YWNYWmVCVDhDMCI6eyJzdGFydCI6
-MjA5MjUsImVuZCI6MjA5NDcsInRleHQiOiIqKkFmZmluaXR5IF
+ZSB2b3Rpbmcgcm91bmQiLCJzdGFydCI6MTE4NDYsImVuZCI6MT
+E4NDZ9LCJ0RGhQc3F5c3Jpc0xtZTNXIjp7InRleHQiOiJmYWls
+cyB0aGUgdm90aW5nIHJvdW5kIiwic3RhcnQiOjEwMzQ5LCJlbm
+QiOjEwMzQ5fSwieVNnTHl4YWNYWmVCVDhDMCI6eyJzdGFydCI6
+MjEwNDgsImVuZCI6MjEwNzAsInRleHQiOiIqKkFmZmluaXR5IF
 RocmVzaG9sZCoqIn19LCJjb21tZW50cyI6eyJHMEVjVzVPZDQx
 QTNUcmNMIjp7ImRpc2N1c3Npb25JZCI6Ildra0JNZDNpblpmYk
 84OFAiLCJzdWIiOiJnbzoxMDEwMTI4NzgxMjU2NjgyMjQyMTQi
@@ -269,6 +271,6 @@ YXRlZCI6MTcwNDY2NTc1NzQ4NH0sIkZHQ3Z1ZExycDN4VFZSbH
 giOnsiZGlzY3Vzc2lvbklkIjoieVNnTHl4YWNYWmVCVDhDMCIs
 InN1YiI6ImdvOjEwMTAxMjg3ODEyNTY2ODIyNDIxNCIsInRleH
 QiOiJBbmNob3IgbGluayB0aGlzIiwiY3JlYXRlZCI6MTc0NjEw
-NDg0MjE5OH19LCJoaXN0b3J5IjpbLTQzODQ0NDQzMSwxMTE2MT
-k0MTY3LDY4NDUzOTA3OF19
+NDg0MjE5OH19LCJoaXN0b3J5IjpbNDE4MDM5Nzc4LDExMTYxOT
+QxNjcsNjg0NTM5MDc4XX0=
 -->
