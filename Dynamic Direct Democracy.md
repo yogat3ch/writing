@@ -179,6 +179,7 @@ hierarchy will set it's custom **Affinity Threshold** which is a set of criteria
 
 - Casting 40 votes on various pieces of legislation across 12 legislative cycles
 - Suggesting amendments to 10 pieces of legislation of which 50% are ratified.
+- Constituents voting records must be 85% aligned with a representative for that person to be able to choose that person as their representative
 
 Once the **Affinity Threshold** criteria for that **governance tier** are met the user can then select a representative. 
 
@@ -274,6 +275,6 @@ YXRlZCI6MTcwNDY2NTc1NzQ4NH0sIkZHQ3Z1ZExycDN4VFZSbH
 giOnsiZGlzY3Vzc2lvbklkIjoieVNnTHl4YWNYWmVCVDhDMCIs
 InN1YiI6ImdvOjEwMTAxMjg3ODEyNTY2ODIyNDIxNCIsInRleH
 QiOiJBbmNob3IgbGluayB0aGlzIiwiY3JlYXRlZCI6MTc0NjEw
-NDg0MjE5OH19LCJoaXN0b3J5IjpbLTgwNTE1MjA3NCwtMTA5Mj
-c4ODQwMSwxNjg5MjExOTEwLDE4MTYwMTU3OTJdfQ==
+NDg0MjE5OH19LCJoaXN0b3J5IjpbMzkxOTQ2MzYzLC0xMDkyNz
+g4NDAxLDE2ODkyMTE5MTAsMTgxNjAxNTc5Ml19
 -->
