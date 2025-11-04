@@ -197,7 +197,8 @@ Additionally, a data visualization shows the percentage of alignment between the
 
 In order to provide full transparency to users, every person that opts to act as a **representative** will have all of their **intro questionnaire** answers, their entire **voting history**, and their **legislative proposals**, **amendments**, and **active legislation** made public and searchable. This will allow users to continuously determine the representatives most aligned with their interests.
 
-
+#### Default Representative
+During the transition to this system, existing representatives will have accounts in the system, and they will be the default "representative" for all the incoming users in their domain. 
 
 
 # Security
@@ -275,6 +276,6 @@ YXRlZCI6MTcwNDY2NTc1NzQ4NH0sIkZHQ3Z1ZExycDN4VFZSbH
 giOnsiZGlzY3Vzc2lvbklkIjoieVNnTHl4YWNYWmVCVDhDMCIs
 InN1YiI6ImdvOjEwMTAxMjg3ODEyNTY2ODIyNDIxNCIsInRleH
 QiOiJBbmNob3IgbGluayB0aGlzIiwiY3JlYXRlZCI6MTc0NjEw
-NDg0MjE5OH19LCJoaXN0b3J5IjpbMzkxOTQ2MzYzLC0xMDkyNz
-g4NDAxLDE2ODkyMTE5MTAsMTgxNjAxNTc5Ml19
+NDg0MjE5OH19LCJoaXN0b3J5IjpbLTg4MzQzMjUxMSwtMTA5Mj
+c4ODQwMSwxNjg5MjExOTEwLDE4MTYwMTU3OTJdfQ==
 -->
