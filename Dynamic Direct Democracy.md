@@ -184,8 +184,9 @@ Once the **Affinity Threshold** criteria for that **governance tier** are met th
 
 The **Representative Unbinding** is a mechanism to ensure that user's representative selections continue to reflect their values as the representative votes. As a representative votes, all of their **constituents** receive notifications about the representative's vote and are offered a **vote approval**. A **vote approval** consists of:
  - a link to a summary of the legislation with key points
- - a short **comprehension quiz** over the key points
  - a binary question to the user as to whether they approve or disapprove of the representatives choice 
+ - a short **comprehension quiz** over the key points of the legislation.
+ 
 
 If a user disapproves of a representatives choice while a voting window is still active, the vote for that user is removed from the representative's voting points cast towards the legislation. If a user approves of a representatives choice, the vote will be recorded in the user's voting history.  All of the voting record of a person's representative is logged for the user to cast **vote approvals**. A user is encouraged to log in and periodically evaluate whether the representative continues to represent them faithfully by responding to the **vote approval** backlog. If the unanswered **vote approval** backlog exceeds 60% of the total votes cast by the representative on behalf of the constituent, the user's vote becomes unbound from the representative, for which a user receives a notification. Votes cast by that representative will no longer have the user's vote until the user answers at least 60% of the **vote approval** backlog. 
 
@@ -273,6 +274,6 @@ YXRlZCI6MTcwNDY2NTc1NzQ4NH0sIkZHQ3Z1ZExycDN4VFZSbH
 giOnsiZGlzY3Vzc2lvbklkIjoieVNnTHl4YWNYWmVCVDhDMCIs
 InN1YiI6ImdvOjEwMTAxMjg3ODEyNTY2ODIyNDIxNCIsInRleH
 QiOiJBbmNob3IgbGluayB0aGlzIiwiY3JlYXRlZCI6MTc0NjEw
-NDg0MjE5OH19LCJoaXN0b3J5IjpbLTEwOTI3ODg0MDEsMTY4OT
-IxMTkxMCwxODE2MDE1NzkyXX0=
+NDg0MjE5OH19LCJoaXN0b3J5IjpbLTgwNTE1MjA3NCwtMTA5Mj
+c4ODQwMSwxNjg5MjExOTEwLDE4MTYwMTU3OTJdfQ==
 -->
