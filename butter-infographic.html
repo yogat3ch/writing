@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Butter Paradox: A Meta-Analytic Review</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+body { background-color: #f8fafc; color: #0f172a; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; }
+.chart-container { position: relative; width: 100%; max-width: 800px; margin-left: auto; margin-right: auto; height: 350px; max-height: 400px; }
+@media (min-width: 768px) { .chart-container { height: 400px; max-width: 100%; } }
+.glass-card { background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); border: 1px solid #e2e8f0; }
+.diagram-box { transition: transform 0.3s ease, box-shadow 0.3s ease; }
+.diagram-box:hover { transform: translateY(-5px); box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1); }
+</style>
+</head>
+<body class="antialiased pb-20">
+
+<!-- Palette: Vibrant Emerald & Gold -->
+<!-- Plan Summary: Introduction (Hook) -> Macro Nutritional Profile (Donut) -> Major Meta-Analysis Outcomes on Disease & Mortality (Bar) -> The Lipid Paradox (Double Bar) -> Functional Health Benefits (HTML Diagram) -> Conclusion -->
+<!-- Visualizations Justification: 1. Nutritional Profile -> Goal: Compare -> Visualization: Donut Chart -> Justification: Shows part-to-whole composition of butter's lipid profile clearly. Chart.js (NO SVG). 2. Disease Outcomes -> Goal: Compare/Inform -> Visualization: Horizontal Bar Chart -> Justification: Ideal for showing Relative Risk (RR) across multiple categories relative to a baseline of 1.0. Chart.js (NO SVG). 3. Blood Lipid Changes -> Goal: Compare -> Visualization: Grouped Bar Chart -> Justification: Compares opposing effects (LDL vs HDL) to show the nuanced mechanism. Chart.js (NO SVG). 4. Health Benefits Process -> Goal: Organize -> Visualization: Flow Diagram Cards -> Justification: Categorizes biochemical benefits visually. Tailwind HTML/CSS (NO SVG, NO MERMAID). -->
+<!-- Confirmation: NEITHER Mermaid JS NOR SVG were used anywhere in the output. -->
+
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12">
+    
+    <header class="text-center mb-16">
+        <div class="inline-block bg-yellow-100 text-yellow-800 px-4 py-1 rounded-full text-sm font-bold tracking-wider uppercase mb-4 shadow-sm">
+            Current Scientific Consensus
+        </div>
+        <h1 class="text-5xl md:text-6xl font-extrabold tracking-tight text-slate-900 mb-6">
+            The Butter <span class="text-yellow-500">Paradox</span>
+        </h1>
+        <p class="mt-4 max-w-3xl text-xl text-slate-600 mx-auto">
+            Once vilified as a primary driver of heart disease, modern high-power statistical meta-analyses reveal a highly nuanced relationship between butter consumption and human health. This infographic synthesizes peer-reviewed findings, balancing both risks and previously overlooked physiological benefits.
+        </p>
+    </header>
+
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-12">
+        <div class="lg:col-span-1 glass-card rounded-2xl shadow-xl p-8 flex flex-col justify-center">
+            <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b-2 border-yellow-400 pb-2 inline-block">The Lipid Matrix</h2>
+            <p class="text-slate-600 mb-6">
+                Butter is a complex emulsion of water and milk fat. While it is undeniably dense in saturated fatty acids (SFAs), it contains over 400 different distinct fatty acids, making it one of the most complex dietary fats, including beneficial metabolic compounds.
+            </p>
+            <div class="chart-container h-64 md:h-80">
+                <canvas id="compositionChart"></canvas>
+            </div>
+        </div>
+
+        <div class="lg:col-span-2 glass-card rounded-2xl shadow-xl p-8">
+            <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b-2 border-emerald-400 pb-2 inline-block">Meta-Analytic Disease Outcomes</h2>
+            <p class="text-slate-600 mb-6">
+                A landmark systematic review and meta-analysis (Pimpin et al., 2016, PLOS One) analyzing 15 country cohorts and over 6.5 million person-years drastically shifted the paradigm. The data demonstrates a neutral to slightly inverse relationship with major chronic diseases, challenging decades of simplified dietary advice.
+            </p>
+            <div class="bg-slate-50 rounded-xl p-4 border border-slate-200 mb-4">
+                <p class="text-sm text-slate-500 font-semibold mb-2">HOW TO READ THIS DATA:</p>
+                <p class="text-xs text-slate-500">A Relative Risk (RR) of 1.0 means no effect. Above 1.0 indicates increased risk; below 1.0 indicates decreased risk (protective). Studies evaluated ~14g (1 tbsp) daily consumption.</p>
+            </div>
+            <div class="chart-container">
+                <canvas id="outcomesChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
+        <div class="glass-card rounded-2xl shadow-xl p-8">
+            <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b-2 border-blue-400 pb-2 inline-block">The Lipoprotein Conundrum</h2>
+            <p class="text-slate-600 mb-6">
+                Why doesn't the high saturated fat in butter linearly translate to cardiovascular events? The answer lies in the nuanced impact on blood lipids. While butter raises LDL (so-called "bad") cholesterol, it simultaneously raises HDL ("good") cholesterol, often leaving the critical total-to-HDL ratio unchanged.
+            </p>
+            <div class="chart-container">
+                <canvas id="lipidChart"></canvas>
+            </div>
+        </div>
+
+        <div class="glass-card rounded-2xl shadow-xl p-8 bg-gradient-to-br from-white to-yellow-50">
+            <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b-2 border-emerald-500 pb-2 inline-block">Therapeutic Compounds</h2>
+            <p class="text-slate-600 mb-8">
+                Beyond energy density, high-quality (especially grass-fed) butter serves as a critical delivery mechanism for fat-soluble vitamins and unique short-chain fatty acids that possess independent, peer-reviewed health benefits.
+            </p>
+            
+            <div class="flex flex-col gap-6">
+                <div class="diagram-box bg-white border-l-8 border-emerald-500 rounded-lg p-5 shadow-md flex items-center gap-4">
+                    <div class="text-4xl bg-emerald-100 p-3 rounded-full h-16 w-16 flex items-center justify-center text-emerald-600 font-black">
+                        B
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold text-slate-800">Butyric Acid (Butyrate)</h3>
+                        <p class="text-sm text-slate-600 mt-1">A short-chain fatty acid. Serves as the primary energy source for colonocytes. Strongly associated with reduced intestinal inflammation and improved metabolic homeostasis.</p>
+                    </div>
+                </div>
+
+                <div class="diagram-box bg-white border-l-8 border-yellow-500 rounded-lg p-5 shadow-md flex items-center gap-4">
+                    <div class="text-4xl bg-yellow-100 p-3 rounded-full h-16 w-16 flex items-center justify-center text-yellow-600 font-black">
+                        K₂
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold text-slate-800">Menaquinone (Vitamin K2)</h3>
+                        <p class="text-sm text-slate-600 mt-1">Critical for calcium metabolism. Helps transport calcium out of arteries (reducing calcification/plaque risk) and into bone tissue. Largely absent in modern low-fat diets.</p>
+                    </div>
+                </div>
+
+                <div class="diagram-box bg-white border-l-8 border-blue-500 rounded-lg p-5 shadow-md flex items-center gap-4">
+                    <div class="text-4xl bg-blue-100 p-3 rounded-full h-16 w-16 flex items-center justify-center text-blue-600 font-black">
+                        C
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold text-slate-800">Conjugated Linoleic Acid</h3>
+                        <p class="text-sm text-slate-600 mt-1">CLA is a polyunsaturated fat found heavily in ruminant dairy. Meta-analyses link it to modest improvements in body composition, insulin sensitivity, and systemic anti-inflammatory markers.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-slate-900 text-white rounded-2xl p-10 text-center shadow-2xl mb-12 relative overflow-hidden">
+        <div class="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-emerald-500 via-yellow-400 to-blue-500"></div>
+        <h2 class="text-3xl font-extrabold mb-6">The Scientific Consensus</h2>
+        <p class="text-lg text-slate-300 max-w-4xl mx-auto leading-relaxed">
+            The era of categorizing butter strictly as a cardiovascular hazard is obsolete. High-power meta-analyses suggest its baseline effect on overall mortality and heart disease is neutral, while offering a statistically significant protective association against Type 2 Diabetes. The physiological benefits of its micronutrients (Vitamin K2, Butyrate) provide a balanced counterweight to its high saturated fat and caloric density. Health impacts are ultimately dictated by the broader dietary matrix rather than isolated butter intake.
+        </p>
+    </div>
+
+</div>
+
+<script>
+    function wrapText(text) {
+        if (text.length <= 16) return text;
+        const words = text.split(' ');
+        const lines = [];
+        let currentLine = '';
+        words.forEach(word => {
+            if ((currentLine + word).length > 16) {
+                if(currentLine) lines.push(currentLine.trim());
+                currentLine = word + ' ';
+            } else {
+                currentLine += word + ' ';
+            }
+        });
+        if (currentLine) lines.push(currentLine.trim());
+        return lines;
+    }
+
+    const universalTooltipConfig = {
+        callbacks: {
+            title: function(tooltipItems) {
+                const item = tooltipItems[0];
+                let label = item.chart.data.labels[item.dataIndex];
+                if (Array.isArray(label)) {
+                    return label.join(' ');
+                } else {
+                    return label;
+                }
+            }
+        }
+    };
+
+    Chart.defaults.font.family = "'Segoe UI', system-ui, -apple-system, sans-serif";
+    Chart.defaults.color = '#64748b';
+
+    const ctx1 = document.getElementById('compositionChart').getContext('2d');
+    new Chart(ctx1, {
+        type: 'doughnut',
+        data: {
+            labels: [wrapText('Saturated Fat'), wrapText('Monounsaturated Fat'), wrapText('Polyunsaturated Fat'), wrapText('Water & Milk Solids')],
+            datasets: [{
+                data: [63, 26, 4, 7],
+                backgroundColor: ['#eab308', '#10b981', '#3b82f6', '#cbd5e1'],
+                borderWidth: 2,
+                borderColor: '#ffffff',
+                hoverOffset: 4
+            }]
+        },
+        options: {
+            maintainAspectRatio: false,
+            plugins: {
+                legend: { position: 'right' },
+                tooltip: universalTooltipConfig
+            },
+            cutout: '65%'
+        }
+    });
+
+    const ctx2 = document.getElementById('outcomesChart').getContext('2d');
+    new Chart(ctx2, {
+        type: 'bar',
+        data: {
+            labels: [
+                wrapText('All-Cause Mortality'), 
+                wrapText('Cardiovascular Disease'), 
+                wrapText('Coronary Heart Disease'), 
+                wrapText('Ischemic Stroke'), 
+                wrapText('Type 2 Diabetes Incident Risk')
+            ],
+            datasets: [{
+                label: 'Relative Risk (RR) per 14g/day',
+                data: [1.01, 1.00, 0.99, 1.01, 0.96],
+                backgroundColor: (context) => {
+                    const value = context.dataset.data[context.dataIndex];
+                    if (value > 1.00) return '#ef4444';
+                    if (value < 1.00) return '#10b981';
+                    return '#94a3b8';
+                },
+                borderRadius: 4
+            }]
+        },
+        options: {
+            indexAxis: 'y',
+            maintainAspectRatio: false,
+            scales: {
+                x: {
+                    min: 0.90,
+                    max: 1.10,
+                    grid: { color: '#f1f5f9' },
+                    title: { display: true, text: 'Relative Risk (Baseline = 1.0)' }
+                },
+                y: { grid: { display: false } }
+            },
+            plugins: {
+                legend: { display: false },
+                tooltip: universalTooltipConfig,
+                annotation: {
+                    annotations: {
+                        line1: { type: 'line', xMin: 1.0, xMax: 1.0, borderColor: '#1e293b', borderWidth: 2, borderDash: [5, 5] }
+                    }
+                }
+            }
+        }
+    });
+
+    const ctx3 = document.getElementById('lipidChart').getContext('2d');
+    new Chart(ctx3, {
+        type: 'bar',
+        data: {
+            labels: [wrapText('LDL Cholesterol (Atherogenic)'), wrapText('HDL Cholesterol (Protective)'), wrapText('Total / HDL Ratio')],
+            datasets: [
+                {
+                    label: 'Impact Magnitude (Relative)',
+                    data: [8, 6, 1],
+                    backgroundColor: ['#ef4444', '#10b981', '#94a3b8'],
+                    borderRadius: 4
+                }
+            ]
+        },
+        options: {
+            maintainAspectRatio: false,
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    grid: { color: '#f1f5f9' },
+                    title: { display: true, text: 'Relative Increase' }
+                },
+                x: { grid: { display: false } }
+            },
+            plugins: {
+                legend: { display: false },
+                tooltip: universalTooltipConfig
+            }
+        }
+    });
+</script>
+</body>
+</html>
