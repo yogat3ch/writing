@@ -40,8 +40,6 @@ Based on the provided documents regarding the Southern Dharma Retreat Center bat
 - **Floor Insulation:** Under-floor insulation must be installed to meet state energy code requirements.
 - **Pipe Freeze Protection:** Water pipes running underneath the floor must be insulated, and vertical runs must be protected down to the ground level to prevent freezing.
 
-Would you like me to draft a formal email to Master Service Construction summarizing these requirements along with the deadline constraints?
-
 # Movement Space + Bathroom Hybrid proposals
 
 A note on per person space consideration:
