@@ -1,0 +1,13 @@
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11.16.0/dist/mermaid.esm.min.mjs";
+  document.querySelectorAll("pre code.language-mermaid, pre > code.language-mermaid").forEach((code) => {
+    const pre = code.closest("pre");
+    const container = document.createElement("pre");
+    container.className = "mermaid";
+    container.textContent = code.textContent;
+    pre.replaceWith(container);
+  });
+  mermaid.initialize({ startOnLoad: true });
+</script>
+<link rel="stylesheet" href="{{ '/assets/callouts.css' | relative_url }}">
+<!-- gps-callouts-v1 -->
