@@ -20,3 +20,5 @@ With additional data on the slope of potential sites and additional variables su
 [NREL PVWatts Calculator](https://pvwatts.nrel.gov/)
 
 This is a list of [Professional Software](https://share.google/aimode/VerWhBRDXT1VJNAws) used for site analysis and design.
+
+[Publish Link](https://yogat3ch.github.io/writing/notes/solar-proposal.html)
