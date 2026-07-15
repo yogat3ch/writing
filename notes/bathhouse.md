@@ -23,7 +23,7 @@ Based on the provided documents regarding the Southern Dharma Retreat Center bat
   - Handrails and balusters must have openings of no less than 4 inches to maintain safety clearances.
 - **Stair Risers and Treads:**
   - Stair risers can be a maximum height of 8 1/4 inches.
-  - Treads must have a minimum depzth of 10 inches.
+  - Treads must have a minimum depth of 10 inches.
   - Riser heights must be uniform, with a maximum variation tolerance of 3/8 inch between them.
 
 ### Electrical & Utilities Compliance
