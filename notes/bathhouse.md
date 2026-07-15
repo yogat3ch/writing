@@ -57,7 +57,7 @@ Here's the two scenarios I mapped out with a hybrid bathroom + movement space.
 
 - Movement space in red
 - Door to movement space at the top of the stairs and on either side of the deck outside the bathrooms.
-- HC Shower becomes external entrance door for bathroom _or_ existing shower is moved to HC Shower location and storage closet is reduced by half to allow for the left door to go through to the bathroom if code allows for the removal of the HC accessible bathroom. 
+- HC Shower becomes external entrance door for bathroom _or_ existing shower is moved to HC Shower location and storage closet is reduced by half to allow for the left door to go through to the bathroom if code allows for the removal of the HC accessible bathroom.
 
 ### Diagram
 
@@ -106,3 +106,5 @@ To make 24 people fit, you must arrange the room in a strict **4 × 6 grid** (4 
 
 - **The 21-foot width:** 4 mats (4 × 2' = 8' used) leaves 13 feet of total aisle space, or about **3.2 feet of space between rows**.
 - **The 32-foot length:** 6 mats (6 × 6' = 36' used). _Note: This exceeds 32 feet if placed end-to-end, meaning mats must be turned sideways (landscape orientation) or packed with zero gap._
+
+[Publish Link](https://yogat3ch.github.io/writing/notes/bathhouse.html)
