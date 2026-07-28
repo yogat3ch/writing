@@ -10,8 +10,6 @@ source: mobile.android
 
 ## Ingredients
 
-I have simplified the instructions for both sections to be more direct and less repetitive.
-
 ### Simple Measures
 
 - [ ] 7g Mint leaves
