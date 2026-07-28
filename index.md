@@ -2,4 +2,7 @@
 title: "writing"
 ---
 
-Notes published from Obsidian appear here. Maintain this index manually as you publish more notes.
+- [bathhouse.md](notes/bathhouse.md)
+- [reclamation-rebuilding.md](notes/reclamation-rebuilding.md)
+- [solar-proposal.md](notes/solar-proposal.md)
+- [yummy-plummy-chickasaw-plum.md](notes/yummy-plummy-chickasaw-plum.md)
