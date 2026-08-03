@@ -8,7 +8,7 @@ author: Stephen Synchronicity
 source: mobile.android
 ---
 
-## Ingredients
+- [ ] ## Ingredients
 
 ### Simple Measures
 
