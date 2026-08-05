@@ -1,241 +1,240 @@
 ---
 title: "Reclamation & Rebuilding"
-updated: 2026-07-19T06:56:47-04:00
-created: 2026-07-19T06:56:17-04:00
 ---
-## الأنقاض المعدنية والبناء الحجري
+
+## Mineral Rubble & Masonry
 
   
 
-**_نعم، من الممكن جدًا استعادة مواد بناء صالحة للاستخدام من الأنقاض_**، وتقوم أنظمة الفرز والسحق الحديثة والمتقدمة بتحويل ما يصل إلى 90٪ من مخلفات البناء والهدم بعيدًا عن مدافن النفايات بشكل روتيني. يعتمد نجاح استعادة الأنقاض بدرجة كبيرة على فصل العناصر المعدنية الإنشائية عن الملوثات العضوية مثل الخشب أو البلاستيك للحفاظ على الاستقرار الميكانيكي.[](https://www.halotrust.org/news/urban-recovery-using-rubble-to-build-futures/)
+**_Yes, it is highly possible to reclaim usable building materials from rubble_**, and modern advanced sorting and crushing systems routinely divert up to 90% of construction and demolition debris away from landfills. The success of reclaiming rubble depends heavily on separating structural mineral elements from organic contaminants like wood or plastic to maintain mechanical stability.[](https://www.halotrust.org/news/urban-recovery-using-rubble-to-build-futures/)
 
   
 
-تشمل المواد الرئيسية التي يمكن استعادتها بنجاح من الأنقاض ما يلي:
+The primary materials that can be successfully reclaimed from rubble include:
 
   
 
-الأنقاض المعدنية والبناء الحجري
+Mineral Rubble & Masonry
 
   
 
-- **الخرسانة:** الخرسانة المكسورة قابلة لإعادة التدوير بنسبة 100٪. تُجمع وتُغذى إلى كسارات ميكانيكية شديدة التحمل. يمكن استخدام القطع الكبيرة في الموقع للتحكم في التعرية أو لردم الأساسات، بينما تحل الخرسانة المطحونة ناعمًا محل الرمال والركام الطبيعي لتشكيل دفعات جديدة بالكامل من الخرسانة الإنشائية.[](https://www.youtube.com/watch?v=SLvYRKw4HHw&t=6)
+- **Concrete:** Broken concrete is 100% recyclable. It is gathered and fed into heavy-duty mechanical crushers. Large pieces can be utilized on-site for erosion control or foundation backfill, while finer-ground concrete replaces natural sand and gravel aggregates to form entirely new batches of structural concrete.[](https://www.youtube.com/watch?v=SLvYRKw4HHw&t=6)
 
   
 
-- **الطوب والبلوكات:** يمكن تنظيف الطوب السليم بعناية من الملاط القديم وإعادة استخدامه مباشرة في هياكل بناء جديدة. أما الطوب التالف فيُسحق ليستخدم كمواد ردم، أو يُصنع منه "طوب نفايات معاد تدويره" مضغوط، أو يُطحن لإنشاء طبقات أساس للطرق وممرات المشاة.[](https://www.reddit.com/r/AskUK/comments/g8zjea/what_happens_to_rubble_and_other_building_waste/)
+- **Bricks & Blocks:** Intact bricks can be carefully cleaned of old mortar and laid directly into new masonry structures. Damaged bricks are pulverized into bulk fill, manufactured into compacted "recycled waste bricks", or ground down to create sub-bases for roads and pedestrian pathways.[](https://www.reddit.com/r/AskUK/comments/g8zjea/what_happens_to_rubble_and_other_building_waste/)
 
   
 
-- **الأسفلت:** يمكن طحن وفرز الأرصفة والممرات القديمة في الموقع لإنتاج رصف أسفلتي مستصلح (RAP). ويُخلط هذا مع مواد رابطة جديدة لإنشاء طرق جديدة.[](https://www.youtube.com/watch?v=4g7AgP3-RAs&t=24)
+- **Asphalt:** Old paving and driveways can be milled and screened on-site to create Reclaimed Asphalt Pavement (RAP). This is mixed with fresh binders to create new roads.[](https://www.youtube.com/watch?v=4g7AgP3-RAs&t=24)
 
   
 
-المعادن الإنشائية
+Structural Metals
 
   
 
-- **حديد التسليح والعوارض الفولاذية:** لأن الفولاذ الإنشائي قابل لإعادة التدوير إلى ما لا نهاية دون أن يفقد خصائصه الميكانيكية، يتم استخراجه من أنقاض الخرسانة باستخدام مغناطيسات صناعية عالية القدرة. ثم يُنقل إلى مصانع الصلب ليُصهر ويُحول إلى مقاطع إنشائية جديدة.[](https://www.youtube.com/watch?v=2wveTaXZdnA&t=5)
+- **Steel Rebar & Beams:** Because structural steel is infinitely recyclable without losing its mechanical properties, it is pulled from concrete rubble using high-powered industrial magnets. It is then shipped to steel mills to be melted down into new structural profiles.[](https://www.youtube.com/watch?v=2wveTaXZdnA&t=5)
 
   
 
-- **المعادن غير الحديدية:** يتم فرز أسلاك النحاس، وإطارات النوافذ المصنوعة من الألومنيوم، ومكونات السباكة المصنوعة من الفولاذ المقاوم للصدأ ثم صهرها. وتوفر استعادة هذه المعادن وفورات كبيرة في الطاقة مقارنةً باستخراج الخام من المناجم.[](https://www.youtube.com/watch?v=n-6PEofcYmY&t=37)
+- **Non-Ferrous Metals:** Copper wiring, aluminum window frames, and stainless steel plumbing components are sorted out and melted down. Reclaiming these metals offers significant energy savings compared to mining raw ore.[](https://www.youtube.com/watch?v=n-6PEofcYmY&t=37)
 
   
 
-مواد التشطيب والمواد غير الإنشائية
+Finishing & Non-Structural Materials
 
   
 
-- **الخشب والأخشاب الإنشائية:** يمكن إنقاذ أخشاب الهياكل السليمة والعوارض الكبيرة، وإزالة المسامير منها، واختبار سلامتها لإعادة استخدامها في منشآت جديدة. أما الخشب المتكسر فيُفرم ليصبح نشارة، أو ألواحًا خشبية هندسية، أو يُعالج ليصبح كريات وقود حيوي.[](https://dec.ny.gov/environmental-protection/recycling-composting/waste-reduction/building-material-reuse-and-deconstruction)
+- **Wood & Lumber:** Intact framing timber and large structural beams can be salvaged, denailed, and safety-tested for reuse in new structures. Shattered wood is shredded into mulch, engineered particleboard, or processed into biomass fuel pellets.[](https://dec.ny.gov/environmental-protection/recycling-composting/waste-reduction/building-material-reuse-and-deconstruction)
 
   
 
-- **ألواح الجبس والجبس:** عند إبقائها جافة وخالية من الملوثات مثل الأسبستوس أو الرصاص، تُسحق ألواح الجبس لاستخراج مسحوق القلب الداخلي. ثم يُضغط هذا الجبس المعاد تدويره لإنتاج ألواح جبس جديدة أو يُدمج في أسمدة زراعية غنية بالعناصر الغذائية.[](https://www.tfharper.com/5-reclaimed-construction-materials-to-consider-in-your-next-project/)
+- **Drywall & Gypsum:** When kept dry and free from contaminants like asbestos or lead, gypsum wallboard is crushed to extract the core powder. This recycled gypsum is then pressed into brand-new drywall or integrated into nutrient-rich agricultural fertilizers.[](https://www.tfharper.com/5-reclaimed-construction-materials-to-consider-in-your-next-project/)
 
   
 
-## 1. الطوب السليم وبلوكات الخرسانة
+## 1. Intact Bricks and Concrete Blocks
 
   
 
-**نعم، يمكنك بالتأكيد استعادة مواد عالية القيمة من الأنقاض باستخدام العمل اليدوي والأدوات اليدوية الأساسية**، رغم أن ذلك يتطلب الصبر والجهد البدني. عند العمل دون معدات ثقيلة، يجب أن تتحول استراتيجيتك من السحق الجماعي إلى الإنقاذ والفرز الانتقائي.
+**Yes, you can absolutely reclaim high-value materials from rubble using manual labor and basic hand tools**, though it requires patience and muscle power. When working without heavy machinery, your strategy must shift from mass crushing to selective salvaging and sorting.
 
   
 
-تشمل أكثر المواد العملية التي يمكنك استخراجها واستخدامها مباشرة في الموقع يدويًا ما يلي:
+The most practical materials you can extract and use directly on-site by hand include:
 
   
 
-1\. الطوب السليم وبلوكات الخرسانة
+1\. Intact Bricks and Concrete Blocks
 
   
 
-- **أفضل استخدام:** الجدران الاستنادية، وممرات الحدائق، وأحواض الزراعة المرتفعة، أو المنشآت الصغيرة الجديدة.
+- **Best Use:** Retaining walls, garden pathways, raised planter beds, or new small structures.
 
-- **كيفية الاستعادة:** استخدم مطرقة طوب، وإزميلًا باردًا، ونظارات أمان لإزالة الملاط القديم بلطف من وجوه الطوب. اضرب خطوط الملاط بدلًا من الطوبة نفسها.
+- **How to Reclaim:** Use a brick hammer, cold chisel, and safety glasses to gently chip old mortar away from the brick faces. Tap the mortar lines rather than the brick itself.
 
-- **التطبيق المباشر في الموقع:** رص الطوب النظيف مباشرة في جدران حجرية جافة أو ضعه بشكل مسطح فوق طبقة رملية مضغوطة لإنشاء ممرات.
-
-  
-
-2\. أنقاض الخرسانة (Urbanite)
+- **Direct On-Site Application:** Stack clean bricks directly into dry-stone walls or lay them flat on a compacted sand bed to create paths.
 
   
 
-- **أفضل استخدام:** بناء جدران استنادية من "أوربانايت"، أو أساسات للأكواخ الصغيرة، أو الردم كطبقة أساس.
-
-- **كيفية الاستعادة:** استخدم مطرقة ثقيلة لتكسير القطع الكبيرة إلى أحجام يمكن التعامل معها (تقريبًا بحجم أرغفة الخبز أو ألواح الحجر المسطحة). استخدم عتلة لفصل القطع المتشابكة.
-
-- **التطبيق المباشر في الموقع:** يمكن رص قطع الخرسانة المسطحة مثل الحجر الطبيعي لبناء جدران استنادية جافة جميلة ومتينة أو أرضيات للفناء.
+2\. Concrete Rubble (Urbanite)
 
   
 
-3\. الركام وحجارة التصريف
+- **Best Use:** Building "urbanite" retaining walls, foundations for small sheds, or sub-base filling.
+
+- **How to Reclaim:** Use a sledgehammer to break larger chunks down into manageable sizes (roughly the size of loaves of bread or flat flagstones). Use a pry bar to separate tangled pieces.
+
+- **Direct On-Site Application:** Flat concrete chunks can be stacked like natural flagstone to build beautiful, sturdy dry-stack retaining walls or patio flooring.
 
   
 
-- **أفضل استخدام:** خنادق التصريف (المصارف الفرنسية)، أو الردم خلف الجدران الاستنادية، أو طبقة تسوية للأكواخ.
-
-- **كيفية الاستعادة:** اكسر شظايا الأنقاض الصغيرة إلى قطع بحجم قبضة اليد باستخدام مطرقة ثقيلة. اصنع غربالًا بسيطًا للتربة بتثبيت شبكة سلكية بقياس 1/2 بوصة على إطار خشبي مربع. اغرف الأنقاض الصغيرة على الإطار لفصل الحجر النظيف عن الأتربة والغبار الناعم.
-
-- **التطبيق المباشر في الموقع:** اسكب الحجارة المنخولة في خنادق التصريف أو استخدمها كطبقة أساس قابلة للدمك لمنع الطين.
+3\. Aggregate and Drainage Stone
 
   
 
-4\. الأخشاب والعوارض الخشبية
+- **Best Use:** Drainage trenches (French drains), backfilling behind retaining walls, or a leveling base for sheds.
+
+- **How to Reclaim:** Break smaller rubble fragments into fist-sized pieces using a sledgehammer. Build a simple DIY soil sieve by nailing 1/2-inch hardware cloth (wire mesh) to a wooden square frame. Scoop the small rubble onto the frame to separate clean stone from dirt and fine dust.
+
+- **Direct On-Site Application:** Pour the screened stone into drainage ditches or use it as a compactable base layer to prevent mud.
 
   
 
-- **أفضل استخدام:** قوالب صب الخرسانة الجديدة، وأسوار الحدائق، أو التأطير الخشن لأكواخ الأدوات.
-
-- **كيفية الاستعادة:** استخدم عتلة وأداة خلع المسامير لفصل الوصلات الخشبية بعناية. مرر دائمًا مغناطيسًا يدويًا قويًا فوق الخشب لاكتشاف المسامير المخفية قبل القطع.
-
-- **التطبيق المباشر في الموقع:** يمكن إعادة استخدام الخشب بعد إزالة المسامير منه بأمان في المشاريع الخارجية غير الإنشائية منخفضة المخاطر.
+4\. Dimensional Lumber and Beams
 
   
 
-الأدوات اليدوية الموصى بها للاستعادة اليدوية
+- **Best Use:** Formwork for new concrete pours, garden fencing, or rough framing for tool sheds.
+
+- **How to Reclaim:** Use a crowbar and a cat's paw (nail puller) to carefully separate wood joints. Always sweep a strong handheld magnet over the wood to find hidden nails before cutting.
+
+- **Direct On-Site Application:** Denailed wood can be safely reused for non-structural, low-risk outdoor projects.
 
   
 
-- **مطرقة ثقيلة (8 إلى 12 رطلًا):** لتكسير ألواح الخرسانة الكبيرة إلى أحجار قابلة للاستخدام.
-
-- **مطرقة قصيرة (3 أرطال) وإزميل بارد:** للأعمال الدقيقة، وشق الحجر، وتنظيف الطوب.
-
-- **عتلات وقضبان هدم:** لتوفير قوة الرفع وفصل القطع الثقيلة دون رفعها بالظهر.
-
-- **شبكة سلكية قوية (Hardware Cloth):** لغربلة الأتربة بعيدًا عن الركام الحجري القابل لإعادة الاستخدام.
+Recommended Hand Tools for Manual Reclamation
 
   
 
-**_نعم، من الممكن تمامًا بناء مأوى صغير ومتين للطوارئ أو مأوى مؤقت باستخدام العمل اليدوي والأنقاض المستصلحة._** تاريخيًا، أثبتت الهياكل المبنية من البناء الحجري المستصلح والتراب قدرتها الكبيرة على الصمود.
+- **Sledgehammer (8 lb to 12 lb):** For breaking large concrete slabs into usable stones.
+
+- **Club Hammer (3 lb) & Cold Chisel:** For detailed work, splitting stone, and cleaning bricks.
+
+- **Pry Bars & Wrecking Bars:** For leverage to split heavy pieces apart without lifting with your back.
+
+- **Heavy-Duty Wire Screen (Hardware Cloth):** For sifting dirt away from reusable stone aggregates.
 
   
 
-ولأنك تعمل يدويًا دون أدوات صناعية، فإن الطريقة الأكثر واقعية وسلامة من الناحية الإنشائية هي دمج الأنقاض المفروزة مع التربة المحلية. وتُعرف هذه التقنية باسم **البناء بالتربة المحصورة أو خندق الأنقاض**.
+**_Yes, it is entirely possible to build a small, sturdy emergency or temporary shelter using manual labor and reclaimed rubble._** Historically, structures built from salvaged masonry and earth have proven incredibly resilient.
 
   
 
-الاستراتيجية الإنشائية للبناء اليدوي
+Because you are working by hand without industrial tools, the most realistic and structurally sound method is to combine your sorted rubble with local earth. This technique is called **Earth-Confined or Rubble-Trench construction**.
 
   
 
-1\. الأساس: خندق الأنقاض (بدون حاجة إلى الخرسانة)
+Structural Strategy for a Manual Build
 
   
 
-- **كيف يعمل:** احفر خندقًا بعرض يقارب 18 بوصة وعمق يتراوح بين 12 و18 بوصة على طول محيط مساحة المأوى.
-
-- **التنفيذ اليدوي:** املأ الخندق بالركام الخرساني والطوب المنخول بحجم قبضة اليد \[بحث]. قم بدكه جيدًا باستخدام جذع ثقيل أو دكاك يدوي كل بضع بوصات.
-
-- **لماذا هو متين:** يكوّن أساسًا ذاتي التصريف ومقاومًا للصقيع يمنع تجمع المياه تحت الجدران، ويلغي الحاجة إلى خلط وصب الأسمنت يدويًا.
+1\. The Foundation: Rubble Trench (No Concrete Needed)
 
   
 
-2\. الجدار القاعدي: أوربانايت أو طوب مستصلح
+- **How it works:** Dig a trench roughly 18 inches wide and 12 to 18 inches deep along the perimeter of your shelter footprint.
+
+- **Manual execution:** Fill the trench with your screened, fist-sized concrete and brick aggregate \[search]. Tamp it down firmly with a heavy log or hand tamper every few inches.
+
+- **Why it’s sturdy:** This creates a self-draining, frost-resistant foundation that stops water from pooling under the walls. It eliminates the need to mix and pour heavy cement by hand.
 
   
 
-- **كيف يعمل:** ابنِ جدارًا منخفضًا (بارتفاع حوالي قدم إلى قدمين) مباشرة فوق خندق الأنقاض قبل البدء بالجدران الرئيسية.
-
-- **التنفيذ اليدوي:** رص أكبر وأسطح قطع الخرسانة المستصلحة (أوربانايت) أو الطوب النظيف. يمكنك رصها جافة بإحكام إذا قمت بردمها بالتراب، أو ربطها باستخدام ملاط طيني بسيط يُخلط في الموقع.
-
-- **لماذا هو متين:** يعمل كحاجز ضد تناثر المياه، ويحافظ على جفاف الجزء الرئيسي من المأوى ورفعه عن الأرض الرطبة.
+2\. The Stem Wall: Urbanite or Reclaimed Brick
 
   
 
-3\. الجدران الرئيسية: اختر بين أكياس التربة أو الخشب العرضي
+- **How it works:** Build a low wall (about 1 to 2 feet high) directly on top of your rubble trench before starting the main walls.
+
+- **Manual execution:** Stack your flattest, largest chunks of concrete rubble (urbanite) or cleaned bricks. You can dry-stack them tightly if you backfill with earth, or bind them using a simple mud-clay mortar mixed on-site.
+
+- **Why it’s sturdy:** It acts as a splash-guard, keeping the main living structure dry and elevated off the wet ground.
 
   
 
-- **الخيار أ: أكياس التربة (موصى به للسرعة والأمان).** إذا كانت كومة الأنقاض تحتوي على الكثير من الغبار الناعم، والطوب المسحوق، والتراب، فاملأ بهذا الخليط أكياس بولي قوية أو أكياس حبوب. رتبها في صفوف مثل الطوب العملاق فوق الجدار القاعدي مع دك كل صف حتى يصبح مستويًا.
-
-- **الخيار ب: هجين الخشب العرضي والبناء الحجري.** إذا كان لديك مزيج من قطع الخشب المستصلحة والحجارة، يمكنك بناء جدران سميكة بوضع الحجارة وقطع الخشب بشكل عرضي (عبر سماكة الجدار)، مع ملء الفراغات بخليط طيني كثيف من الطين والرمل والقش.
-
-- **لماذا هو متين:** هذه الجدران سميكة جدًا (غالبًا أكثر من 12 بوصة)، ومقاومة جدًا، وعازلة للحرارة والبرودة، ويصعب على الرياح العاتية إسقاطها.
+3\. The Main Walls: Choose Earth-Bag or Cordwood
 
   
 
-4\. السقف: هيكل خشبي مستصلح
+- **Option A: Earth-Bag (Recommended for speed and security).** If the rubble pile contains a lot of fine dust, crushed brick, and dirt, shovel this mixture into heavy-duty poly sacks or grain bags. Lay them in rows like giant bricks on top of your stem wall, tamping each row flat.
+
+- **Option B: Cordwood / Masonry Hybrid.** If you have a mix of salvaged wood scraps and stone, you can build thick walls by laying the stone chunks and wood pieces transversely (through the thickness of the wall), filling the gaps with a thick clay, sand, and straw mud mix.
+
+- **Why it’s sturdy:** These walls are incredibly thick (often 12+ inches), bulletproof, highly insulating against heat and cold, and impossible for high winds to knock down.
 
   
 
-- **كيف يعمل:** استخدم الأخشاب المستصلحة لبناء سقف بسيط أحادي الميل. السقف المائل أسهل بكثير في البناء والعزل يدويًا من السقف الجملوني.
-
-- **التنفيذ اليدوي:** ثبّت العوارض المستصلحة عبر أعلى الجدران. ثم غطها بأي مواد مسطحة متوفرة، مثل صفائح معدنية مستصلحة، أو ألواح معدنية مموجة، أو فروع صغيرة متقاربة مغطاة بطبقة سميكة من المشمع والتراب (سقف أخضر).
+4\. The Roof: Salvaged Wood Framing
 
   
 
-قواعد السلامة الأساسية للملاجئ المبنية من المواد المستصلحة
+- **How it works:** Use your reclaimed dimensional lumber to build a simple, single-slope lean-to roof. A sloped roof is much easier to seal and build by hand than a peaked roof.
+
+- **Manual execution:** Secure the salvaged beams across the top of your walls. Overlay them with any flat materials you can find—such as salvaged tin sheets, corrugated metal, or closely spaced smaller branches covered in a thick layer of tarp and earth (a green roof).
 
   
 
-- **تجنب الملوثات السامة:** لا تستخدم خشبًا تنبعث منه رائحة كيميائية قوية أو مطليًا بطلاء قديم متقشر (من المحتمل أن يحتوي على الرصاص). تجنب سحق المواد التي تنتج غبارًا أبيض ليفيًا (قد يكون أسبستوس).
-
-- **اختبر الملاط:** إذا كنت تخلط الطين المحلي والرمل لصنع الملاط، فاصنع أولًا بعض القوالب التجريبية. إذا تشققت أثناء الجفاف، أضف المزيد من الرمل. وإذا تفتتت بسهولة، فأضف المزيد من الطين اللزج.
-
-- **حافظ على صغر الحجم:** مساحة 10×10 أقدام أو 12×12 قدمًا أسهل بكثير في التصميم الإنشائي يدويًا، وتتطلب خشبًا أقل للسقف، وتحافظ على الدفء بشكل أفضل في الطقس البارد.
+Critical Safety Rules for Reclaimed Shelters
 
   
 
-يتطلب **مناخ البحر الأبيض المتوسط** مأوى مصممًا للتعامل مع عنصرين محددين: **أحداث الأمطار الغزيرة** التي قد تشبع التربة وتتسبب في التعرية، و**الرياح الموسمية العاتية**.
+- **Avoid Toxic Contaminants:** Do not use wood that smells strongly of chemicals or is painted with old, peeling paint (which likely contains lead). Avoid crushing materials that produce fibrous white dust (potential asbestos).
+
+- **Test Your Mortar:** If mixing local clay and sand for mortar, make a few test bricks first. If they crack as they dry, add more sand. If they crumble easily, add more sticky clay.
+
+- **Keep it Small:** A 10x10 foot or 12x12 foot footprint is much easier to structurally engineer by hand, requires far less wood for roof spans, and stays warmer in cold weather.
 
   
 
-وللصمود في هذه الظروف دون أدوات صناعية، فإن أفضل مخطط هو **هيكل دائري هجين من أكياس التربة/أكياس الرمل**. فالأشكال الدائرية انسيابية طبيعيًا، وتوزع ضغط الرياح بالتساوي دون الاعتماد على زوايا مدعمة، ويمكن بناؤها بأمان باستخدام القوة البشرية وحدها.[](https://www.themudhome.com/earthbag-in-extreme-weather.html)
+A **Mediterranean climate** requires a shelter designed to handle two specific elements: **extreme rainfall events** that can saturate the soil and cause erosion, and **gale-force seasonal winds**.
 
   
 
-خطة بناء وسلامة خطوة بخطوة
+To survive these conditions without industrial tools, your optimal blueprint is a **Circular Earth-Bag / Sandbag Hybrid Structure**. Circles are naturally aerodynamic, distribute wind pressure evenly without relying on braced corners, and can be built securely using human power alone.[](https://www.themudhome.com/earthbag-in-extreme-weather.html)
+
+  
+
+Step-by-Step DIY Safety & Building Plan
 
   
 
 ```
 
-▲ [سقف مائل من المشمع والقماش]
+▲ [Tarps & Canvas Sloped Roof]
 
 / \
 
-/_____\ [إطار من عوارض خشبية مستصلحة]
+/_____\ [Reclaimed Wood Beam Frame]
 
   
 
 | |
 
-| O | [جدران دائرية من أكياس التربة مثبتة بالأسلاك]
+| O | [Circular Earth-Bag Walls pinned with Wire]
 
 |_____|
 
-[=======] [الجدار القاعدي: قطع أوربانايت مسطحة + طين]
+[=======] [Stem Wall: Flat Urbanite Chunks + Mud]
 
-[~~~~~~~~~] [مستوى سطح الأرض]
+[~~~~~~~~~] [Ground Level]
 
   
 
 | o o o |
 
-| o o o o | [أساس خندق الأنقاض: حجارة بحجم قبضة اليد]
+| o o o o | [Rubble Trench Foundation: Fist-sized Stone]
 
 \_________/
 
@@ -243,90 +242,90 @@ created: 2026-07-19T06:56:17-04:00
 
   
 
-الخطوة 1: اختيار الموقع ومخطط الأرضية
+Step 1: Site Selection and Floor Plan
 
   
 
-- **الإجراء:** اختر موقعًا على منحدر طبيعي أو أرض مرتفعة. لا تبنِ أبدًا في منخفض تتجمع فيه مياه الأمطار. ارسم **دائرة مثالية بقطر 10 أو 12 قدمًا** على الأرض باستخدام وتد مركزي وقطعة سلك كفرجار.
+- **Action:** Choose a spot on a natural incline or high ground. Never build in a low depression where storm water pools. Draw a **perfect 10-foot or 12-foot diameter circle** on the ground using a central stake and a piece of wire as a compass.
 
-- **فحص السلامة:** اجعل الهيكل صغيرًا. فالدائرة الداخلية بقطر 10 أقدام قوية للغاية، وسريعة البناء يدويًا، وتقلل طول الأخشاب المستصلحة اللازمة لامتداد السقف.
-
-  
-
-الخطوة 2: خندق الأنقاض لتصريف المياه
+- **Safety Check:** Keep the structure small. A 10-foot interior circle is incredibly strong, quick to build by hand, and minimizes the length of reclaimed wood needed for the roof span.
 
   
 
-- **الإجراء:** احفر خندقًا مباشرة على طول محيط الدائرة بعرض 16 بوصة وعمق 18 بوصة. املأ الخندق بالكامل حتى مستوى الأرض بالخرسانة والطوب المسحوقين يدويًا بحجم قبضة اليد، مع دكهما جيدًا.[](https://www.themudhome.com/rubble-trench-foundations.html)
+Step 2: The Water-Deflecting Rubble Trench
 
   
 
-- **لماذا يتحمل الأمطار الغزيرة:** ستتسرب المياه القادمة من المنحدر أو السقف إلى هذا الخندق الحجري المسامي ثم تنصرف إلى الأرض بدلًا من إغراق أرضية المأوى.[](https://www.earthbagbuilding.com/faqs/foundation.htm)
+- **Action:** Dig a trench directly along your circular outline, 16 inches wide and 18 inches deep. Fill this trench completely to ground level with your manual-crushed, fist-sized concrete rubble and bricks, tamping it down thoroughly.[](https://www.themudhome.com/rubble-trench-foundations.html)
 
   
 
-الخطوة 3: الجدار القاعدي المرتفع (أول 3 طبقات)
+- **Why it handles heavy rain:** Water running down the hill or off the roof will fall into this porous stone trench and drain down into the earth rather than flooding into the shelter's floor.[](https://www.earthbagbuilding.com/faqs/foundation.htm)
 
   
 
-- **الإجراء:** املأ **أكياس القماش أو أكياس الحبوب البلاستيكية بالكامل برمل خشن نظيف** (أو حصى صغير منخول من الأنقاض). ضع هذه الأكياس المملوءة بالرمل بنمط تعشيق (مثل الطوب المتداخل) لأول ثلاث طبقات فوق مستوى الأرض. دك كل صف بجذع ثقيل.[](https://www.earthbagbuilding.com/faqs/foundation.htm)
+Step 3: The Elevated Stem Wall (First 3 Layers)
 
   
 
-- **لماذا يتحمل الأمطار الغزيرة:** تتحول الأكياس المملوءة بالتراب أو الطين إلى وحل إذا غمرتها الأمطار، بينما لا يمتص الرمل والحصى الماء إلى أعلى، مما يحافظ على جفاف الجدران الرئيسية تمامًا.[](https://www.earthbagbuilding.com/faqs/foundation.htm)
+- **Action:** Pack your **canvas or poly grain bags completely with clean, coarse sand** (or small gravel aggregate sifted from the rubble). Lay these sand-filled bags in a running bond (like staggered bricks) for the first 3 layers above the ground level. Tamp each row flat with a heavy log.[](https://www.earthbagbuilding.com/faqs/foundation.htm)
 
   
 
-الخطوة 4: الجدار الرئيسي من أكياس التربة وحلقة الشد
+- **Why it handles heavy rain:** Earth or clay-filled bags will turn to mud if submerged in rain. Sand and gravel do not wick water upward, keeping the main walls perfectly dry.[](https://www.earthbagbuilding.com/faqs/foundation.htm)
 
   
 
-- **الإجراء:** بالنسبة لبقية طبقات الجدار (حتى ارتفاع حوالي 7 أقدام)، امزج تراب الموقع مع غبار الطوب المسحوق والرمل. بلل الخليط قليلًا، واملأ به الأكياس، ثم ضعها ودكها حتى تصبح صلبة مثل كتل الخرسانة.[](https://www.youtube.com/watch?v=CoTlFLG_clY)
+Step 4: The Main Earth-Bag Wall & Tension Ring
 
   
 
-- **"الملاط" السلكي:** بين _كل طبقة_ من الأكياس، ضع خيطين من السلك الإضافي. إذا كان سلكًا شائكًا فسيمسك بالأكياس، وإذا كان أملسًا فلف فيه حلقات أو دق مسامير مستصلحة صغيرة عبر السلك داخل الأكياس لتعمل كمراسي تثبيت.[](https://www.motherearthnews.com/sustainable-living/green-homes/earthbag-construction-zmaz05onzsel/)
+- **Action:** For the remaining wall layers (up to about 7 feet high), mix your site dirt, crushed brick dust, and sand. Lightly moisten the mix, fill the bags, lay them down, and tamp them until they are hard like concrete blocks.[](https://www.youtube.com/watch?v=CoTlFLG_clY)
 
   
 
-- **لماذا يتحمل الرياح العاتية:** الجدران الترابية كثيفة وثقيلة جدًا. وعند تثبيتها معًا بإحكام بواسطة الأسلاك، فإنها تشكل هيكلًا متماسكًا لا تستطيع العواصف الهوائية القوية إسقاطه.[](https://www.themudhome.com/earthbag-in-extreme-weather.html)
+- **The Wire "Mortar":** Between _every single layer_ of bags, lay down 2 strands of your supplemental wire. If it is barbed wire, it grips the bags; if it is smooth wire, twist loops into it or hammer small reclaimed nails through the wire into the bags to act as anchors.[](https://www.motherearthnews.com/sustainable-living/green-homes/earthbag-construction-zmaz05onzsel/)
 
   
 
-الخطوة 5: سقف مقاوم للرياح من المشمع والقماش
+- **Why it handles heavy wind:** Earthen walls are incredibly dense and heavy. Pinned together securely with wire, they form a monolithic structure that a heavy wind storm cannot blow over.[](https://www.themudhome.com/earthbag-in-extreme-weather.html)
 
   
 
-- **الإجراء:** ضع أفضل العوارض الخشبية المستصلحة عبر أعلى الجدران لبناء إطار. ثبّت الخشب بأعلى طبقات الجدار عن طريق لف الأسلاك بإحكام حول العوارض وتثبيتها عميقًا في الطبقات السفلية من الأكياس.
-
-- **ترتيب طبقات القماش:** مد القماش فوق الإطار الخشبي أولًا ليكون قاعدة إنشائية قوية. ثم اسحب أغطية المشمع البلاستيكية المقاومة للماء بإحكام فوق القماش.
-
-- **تثبيت السقف:** لمنع الرياح القوية من اقتلاع المشمع، لا تكتفِ بربط الحواف. مرر خطوطًا إضافية من الأسلاك المشدودة أو الحبال الثقيلة بالكامل _فوق_ سطح المشمع، وثبتها مباشرة إلى حجارة ثقيلة أو أوتاد مغروسة بعمق في الأرض خارج الهيكل.[](https://www.themudhome.com/earthbag-in-extreme-weather.html)
+Step 5: The Wind-Proof Tarp & Canvas Roof
 
   
 
-جدول توزيع الموارد الرئيسي
+- **Action:** Place your best reclaimed wooden beams across the top of the circular walls to build a frame. Secure the wood to the top layers of the wall by wrapping wire tightly around the beams and anchoring them deep into the lower bag layers.
+
+- **Layering the Fabric:** Stretch your canvas over the wood frame first to provide a strong structural base. Pull your waterproof plastic tarps tightly over the canvas.
+
+- **Securing the Roof:** To stop heavy winds from ripping the tarp away, do not just tie the edges. Lay additional lines of tight wire or heavy ropes entirely _over_ the outside of the tarp, anchoring them directly to heavy stones or posts driven deep into the ground outside the structure.[](https://www.themudhome.com/earthbag-in-extreme-weather.html)
 
   
 
-| المادة المتوفرة | الاستخدام الأساسي / المهمة في الموقع |
-
-| ----------------------------- | --------------------------------------------------------------- |
-
-| **الأنقاض المعدنية** | تُسحق إلى قطع بحجم قبضة اليد لخندق الأساس تحت الأرض. |
-
-| **الرمل وغبار الطوب** | يُستخدمان لملء الطبقات الأولى المقاومة للماء من الأكياس. |
-
-| **القماش والأكياس** | حاويات إنشائية لحفظ التربة والرمل السائبين في مكانهما. |
-
-| **الأسلاك / الأسلاك الشائكة** | تدعيم أفقي بين الصفوف وربط السقف. |
-
-| **المشمعات** | الغطاء الخارجي للسقف لتصريف أمطار البحر الأبيض المتوسط الغزيرة. |
+Key Resource Allocation Table
 
   
 
-نصيحة أساسية للبناء في الموقع
+| Material Available | Primary Allocation / Job on Site |
+
+| ---------------------- | -------------------------------------------------------------------- |
+
+| **Mineral Rubble** | Crushed to fist-sized pieces for the subterranean foundation trench. |
+
+| **Sand & Brick Dust** | Used to fill the initial water-resistant base layers of bags. |
+
+| **Canvas & Bags** | Structural containers to hold loose soil and sand in place. |
+
+| **Wire / Barber Wire** | Horizontal reinforcement between rows and roof tie-downs. |
+
+| **Tarps** | Outer roof skin to shed heavy Mediterranean downpours. |
 
   
 
-بمجرد الانتهاء من رص الجدران، امزج بعض الرمل الناعم والطين والماء لصنع لياسة طينية سميكة، ثم افردها على السطح الخارجي للأكياس. فالتعرض لأشعة الشمس (الأشعة فوق البنفسجية) يؤدي إلى تدهور الأكياس البلاستيكية والقماشية مع مرور الوقت؛ وتوفر طبقة بسيطة من اللياسة الطينية حماية لها من أضرار الشمس وكذلك من الحطام المتطاير أثناء العواصف الهوائية.[](https://www.themudhome.com/rubble-trench-foundations.html)
+Crucial On-Site Construction Tip
+
+  
+
+As soon as the walls are stacked, mix some fine sand, clay, and water into a thick mud plaster and smear it over the exterior of the bags. Sunlight (UV rays) will degrade plastic and canvas bags over time; a simple mud plaster skin protects them from both sun damage and flying debris during wind storms.[](https://www.themudhome.com/rubble-trench-foundations.html)
