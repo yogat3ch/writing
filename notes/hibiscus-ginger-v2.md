@@ -26,7 +26,7 @@ I have simplified the instructions for both sections to be more direct and less 
 - [ ] 900ml Hibiscus Tea
 - [ ] 100 ml lemon juice
 - [ ] 7 g mint leaves
-- [ ] 142g ginger (approximately 5oz)
+- [ ] 114g ginger (approximately 4oz)
 - [ ] 2.5g cardamon
 - [ ] 200g sugar
 - [ ] 60 ml water
@@ -35,7 +35,7 @@ I have simplified the instructions for both sections to be more direct and less 
 
 Blend:
 
-- Add 100 ml lemon juice, 1/4 cup water, 7 g of mint leaves, 3 oz. of ginger, and 0.5 tsp cardamon to the blender.
+- Add 100 ml lemon juice, 1/4 cup water, 7 g of mint leaves, 4 oz of ginger, and 0.5 tsp cardamon to the blender.
 - Blend thoroughly.
 
 Bring to boil then strain.
@@ -67,7 +67,7 @@ Total Sugar: $14.1g$
 | Hibiscus Tea | 1800ml                | 3600ml                |
 | Lemon Juice  | 200ml                 | 400ml                 |
 | Mint Leaves  | 14g                   | 28g                   |
-| Ginger       | 10oz                  | 20oz                  |
+| Ginger       | 8oz                  | 16oz                  |
 | Cardamon     | 1 tsp                 | 2 tsp                 |
 | Sugar        | 2 cups                | 4 cups                |
 | Water        | 1/2 cup               | 1 cup                 |
