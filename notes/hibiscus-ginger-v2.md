@@ -3,7 +3,7 @@ title: Hibiscus Ginger v2
 tags:
   - Food/Recipe
 created: 2025-06-07T16:57:09-04:00
-updated: 2026-08-19T13:59:56-04:00
+updated: 2026-08-19T14:03:24-04:00
 author: Stephen Synchronicity
 source: mobile.android
 ---
@@ -33,7 +33,7 @@ I have simplified the instructions for both sections to be more direct and less 
 - [ ] 300g sugar
 - [ ] 60 ml water
 - [ ] 0.5g Citric Acid (approximately 1/8 tsp)
-
+- [ ] 0.2ml Vanilla (approximately 4 drops)
 
 
 
@@ -43,6 +43,7 @@ Blend:
 
 - Add 100 ml lemon juice, 1/4 cup water, 7 g of mint leaves, 4 oz of ginger, and 0.5 tsp cardamon to the blender.
 - Blend thoroughly.
+- Add 1/8 tsp Citric Acid and 4 drops Vanilla to the blender.
 
 Bring to boil then strain.
 Add to Boil:
@@ -75,7 +76,7 @@ Total Sugar: $14.1g$
 | Mint Leaves  | 14g                   | 28g                   |
 | Ginger       | 8oz                  | 16oz                  |
 | Cardamon     | 1 tsp                 | 2 tsp                 |
-| Sugar        | 2 cups                | 4 cups                |
+| Sugar        | 3 cups                | 6 cups                |
 | Water        | 1/2 cup               | 1 cup                 |
 
 ### Nutrition Facts Label
