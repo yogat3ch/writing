@@ -3,7 +3,7 @@ title: Hibiscus Ginger v2
 tags:
   - Food/Recipe
 created: 2025-06-07T16:57:09-04:00
-updated: 2026-08-18T14:16:04-04:00
+updated: 2026-08-19T13:59:56-04:00
 author: Stephen Synchronicity
 source: mobile.android
 ---
@@ -18,8 +18,10 @@ I have simplified the instructions for both sections to be more direct and less 
 - [ ] 7g mint leaves
 - [ ] 4oz ginger
 - [ ] 0.5 tsp cardamon
-- [ ] 1 cup sugar (200g)
+- [ ] 1.5 cup sugar (300g)
+- [ ] 1/8 tsp Citric Acid
 - [ ] 1/4 cup water
+- [ ] 4 drops Vanilla
 
 ### Metric Measures
 
