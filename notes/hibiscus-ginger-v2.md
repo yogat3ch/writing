@@ -32,6 +32,10 @@ I have simplified the instructions for both sections to be more direct and less 
 - [ ] 2.5g cardamon
 - [ ] 300g sugar
 - [ ] 60 ml water
+- [ ] 0.5g Citric Acid (approximately 1/8 tsp)
+
+
+
 
 #### Directions
 
