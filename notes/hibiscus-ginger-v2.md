@@ -30,7 +30,7 @@ I have simplified the instructions for both sections to be more direct and less 
 - [ ] 7 g mint leaves
 - [ ] 114g ginger (approximately 4oz)
 - [ ] 2.5g cardamon
-- [ ] 200g sugar
+- [ ] 300g sugar
 - [ ] 60 ml water
 
 #### Directions
