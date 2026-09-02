@@ -3,11 +3,14 @@ title: Hibiscus Ginger v2
 tags:
   - Food/Recipe
 created: 2025-06-07T16:57:09-04:00
-updated: 2026-09-02T10:26:32-04:00
+updated: 2026-08-19T14:055:57-04:00
 author: Stephen Synchronicity
 source: mobile.android
 ---
 ## Ingredients
+
+I have simplified the instructions for both sections to be more direct and less repetitive.
+
 ### Simple Measures
 
 - [ ] 900ml Hibiscus Tea
@@ -15,7 +18,7 @@ source: mobile.android
 - [ ] 7g mint leaves
 - [ ] 4oz ginger
 - [ ] 0.5 tsp cardamon
-- [ ] 0.5 cup sugar (100g)
+- [ ] 1.5 cup sugar (300g)
 - [ ] 1/8 tsp Citric Acid
 - [ ] 1/4 cup water
 - [ ] 4 drops Vanilla
@@ -27,7 +30,7 @@ source: mobile.android
 - [ ] 7 g mint leaves
 - [ ] 114g ginger (approximately 4oz)
 - [ ] 2.5g cardamon
-- [ ] 100g sugar
+- [ ] 300g sugar
 - [ ] 60 ml water
 - [ ] 0.5g Citric Acid (approximately 1/8 tsp)
 - [ ] 0.2ml Vanilla (approximately 4 drops)
@@ -38,15 +41,14 @@ source: mobile.android
 
 Blend:
 
-- Add 100 ml lemon juice, 1/4 cup water, 7 g of mint leaves, 4 oz of ginger to the blender.
+- Add 100 ml lemon juice, 1/4 cup water, 7 g of mint leaves, 4 oz of ginger, and 0.5 tsp cardamon to the blender.
 - Blend thoroughly.
+- Add 1/8 tsp Citric Acid and 4 drops Vanilla to the blender.
+
 Bring to boil then strain.
 Add to Boil:
 
 - Sugar
-- Cardamon 
-- Citric Acid
-- Vanilla
 
 Boil until sugar dissolves.
 Add water/tea/juice to reach a total volume of 2000ml.
@@ -74,7 +76,7 @@ Total Sugar: $14.1g$
 | Mint Leaves  | 14g                   | 28g                   |
 | Ginger       | 8oz                   | 16oz                  |
 | Cardamon     | 1 tsp                 | 2 tsp                 |
-| Sugar        | 1 cup                 | 2 cups                |
+| Sugar        | 3 cups                | 6 cups                |
 | Water        | 1/2 cup               | 1 cup                 |
 | Citric Acid  | 1/4 tsp (~1.2g)       | 1/2 tsp (~2.4g)       |
 | Vanilla      | 8 drops (~0.4ml)      | 16 drops (~0.8ml)     |
