@@ -3,7 +3,7 @@ title: Hibiscus Ginger v2
 tags:
   - Food/Recipe
 created: 2025-06-07T16:57:09-04:00
-updated: 2026-09-02T11:59:44-04:00
+updated: 2026-09-02T12:00:30-04:00
 author: Stephen Synchronicity
 source: mobile.android
 ---
@@ -15,7 +15,6 @@ source: mobile.android
 - [ ] 100 ml lemon juice
 - [ ] 7g mint leaves
 - [ ] 4oz ginger
-- [ ] 0.5 tsp cardamon
 - [ ] 1/4 cup water
 - [ ] 4 drops Vanilla
 
