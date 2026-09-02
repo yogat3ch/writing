@@ -3,7 +3,7 @@ title: Hibiscus Ginger v2
 tags:
   - Food/Recipe
 created: 2025-06-07T16:57:09-04:00
-updated: 2026-09-02T11:59:07-04:00
+updated: 2026-09-02T11:59:44-04:00
 author: Stephen Synchronicity
 source: mobile.android
 ---
@@ -16,7 +16,6 @@ source: mobile.android
 - [ ] 7g mint leaves
 - [ ] 4oz ginger
 - [ ] 0.5 tsp cardamon
-- [ ] 1/8 tsp Citric Acid
 - [ ] 1/4 cup water
 - [ ] 4 drops Vanilla
 
@@ -27,7 +26,6 @@ source: mobile.android
 - [ ] 7g mint leaves
 - [ ] 114g ginger (approximately 4oz)
 - [ ] 1.3g cardamon (approximately 0.5 tsp)
-- [ ] 0.5g Citric Acid (approximately 1/8 tsp)
 - [ ] 60 ml water (approximately 1/4 cup)
 - [ ] 0.2ml Vanilla (approximately 4 drops)
 
