@@ -3,7 +3,7 @@ title: Hibiscus Ginger v2
 tags:
   - Food/Recipe
 created: 2025-06-07T16:57:09-04:00
-updated: 2026-09-02T10:25:42-04:00
+updated: 2026-09-02T10:26:32-04:00
 author: Stephen Synchronicity
 source: mobile.android
 ---
@@ -74,7 +74,7 @@ Total Sugar: $14.1g$
 | Mint Leaves  | 14g                   | 28g                   |
 | Ginger       | 8oz                   | 16oz                  |
 | Cardamon     | 1 tsp                 | 2 tsp                 |
-| Sugar        | 3 cups                | 6 cups                |
+| Sugar        | 1 cup                 | 2 cups                |
 | Water        | 1/2 cup               | 1 cup                 |
 | Citric Acid  | 1/4 tsp (~1.2g)       | 1/2 tsp (~2.4g)       |
 | Vanilla      | 8 drops (~0.4ml)      | 16 drops (~0.8ml)     |
