@@ -3,13 +3,11 @@ title: Hibiscus Ginger v2
 tags:
   - Food/Recipe
 created: 2025-06-07T16:57:09-04:00
-updated: 2026-09-02T11:47:00-04:00
+updated: 2026-09-02T11:47:39-04:00
 author: Stephen Synchronicity
 source: mobile.android
 ---
 ## Ingredients
-
-I have simplified the instructions for both sections to be more direct and less repetitive.
 
 ### Simple Measures
 
