@@ -3,7 +3,7 @@ title: Hibiscus Ginger v2
 tags:
   - Food/Recipe
 created: 2025-06-07T16:57:09-04:00
-updated: 2026-09-02T10:14:10-04:00
+updated: 2026-09-02T10:21:33-04:00
 author: Stephen Synchronicity
 source: mobile.android
 ---
@@ -38,14 +38,15 @@ source: mobile.android
 
 Blend:
 
-- Add 100 ml lemon juice, 1/4 cup water, 7 g of mint leaves, 4 oz of ginger, and 0.5 tsp cardamon to the blender.
+- Add 100 ml lemon juice, 1/4 cup water, 7 g of mint leaves, 4 oz of ginger to the blender.
 - Blend thoroughly.
-- Add 1/8 tsp Citric Acid and 4 drops Vanilla to the blender.
-
 Bring to boil then strain.
 Add to Boil:
 
 - Sugar
+- Cardamon 
+- Citric Acid
+- Vanilla
 
 Boil until sugar dissolves.
 Add water/tea/juice to reach a total volume of 2000ml.
