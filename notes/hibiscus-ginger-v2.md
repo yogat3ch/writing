@@ -24,7 +24,6 @@ source: mobile.android
 - [ ] 100 ml lemon juice
 - [ ] 7g mint leaves
 - [ ] 114g ginger (approximately 4oz)
-- [ ] 1.3g cardamon (approximately 0.5 tsp)
 - [ ] 60 ml water (approximately 1/4 cup)
 - [ ] 0.2ml Vanilla (approximately 4 drops)
 
@@ -32,12 +31,12 @@ source: mobile.android
 
 Blend:
 
-- Add 100 ml lemon juice, 1/4 cup water, 7 g of mint leaves, 4 oz of ginger to the blender.
+- Add 100 ml lemon juice, 1/4 cup water, 7 g of mint leaves, and 4 oz of ginger to the blender.
 - Blend thoroughly.
 
 Bring to boil then strain.
-- Add 4 drops Vanilla to the blender.
-- Add water/tea/juice to 2000ml.
+Add 4 drops Vanilla to the blender.
+Add water/tea/juice to 2000ml.
 Blend lightly to mix.
 
 ## **Nutrition facts:**
@@ -62,8 +61,6 @@ Total Sugar: $18.8g$
 | Lemon Juice  | 200ml                 | 400ml                 |
 | Mint Leaves  | 14g                   | 28g                   |
 | Ginger       | 8oz                   | 16oz                  |
-| Cardamon     | 1 tsp                 | 2 tsp                 |
-| Citric Acid  | 1/4 tsp (~1.2g)       | 1/2 tsp (~2.4g)       |
 | Water        | 1/2 cup               | 1 cup                 |
 | Vanilla      | 8 drops (~0.4ml)      | 16 drops (~0.8ml)     |
 
