@@ -3,7 +3,7 @@ title: Hibiscus Ginger v2
 tags:
   - Food/Recipe
 created: 2025-06-07T16:57:09-04:00
-updated: 2026-09-02T12:00:30-04:00
+updated: 2026-09-06T09:47:29-04:00
 author: Stephen Synchronicity
 source: mobile.android
 ---
@@ -11,7 +11,7 @@ source: mobile.android
 
 ### Simple Measures
 
-- [ ] 900ml Hibiscus Tea (300g)
+- [ ] 900ml Hibiscus Tea (237g)
 - [ ] 100 ml lemon juice
 - [ ] 7g mint leaves
 - [ ] 4oz ginger
