@@ -23,11 +23,11 @@ source: mobile.android
 ### Metric Measures
 
 - [ ] 7g Mint leaves
-- [ ] 59.15ml Lime juice
-- [ ] 236.59ml Water
-- [ ] 59.15ml Maple syrup (12g sugar)
-- [ ] 236.59ml Sugar (320g sugar)
-- [ ] 500ml Chickasaw plum concentrate (88.77g sugar)
+- [ ] 59 ml Lime juice
+- [ ] 236 ml Water
+- [ ] 59 ml Maple syrup (12g sugar)
+- [ ] 320 ml Sugar (320g sugar)
+- [ ] 500 ml Chickasaw plum concentrate (88.77g sugar)
 - [ ] 0.6g Cardamom
 
 #### Directions
