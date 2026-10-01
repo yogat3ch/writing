@@ -59,7 +59,7 @@ Total Sugar: $18.8g$
 | ------------ | --------------------- | --------------------- |
 | Hibiscus Tea | 1800ml                | 3600ml                |
 | Lemon Juice  | 200ml                 | 400ml                 |
-| Mint Leaves  | 228g                  | 456g                  |
+| Mint Leaves  | 14g                   | 28g                   |
 | Ginger       | 8oz                   | 16oz                  |
 | Water        | 1/2 cup               | 1 cup                 |
 | Vanilla      | 8 drops (~0.4ml)      | 16 drops (~0.8ml)     |
