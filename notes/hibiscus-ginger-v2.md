@@ -3,7 +3,7 @@ title: Hibiscus Ginger v2
 tags:
   - Food/Recipe
 created: 2025-06-07T16:57:09-04:00
-updated: 2026-09-06T09:47:29-04:00
+updated: 2026-10-01T09:18:17-04:00
 author: Stephen Synchronicity
 source: mobile.android
 ---
@@ -59,7 +59,7 @@ Total Sugar: $18.8g$
 | ------------ | --------------------- | --------------------- |
 | Hibiscus Tea | 1800ml                | 3600ml                |
 | Lemon Juice  | 200ml                 | 400ml                 |
-| Mint Leaves  | 14g                   | 28g                   |
+| Mint Leaves  | 228g                  | 456g                  |
 | Ginger       | 8oz                   | 16oz                  |
 | Water        | 1/2 cup               | 1 cup                 |
 | Vanilla      | 8 drops (~0.4ml)      | 16 drops (~0.8ml)     |
