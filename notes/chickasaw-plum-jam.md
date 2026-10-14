@@ -3,7 +3,7 @@ title: Chickasaw Plum Jam
 tags:
   - Food/Recipe
 created: 2021-06-07T17:53:50-04:00
-updated: 2026-10-14T15:29:57-04:00
+updated: 2026-10-14T15:36:00-04:00
 author: Stephen Synchronicity
 source: mobile.android
 ---
@@ -57,13 +57,15 @@ Blend lightly to mix.
 
 #### Added Sugar in 4 oz
 
-$$\frac{118.28}{2000} = \frac{added_sugar_4oz}{1360}$$
-Added Sugar: 10.5g
+$$\frac{1518.9}{42}={36.2}$$
+
+Added Sugar: $36.2g$
 
 #### Total Sugar in 4 oz
 
-$$\frac{118.28}{2000} = \frac{x}{1750}$$
-Total Sugar: 18.4g
+$$\frac{1818.3}{42}={43.3}$$
+
+Total Sugar: $43.3g$
 
 ### Batch Sizes
 
@@ -80,11 +82,4 @@ Total Sugar: 18.4g
 
 ### Nutrition Facts Label
 
-<div style="border: 2px solid black; padding: 15px; width: 300px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background: white; color: black;"> <h1 style="font-size: 32px; font-weight: 900; margin: 0; border-bottom: 10px solid black; padding-bottom: 5px;">Nutrition Facts</h1> <div style="font-size: 16px; font-weight: 700; padding: 5px 0; border-bottom: 1px solid black;"> About 8 servings per container </div> <div style="font-size: 16px; font-weight: 900; padding: 5px 0; border-bottom: 10px solid black; display: flex; justify-content: space-between;"> <span>Serving size</span> <span>1 tbsp (15ml)</span> </div> <div style="font-size: 14px; font-weight: 900; padding: 10px 0 5px 0;"> Amount per serving </div> <div style="font-size: 32px; font-weight: 900; border-bottom: 5px solid black; display: flex; justify-content: space-between; align-items: baseline;"> <span>Calories</span> <span>74</span> </div>
-  
-<div style="font-size: 14px; padding: 8px 0; border-bottom: 1px solid #ccc; display: flex; justify-content: space-between;"> <span><strong>Total Carbohydrate</strong> 18.4g</span> <span><strong>5%</strong></span> </div> <div style="font-size: 14px; padding: 8px 0; border-bottom: 1px solid #ccc; display: flex; justify-content: space-between;"> <span style="margin-left: 15px;">Dietary Fiber 0g</span> <span><strong>0%</strong></span> </div> <div style="font-size: 14px; padding: 8px 0; border-bottom: 1px solid #ccc; display: flex; justify-content: flex-start;"> <span style="margin-left: 15px;">Total Sugars 18.4g</span> </div> <div style="font-size: 14px; padding: 8px 0; border-bottom: 5px solid black; display: flex; justify-content: space-between;"> <span style="margin-left: 30px;">Includes 10.5g Added Sugars</span> <span><strong>57%</strong></span> </div>
-  
-<div style="font-size: 10px; padding: 5px 0;">
-    * The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet.
-      2,000 calories a day is used for general nutrition advice.
-</div> </div>
+<div style="border: 2px solid black; padding: 15px; width: 300px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background: white; color: black;"> <h1 style="font-size: 32px; font-weight: 900; margin: 0; border-bottom: 10px solid black; padding-bottom: 5px;">Nutrition Facts</h1> <div style="font-size: 16px; font-weight: 700; padding: 5px 0; border-bottom: 1px solid black;"> About 8 servings per container </div> <div style="font-size: 16px; font-weight: 900; padding: 5px 0; border-bottom: 10px solid black; display: flex; justify-content: space-between;"> <span>Serving size</span> <span>1 tbsp (15ml)</span> </div> <div style="font-size: 14px; font-weight: 900; padding: 10px 0 5px 0;"> Amount per serving </div> <div style="font-size: 32px; font-weight: 900; border-bottom: 5px solid black; display: flex; justify-content: space-between; align-items: baseline;"> <span>Calories</span> <span>22</span> </div> <div style="font-size: 14px; padding: 8px 0; border-bottom: 1px solid #ccc; display: flex; justify-content: space-between;"> <span><strong>Total Carbohydrate</strong> 5.4g</span> <span><strong>2%</strong></span> </div> <div style="font-size: 14px; padding: 8px 0; border-bottom: 1px solid #ccc; display: flex; justify-content: space-between;"> <span style="margin-left: 15px;">Dietary Fiber 0g</span> <span><strong>0%</strong></span> </div> <div style="font-size: 14px; padding: 8px 0; border-bottom: 1px solid #ccc; display: flex; justify-content: flex-start;"> <span style="margin-left: 15px;">Total Sugars 5.4g</span> </div> <div style="font-size: 14px; padding: 8px 0; border-bottom: 5px solid black; display: flex; justify-content: space-between;"> <span style="margin-left: 30px;">Includes 4.5g Added Sugars</span> <span><strong>9%</strong></span> </div> <div style="font-size: 10px; padding: 5px 0;"> * The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice. </div> </div>
