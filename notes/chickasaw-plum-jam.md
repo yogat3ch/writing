@@ -49,6 +49,8 @@ Add to Boil:
 Boil until ginger, vanilla, maple syrup, lime juice, and vinegar dissolves.
 Blend lightly to mix.
 
+##### Batch Size: 42
+
 ## **Nutrition facts:**
 
 ### Sugar
