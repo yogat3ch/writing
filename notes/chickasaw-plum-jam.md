@@ -3,7 +3,7 @@ title: Chickasaw Plum Jam
 tags:
   - Food/Recipe
 created: 2021-06-07T17:53:50-04:00
-updated: 2026-10-14T15:28:16-04:00
+updated: 2026-10-14T15:29:57-04:00
 author: Stephen Synchronicity
 source: mobile.android
 ---
@@ -15,20 +15,20 @@ source: mobile.android
 - [ ] 12 lbs Chickasaw Plums (10g/100g)
 - [ ] 6 oz Ginger (None)
 - [ ] 6 oz Water (None)
-- [ ] 3 lbs Sugar (3 lbs)
+- [ ] 3 lbs Sugar (1g/1g)
 - [ ] 2 tbsp Vanilla (None)
-- [ ] 3/4 cup Maple Syrup (0.75 cup)
+- [ ] 3/4 cup Maple Syrup (0.67g/1g)
 - [ ] 1/2 cup Lime Juice (None)
 - [ ] 1 tbsp Balsamic/Apple Cider Vinegar (None)
 
 ### Metric Measures
 
-- [ ] 5.44 kg Chickasaw Plums (None)
+- [ ] 5.44 kg Chickasaw Plums (10g/100g)
 - [ ] 170 g Ginger (None)
 - [ ] 170 g Water (None)
-- [ ] 1.36 kg Sugar (1.36 kg)
+- [ ] 1.36 kg Sugar (1g/1g)
 - [ ] 30 ml Vanilla (None)
-- [ ] 177 ml Maple Syrup (0.75 cup)
+- [ ] 177 ml Maple Syrup (0.67g/1g)
 - [ ] 118 ml Lime Juice (None)
 - [ ] 15 ml Balsamic/Apple Cider Vinegar (None)
 
