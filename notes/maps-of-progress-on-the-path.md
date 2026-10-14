@@ -1,12 +1,12 @@
 ---
 title: "Maps of Progress on the Path"
-updated: 2026-10-13T17:23:24-04:00
+updated: 2026-10-14T19:24:58-04:00
 created: 2026-09-21T15:27:25-04:00
 ---
 We cannot solve our problems with the same thinking we used when we created them.
 
 — [Albert Einstein](https://www.brainyquote.com/quotes/albert_einstein_121993?utm_source=share&utm_medium=select)
-A deeper interrogation of the implications of this statement yields a question of how we might evaluate the "thinking used when we created them," for without an evaluation framework, how else are we to solve the gnarly problems? This question implies that some kinds of thinking may be more appropriate to solve problems than others - thus implying that a degree of metacognition and inner work are required to realize a form of thinking capable of solving the gnarly problems, or run the risk of repeating the errors with naive solutions. 
+A deeper interrogation of the implications of this statement yields a question of how we might evaluate the "thinking used when we created them," for without an evaluation framework, how else are we to solve the gnarly problems? This question implies that some kinds of thinking may be more appropriate to solve problems than others - thus implying that a degree of metacognition and inner work are required to realize a form of thinking capable of solving the gnarly problems, or run the risk of repeating naive solutions that further exacerbate them. 
 
 # Maps of Progress on the Path
 Maps of spiritual terrain have been a nebulous yet sought after artifact to allow easier passage for people newer to the path. Maps come with benefits and drawbacks that any practitioner is wise to be aware of before engaging too seriously with a map. It's important to start from a premises of knowing that every map is situated in causes and conditions that gave rise to it's creation. Some maps may be appropriate for a particular juncture or tradition and inappropriate for another. Progress on the path is going to look different depending on a practitioners phase of life, practice style, practice lineage, predispositions, prior experience and present circumstances.
