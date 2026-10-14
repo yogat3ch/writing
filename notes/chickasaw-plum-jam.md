@@ -3,7 +3,7 @@ title: Chickasaw Plum Jam
 tags:
   - Food/Recipe
 created: 2021-06-07T17:53:50-04:00
-updated: 2026-08-02T11:48:01-04:00
+updated: 2026-10-14T15:28:16-04:00
 author: Stephen Synchronicity
 source: mobile.android
 ---
@@ -12,7 +12,7 @@ source: mobile.android
 
 ### Simple Measures
 
-- [ ] 12 lbs Chickasaw Plums (None)
+- [ ] 12 lbs Chickasaw Plums (10g/100g)
 - [ ] 6 oz Ginger (None)
 - [ ] 6 oz Water (None)
 - [ ] 3 lbs Sugar (3 lbs)
