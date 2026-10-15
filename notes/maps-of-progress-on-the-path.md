@@ -1,6 +1,6 @@
 ---
 title: "Maps of Progress on the Path"
-updated: 2026-10-15T15:20:05-04:00
+updated: 2026-10-15T15:21:05-04:00
 created: 2026-09-21T15:27:25-04:00
 ---
 We cannot solve our problems with the same thinking we used when we created them.
@@ -48,6 +48,7 @@ All of these potential pitfalls can ultimately hinder the cultivation of effortl
 ## Traditional Maps
 [9 Stages of Samatha (Vajrayana)](https://www.cheltenhamzen.co.uk/writings/stabilising-the-mind)
 [16 Stages of Insight (Theravada)](https://www.vipassanadhura.com/sixteen.html)
+[The Four Path Model (Theravada)](https://www.dharma.org/the-four-levels-of-awakening/)
 [The 8 Jhanas (Theravada)](https://www.leighb.com/jhanas.htm)
 [The Ten Oxherding Pictures (Zen/Mahayana)](https://zenstudiespodcast.com/ten-oxherding-pictures/)
 [The Bodhisattva Path]
