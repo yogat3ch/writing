@@ -1,6 +1,6 @@
 ---
 title: "Maps of Progress on the Path"
-updated: 2026-10-15T15:31:55-04:00
+updated: 2026-10-15T15:33:38-04:00
 created: 2026-09-21T15:27:25-04:00
 ---
 We cannot solve our problems with the same thinking we used when we created them.
@@ -52,7 +52,7 @@ All of these potential pitfalls can ultimately hinder the cultivation of effortl
 [The 8 Jhanas (Theravada)](https://www.leighb.com/jhanas.htm)
 [The Ten Oxherding Pictures (Zen/Mahayana)](https://zenstudiespodcast.com/ten-oxherding-pictures/)
 [The Five Paths to Liberation for the Bodhisattva (Mahayana)](https://rigpawiki.org/index.php?title=Five_paths)
-
+[The Ten Levels of the Bodhisattva (Mahayana)](https://buddhajourney.net/the-ten-levels-of-the-bodhisattva/)
 
 ## Contemporary Maps
 [Daniel Ingraham's Stages of Insight](https://www.integrateddaniel.info/graphs) - Daniel Ingraham MD
