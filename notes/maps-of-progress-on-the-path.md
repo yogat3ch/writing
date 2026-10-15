@@ -1,6 +1,6 @@
 ---
 title: "Maps of Progress on the Path"
-updated: 2026-10-14T19:24:58-04:00
+updated: 2026-10-14T21:04:40-04:00
 created: 2026-09-21T15:27:25-04:00
 ---
 We cannot solve our problems with the same thinking we used when we created them.
@@ -50,6 +50,7 @@ All of these potential pitfalls can ultimately hinder the cultivation of effortl
 [16 Stages of Insight (Theravada)](https://www.vipassanadhura.com/sixteen.html)
 [The 8 Jhanas (Theravada)](https://www.leighb.com/jhanas.htm)
 [The Ten Oxherding Pictures (Zen/Mahayana)](https://zenstudiespodcast.com/ten-oxherding-pictures/)
+[The Bodhisattva Path]
 ## Contemporary Maps
 [Daniel Ingraham's Stages of Insight](https://www.integrateddaniel.info/graphs) - Daniel Ingraham MD
 [Unified Mindfulness Practice Maturity](https://wiki.unifiedmindfulness.com/index.php/Practice_Maturity) - Shinzen Young
