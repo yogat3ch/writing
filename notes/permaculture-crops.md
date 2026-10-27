@@ -5,6 +5,7 @@ updated: 2026-10-27T17:38:00-04:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
+url: https://yogat3ch.github.io/writing/notes/permaculture-crops.html
 ---
 ![Farm Overview 2026](../assets/garden-2026.png)
 # Crops
