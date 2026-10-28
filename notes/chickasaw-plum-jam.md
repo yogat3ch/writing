@@ -3,7 +3,7 @@ title: Chickasaw Plum Jam
 tags:
   - Food/Recipe
 created: 2021-06-07T17:53:50-04:00
-updated: 2026-10-14T15:36:00-04:00
+updated: 2026-10-28T16:26:40-04:00
 author: Stephen Synchronicity
 source: mobile.android
 ---
