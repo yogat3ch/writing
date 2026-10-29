@@ -1,6 +1,6 @@
 ---
 title: "Pine Forest Thinning"
-updated: 2026-09-14T11:21:16-04:00
+updated: 2026-10-29T16:20:40-04:00
 created: 2026-09-14T11:18:46-04:00
 ---
 ## Typical Percentage Splits
@@ -233,3 +233,7 @@ Once you get a chance to take your first few sample plots in the woods, would yo
 - Share a few tree dimensions to ensure your calculations are scaling correctly?
 - Draft a timber sale announcement template you can use to solicit competitive bids from logging buyers?
 -
+
+
+I did some market-making research and I found a pine straw supplier about 50m away with what looks like at least three acres stacked tall with pine straw bales. This operation seems very large and I'm unsure if there's sufficient demand in our area that would make the investment in the machinery and labor to harvest pine straw on just 28 acres of planted pine worth the effort. It seems like a significant upfront cost and a lot of labor to get what is likely a small haul of pine that would then be in competition with people harvesting hundreds of acres planted and maintained specifically for pine straw harvests. 
+What other options are there to explore beyond the thinning that steward the forest towards regeneration, but might also provide long-term incentives for assisting the forest to regenerate
