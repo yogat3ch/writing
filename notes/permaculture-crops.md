@@ -59,9 +59,15 @@ Mustard Greens
 #### Leafy Greens (Light Feeders)
 Lettuce
 Spinach
+
+#### Herbs
 Chives (Garlic)
 Mint (Mountain)
 Mint (Peppermint)
+Mint (Shiso)
+Sage
+Rosemary
+Basil
 
 ### Bushes
 Raspberry
