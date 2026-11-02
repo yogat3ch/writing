@@ -222,19 +222,21 @@ The table below provides:
 2. Frequency (Days per Week) to prevent waterlogging during cold months and drought stress during hot months.
 3. Required Runtime per Session (Minutes) for the specific subplots you tested.
 
-Month	Structure State	Target Water (in/week)	Watering Frequency	GHSoMidWe (SOR: 1.5 in/hr) Run Time / Event	GHNoMidWe (SOR: 2.48 in/hr) Run Time / Event	GHNoBegWe (SOR: 5.0 in/hr) Run Time / Event	Delivery Protocol
-Jan	Enclosed	0.35 in	1 day/wk (e.g., Wed)	14 min	8.5 min	4 min	Single morning run (9:00 AM)
-Feb	Enclosed	0.45 in	1 day/wk (e.g., Wed)	18 min	11 min	5.5 min	Single morning run (9:00 AM)
-Mar	Enclosed	0.70 in	2 days/wk (e.g., Tue, Sat)	14 min	8.5 min	4 min	Single morning run (8:30 AM)
-Apr	Ventilated	1.00 in	3 days/wk (Mon, Wed, Fri)	13.5 min	8 min	4 min	2 pulses (e.g., 7m + 6.5m)
-May	Ventilated	1.25 in	4 days/wk (Mon, Wed, Fri, Sun)	12.5 min	7.5 min	4 min	2 pulses (e.g., 6m + 6.5m)
-Jun	Ventilated	1.50 in	5 days/wk (Mon–Fri)	12 min	7 min	3.5 min	2 pulses (e.g., 6m + 6m)
-Jul	Ventilated	1.60 in	5 days/wk (Mon–Fri)	13 min	8 min	4 min	2 pulses (e.g., 6.5m + 6.5m)
-Aug	Ventilated	1.40 in	4 days/wk (Mon, Wed, Fri, Sun)	14 min	8.5 min	4 min	2 pulses (e.g., 7m + 7m)
-Sep	Ventilated	1.20 in	4 days/wk (Mon, Wed, Fri, Sun)	12 min	7 min	3.5 min	2 pulses (e.g., 6m + 6m)
-Oct	Ventilated	0.85 in	3 days/wk (Mon, Wed, Fri)	11.5 min	7 min	3.5 min	Single morning run (8:00 AM)
-Nov	Transition	0.55 in	2 days/wk (Tue, Sat)	11 min	6.5 min	3.5 min	Single morning run (8:30 AM)
-Dec	Enclosed	0.35 in	1 day/wk (e.g., Wed)	14 min	8.5 min	4 min	Single morning run (9:00 AM)
+| Month | Structure State | Target Water (in/week) | Watering Frequency | GHSoMidWe (SOR: 1.5 in/hr) Run Time / Event | GHNoMidWe (SOR: 2.48 in/hr) Run Time / Event | GHNoBegWe (SOR: 5.0 in/hr) Run Time / Event | Delivery Protocol |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Jan** | Enclosed | 0.35 in | **1 day/wk** (e.g., Wed) | **14 min** | **8.5 min** | **4 min** | Single morning run (9:00 AM) |
+| **Feb** | Enclosed | 0.45 in | **1 day/wk** (e.g., Wed) | **18 min** | **11 min** | **5.5 min** | Single morning run (9:00 AM) |
+| **Mar** | Enclosed | 0.70 in | **2 days/wk** (e.g., Tue, Sat) | **14 min** | **8.5 min** | **4 min** | Single morning run (8:30 AM) |
+| **Apr** | Ventilated | 1.00 in | **3 days/wk** (Mon, Wed, Fri) | **13.5 min** | **8 min** | **4 min** | 2 pulses (e.g., 7m + 6.5m) |
+| **May** | Ventilated | 1.25 in | **4 days/wk** (Mon, Wed, Fri, Sun) | **12.5 min** | **7.5 min** | **4 min** | 2 pulses (e.g., 6m + 6.5m) |
+| **Jun** | Ventilated | 1.50 in | **5 days/wk** (Mon–Fri) | **12 min** | **7 min** | **3.5 min** | 2 pulses (e.g., 6m + 6m) |
+| **Jul** | Ventilated | 1.60 in | **5 days/wk** (Mon–Fri) | **13 min** | **8 min** | **4 min** | 2 pulses (e.g., 6.5m + 6.5m) |
+| **Aug** | Ventilated | 1.40 in | **4 days/wk** (Mon, Wed, Fri, Sun) | **14 min** | **8.5 min** | **4 min** | 2 pulses (e.g., 7m + 7m) |
+| **Sep** | Ventilated | 1.20 in | **4 days/wk** (Mon, Wed, Fri, Sun) | **12 min** | **7 min** | **3.5 min** | 2 pulses (e.g., 6m + 6m) |
+| **Oct** | Ventilated | 0.85 in | **3 days/wk** (Mon, Wed, Fri) | **11.5 min** | **7 min** | **3.5 min** | Single morning run (8:00 AM) |
+| **Nov** | Transition | 0.55 in | **2 days/wk** (Tue, Sat) | **11 min** | **6.5 min** | **3.5 min** | Single morning run (8:30 AM) |
+| **Dec** | Enclosed | 0.35 in | **1 day/wk** (e.g., Wed) | **14 min** | **8.5 min** | **4 min** | Single morning run (9:00 AM) |
+
 
 Managing the Hardware Realities
 
