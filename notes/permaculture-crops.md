@@ -194,6 +194,62 @@ Raspberry
 Elderberry
 
 # Plan
+## Irrigation
+System Hydraulic Analysis & Critical Discrepancy
+
+Your catch-can calibration identified a massive pressure and output gradient across your greenhouse mist line:
+
+⚬ GHSoMidWe: 1.50\text{ in/hr} (0.375\text{ in} in 15 min)
+⚬ GHNoMidWe: 2.48\text{ in/hr} (0.62\text{ in} in 15 min) — 1.65\times wetter than South Mid
+⚬ GHNoBegWe: 5.00\text{ in/hr} (1.25\text{ in} in 15 min) — 3.33\times wetter than South Mid
+
+Because misting systems operate on a single line/valve, setting one blanket runtime will dramatically overwater the North beginning or severely underwater the South end.
+
+Monthly Environmental Baseline & Water Demands
+
+From your dataset and seasonal operational states:
+
+⚬ Fully Enclosed (December – March): Low solar radiation, daytime temperatures average 7.5°C–16.3°C (45°F–61°F), and VPD drops to 0.25–0.50 kPa. Trapped humidity slows water loss. Crop demand is low: 0.35 to 0.70 inches/week.
+⚬ Transition & Ventilation Opening (April – May): Mean daytime temperatures reach 19.7°C–22.3°C (67°F–72°F). Opening the door and rear wall introduces air velocity, increasing evaporative pull. Crop demand rises to 1.00 to 1.25 inches/week.
+⚬ Peak Summer Ventilated (June – August): Maximum daytime temperatures average 25°C–28.5°C (77°F–83°F, with peak highs reaching 36.4°C / 97.5°F). Even with 75–85% RH, high transpiration and natural airflow push crop demand to 1.40 to 1.60 inches/week.
+⚬ Cooling Fall Transition (September – November): Days shorten, mean temperatures drop from 23.1°C to 13.4°C, and demand tapers from 1.20 down to 0.55 inches/week.
+
+Master Watering Schedule (Month-by-Month)
+
+The table below provides:
+
+1. Target Crop Need (in/week) for your greenhouse canopy.
+2. Frequency (Days per Week) to prevent waterlogging during cold months and drought stress during hot months.
+3. Required Runtime per Session (Minutes) for the specific subplots you tested.
+
+Month	Structure State	Target Water (in/week)	Watering Frequency	GHSoMidWe (SOR: 1.5 in/hr) Run Time / Event	GHNoMidWe (SOR: 2.48 in/hr) Run Time / Event	GHNoBegWe (SOR: 5.0 in/hr) Run Time / Event	Delivery Protocol
+Jan	Enclosed	0.35 in	1 day/wk (e.g., Wed)	14 min	8.5 min	4 min	Single morning run (9:00 AM)
+Feb	Enclosed	0.45 in	1 day/wk (e.g., Wed)	18 min	11 min	5.5 min	Single morning run (9:00 AM)
+Mar	Enclosed	0.70 in	2 days/wk (e.g., Tue, Sat)	14 min	8.5 min	4 min	Single morning run (8:30 AM)
+Apr	Ventilated	1.00 in	3 days/wk (Mon, Wed, Fri)	13.5 min	8 min	4 min	2 pulses (e.g., 7m + 6.5m)
+May	Ventilated	1.25 in	4 days/wk (Mon, Wed, Fri, Sun)	12.5 min	7.5 min	4 min	2 pulses (e.g., 6m + 6.5m)
+Jun	Ventilated	1.50 in	5 days/wk (Mon–Fri)	12 min	7 min	3.5 min	2 pulses (e.g., 6m + 6m)
+Jul	Ventilated	1.60 in	5 days/wk (Mon–Fri)	13 min	8 min	4 min	2 pulses (e.g., 6.5m + 6.5m)
+Aug	Ventilated	1.40 in	4 days/wk (Mon, Wed, Fri, Sun)	14 min	8.5 min	4 min	2 pulses (e.g., 7m + 7m)
+Sep	Ventilated	1.20 in	4 days/wk (Mon, Wed, Fri, Sun)	12 min	7 min	3.5 min	2 pulses (e.g., 6m + 6m)
+Oct	Ventilated	0.85 in	3 days/wk (Mon, Wed, Fri)	11.5 min	7 min	3.5 min	Single morning run (8:00 AM)
+Nov	Transition	0.55 in	2 days/wk (Tue, Sat)	11 min	6.5 min	3.5 min	Single morning run (8:30 AM)
+Dec	Enclosed	0.35 in	1 day/wk (e.g., Wed)	14 min	8.5 min	4 min	Single morning run (9:00 AM)
+
+Managing the Hardware Realities
+
+If all subplots are hooked to a single zone valve, running the system for 12–14 minutes (to satisfy the slower GHSoMidWe bed) will dump over 1 inch of water per event onto GHNoBegWe, drowning brassica root systems and causing disease.
+
+To equalize this without replacing the irrigation system:
+
+1. Re-Nozzle or Add In-Line Flow Controls (Minimal Expense):
+  ⚬ Swap the misting heads over GHNoBegWe to a lower-orifice nozzle (e.g., 0.5–1.0 GPH mist nozzle), or insert a small $1 plastic micro-valve right above the dropper lines feeding that section.
+  ⚬ This immediately balances line pressure toward the South End (GHSoMidWe), making application uniform without replumbing.
+2. Crop Placement Strategy (Leveraging the Discrepancy):
+  ⚬ Keep heavy water consumers in GHNoBegWe: Scarlet Runner Beans (BEANS/SR), large leafy collards (CBBG/CL), or turmeric (TURMR) thrive in higher moisture and heat transpiration.
+  ⚬ Keep rot-sensitive root crops in GHSoMidWe: Carrots, garlic, and onions will avoid bulb rot and mold in the naturally drier, lower-application zone.
+3. The Morning Pulse Protocol:
+  ⚬ During April through September, split each watering event into two pulses separated by 20 minutes (e.g., at 7:30 AM and 7:55 AM). This lets the mist penetrate the dense organic soil instead of pooling on top, and leaves plenty of morning daylight for greenhouse air to dry leaf surfaces before noon.
 ## JADAM
 
 JADAM is an ultra-low-cost, self-reliant organic farming system developed in South Korea by chemist and agriculturist Youngsang Cho. The name is an abbreviation of the Korean phrase _Jayeon-ul Damun Saramdeul_, which translates to "people who resemble nature." In the context of permaculture, JADAM serves as a powerful practical toolkit that perfectly aligns with permaculture's core design principles—specifically *"Produce No Waste,"* *"Use & Value Renewable Resources,"* and *"Obtain a Yield."* [1](https://www.youtube.com/watch?v=570b5aUQNSM&t=235), [2](https://permies.com/t/72060/JADAM-method-farming), [3](https://www.harmonia.institute/what-is-jadam-organic-farming-a-complete-guide-to-ultra-low-cost-regenerative-agriculture/)
