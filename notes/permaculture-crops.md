@@ -82,7 +82,7 @@ Pear (Asian)
 Pear (Pineapple)
 Pear (Kiefer)
 Plum (Chickasaw)
-Lemon
+Lemon (Meyer)
 Banana
 
 <iframe src="https://google.com" width="100%" height="600px"></iframe>
