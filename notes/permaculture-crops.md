@@ -82,8 +82,8 @@ Asian Pear
 Pineapple Pear
 Kiefer Pear
 Chickasaw Plum
-Lemon Trees
-Banana Trees
+Lemon
+Banana
 
 <iframe src="https://google.com" width="100%" height="600px"></iframe>
 
