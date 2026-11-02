@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-02T16:27:24-05:00
+updated: 2026-11-02T16:37:17-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -100,7 +100,7 @@ Legend: `{AB}{Di}{Pos}{Di}`
 | GHSoEndEa | 11 x 5.5        |                    |
 | GHSoEndWe | 11 x 5.5        |                    |
 | GHSoMidEa | 13 x 5.5        |                    |
-| GHSoMidWe | 13 x 5.5        |                    |
+| GHSoMidWe | 13 x 5.5        | 3/8                |
 | GHNoMidEa | 10 x 5.5        | .75                |
 | GHNoMidWe | 10 x 5.5        | .5                 |
 | GHNoBegEa | 10 x 5.5        | 1.25               |
