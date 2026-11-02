@@ -38,10 +38,10 @@ Zucchini
 
 Sweet Corn
 
-Spaghetti Squash
-Summer Squash
-Acorn Squash
-Butternut Squash
+Squash (Spaghetti)
+Squash (Summer)
+Squash (Acorn)
+Squash (Butternut)
 
 Scarlet Runner Beans
 Cowpeas
