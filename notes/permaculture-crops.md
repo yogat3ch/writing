@@ -17,17 +17,24 @@ Garlic
 Beets
 Carrots
 Onions
+Turmeric
 
 #### Fruiting (Require Pollination)
-Tomatoes
+Tomatoes (Sungold)
+Tomatoes (Beefsteak)
+Tomatoes (Cherry)
+Tomatoes (Jumbo Cherry)
+
 Cucumbers
 Eggplant
-Peppers
+Peppers (Sweet Bell)
+Peppers (Hungarian Wax)
+Peppers (Jalapeño)
 Watermelons
 Cantaloupe
 Okra
 Strawberries
-
+Zucchini
 
 Sweet Corn
 
@@ -38,6 +45,7 @@ Butternut Squash
 
 Scarlet Runner Beans
 Cowpeas
+
 
 #### Leafy Greens (Heavy Feeders)
 Collards
