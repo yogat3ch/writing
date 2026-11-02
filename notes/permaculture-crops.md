@@ -132,7 +132,7 @@ Legend: `{AB}{Di}{Pos}{Di}`
 | GHNoMidEa | 10 x 5.5        |                    |             |                      |
 | GHNoMidWe | 10 x 5.5        | .62                | 2.48        | BR, TURMR, TM, BEANS |
 | GHNoBegEa | 10 x 5.5        |                    |             |                      |
-| GHNoBegWe | 10 x 5.5        | 1.25               | 5           |                      |
+| GHNoBegWe | 10 x 5.5        | 1.25               | 5           | CBBG, BR             |
 
 ##### Roots & Tubers
 Garlic
