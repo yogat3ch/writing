@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-02T17:34:00-05:00
+updated: 2026-11-02T17:42:25-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -132,7 +132,7 @@ Legend: `{AB}{Di}{Pos}{Di}`
 | GHNoMidEa | 10 x 5.5        |                    |             |                      |
 | GHNoMidWe | 10 x 5.5        | .62                | 2.48        | BR, TURMR, TM, BEANS |
 | GHNoBegEa | 10 x 5.5        |                    |             |                      |
-| GHNoBegWe | 10 x 5.5        | 1.25               | 5           | CBBG, BR             |
+| GHNoBegWe | 10 x 5.5        | 1.25               | 5           | CB, BC               |
 
 ##### Roots & Tubers
 Garlic
