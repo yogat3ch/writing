@@ -85,7 +85,6 @@ Plum (Chickasaw)
 Lemon
 Banana
 
-<iframe src="https://docs.google.com/spreadsheets/d/1B4cynCdPVq0rN7h1Imhod3BxY6pZrE7xZK8oWMJ27Do/edit?gid=1960286021#gid=1960286021" width="600px" height="600px" loading="eager"></iframe>
 
 ## By Plot
 Subplot Naming Key: 
