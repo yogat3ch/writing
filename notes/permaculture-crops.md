@@ -104,7 +104,7 @@ Legend: `{AB}{Di}{Pos}{Di}`
 | GHNoMidEa | 10 x 5.5        |                    |
 | GHNoMidWe | 10 x 5.5        | .62                |
 | GHNoBegEa | 10 x 5.5        |                    |
-| GHNoBegWe | 10 x 5.5        |                    |
+| GHNoBegWe | 10 x 5.5        | 1.25               |
 
 ##### Roots & Tubers
 Garlic
