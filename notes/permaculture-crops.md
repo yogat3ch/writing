@@ -76,12 +76,12 @@ Blueberry
 Blackberry
 
 ### Trees
-Turkey Figs
-Japanese Plum
-Asian Pear
-Pineapple Pear
-Kiefer Pear
-Chickasaw Plum
+Figs (Turkey)
+Plum (Japanese)
+Pear (Asian)
+Pear (Pineapple)
+Pear (Kiefer)
+Plum (Chickasaw)
 Lemon
 Banana
 
