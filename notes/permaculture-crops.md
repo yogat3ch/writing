@@ -59,6 +59,7 @@ Mustard Greens
 #### Leafy Greens (Light Feeders)
 Lettuce
 Spinach
+Chives (Garlic)
 
 ### Bushes
 Raspberry
