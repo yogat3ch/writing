@@ -34,16 +34,20 @@ Butternut Squash
 
 Scarlet Runner Beans
 Cowpeas
+
 #### Leafy Greens (Heavy Feeders)
 Collards
 Kale
 Cabbage
 Broccoli
 Chard
+Bok Choy
+Mustard Greens
 
 #### Leafy Greens (Light Feeders)
 Lettuce
 Spinach
+
 ### Bushes
 Raspberry
 Elderberry
@@ -96,7 +100,7 @@ Cowpeas
 Legend: `{AB}{Di}{Pos}{Di}`
 
 | Subplot   | Dimensions (ft) | Precipitation (in) |
-| :-------- | :-------------- | ------------------ |
+| :-------- | :-------------- | :----------------- |
 | GHSoEndEa | 11 x 5.5        |                    |
 | GHSoEndWe | 11 x 5.5        |                    |
 | GHSoMidEa | 13 x 5.5        |                    |
@@ -119,6 +123,8 @@ Kale
 Cabbage
 Broccoli
 Chard
+Bok Choy
+Mustard Greens
 
 ##### Leafy Greens (Light Feeders)
 Lettuce
