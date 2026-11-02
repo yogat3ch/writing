@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-02T16:38:14-05:00
+updated: 2026-11-02T16:42:39-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -99,16 +99,16 @@ Cowpeas
 #### Subplots
 Legend: `{AB}{Di}{Pos}{Di}`
 
-| Subplot   | Dimensions (ft) | Precipitation (in) |
-| :-------- | :-------------- | :----------------- |
-| GHSoEndEa | 11 x 5.5        |                    |
-| GHSoEndWe | 11 x 5.5        |                    |
-| GHSoMidEa | 13 x 5.5        |                    |
-| GHSoMidWe | 13 x 5.5        | 3/8                |
-| GHNoMidEa | 10 x 5.5        |                    |
-| GHNoMidWe | 10 x 5.5        | .62                |
-| GHNoBegEa | 10 x 5.5        |                    |
-| GHNoBegWe | 10 x 5.5        | 1.25               |
+| Subplot   | Dimensions (ft) | Precipitation (in) | SOR (in/Hr) |
+| :-------- | :-------------- | :----------------- | ----------- |
+| GHSoEndEa | 11 x 5.5        |                    |             |
+| GHSoEndWe | 11 x 5.5        |                    |             |
+| GHSoMidEa | 13 x 5.5        |                    |             |
+| GHSoMidWe | 13 x 5.5        | 3/8                | 12/8        |
+| GHNoMidEa | 10 x 5.5        |                    |             |
+| GHNoMidWe | 10 x 5.5        | .62                | 2.48        |
+| GHNoBegEa | 10 x 5.5        |                    |             |
+| GHNoBegWe | 10 x 5.5        | 1.25               | 5           |
 
 ##### Roots & Tubers
 Garlic
