@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-10-27T17:38:00-04:00
+updated: 2026-11-02T15:29:15-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -149,7 +149,7 @@ Tomatoes
 Cucumbers
 Eggplant
 Peppers
-
+Watermelon 
 
 
 ### Acidic
