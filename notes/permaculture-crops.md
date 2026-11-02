@@ -149,7 +149,7 @@ Tomatoes
 Cucumbers
 Eggplant
 Peppers
-Cucumber
+
 
 
 ### Acidic
