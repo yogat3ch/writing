@@ -101,7 +101,7 @@ Legend: `{AB}{Di}{Pos}{Di}`
 | GHSoEndWe | 11 x 5.5        |                    |
 | GHSoMidEa | 13 x 5.5        |                    |
 | GHSoMidWe | 13 x 5.5        | 3/8                |
-| GHNoMidEa | 10 x 5.5        | .75                |
+| GHNoMidEa | 10 x 5.5        |                    |
 | GHNoMidWe | 10 x 5.5        | .5                 |
 | GHNoBegEa | 10 x 5.5        | 1.25               |
 | GHNoBegWe | 10 x 5.5        |                    |
