@@ -43,8 +43,8 @@ Squash (Summer)
 Squash (Acorn)
 Squash (Butternut)
 
-Scarlet Runner Beans
-Cowpeas
+Beans (Scarlet Runner)
+Beans (Cowpeas)
 
 
 #### Leafy Greens (Heavy Feeders)
