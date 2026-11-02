@@ -60,6 +60,8 @@ Mustard Greens
 Lettuce
 Spinach
 Chives (Garlic)
+Mint (Mountain)
+Mint (Peppermint)
 
 ### Bushes
 Raspberry
