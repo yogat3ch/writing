@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-02T17:44:17-05:00
+updated: 2026-11-03T18:06:00-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -195,6 +195,7 @@ Elderberry
 
 # Plan
 ## Irrigation
+### GH 
 System Hydraulic Analysis & Critical Discrepancy
 
 Your catch-can calibration identified a massive pressure and output gradient across your greenhouse mist line:
@@ -253,6 +254,98 @@ To equalize this without replacing the irrigation system:
   ⚬ Keep rot-sensitive root crops in GHSoMidWe: Carrots, garlic, and onions will avoid bulb rot and mold in the naturally drier, lower-application zone.
 3. The Morning Pulse Protocol:
   ⚬ During April through September, split each watering event into two pulses separated by 20 minutes (e.g., at 7:30 AM and 7:55 AM). This lets the mist penetrate the dense organic soil instead of pooling on top, and leaves plenty of morning daylight for greenhouse air to dry leaf surfaces before noon.
+
+### Orchard
+### 1. System Output & Calibration Analysis
+
+From your on-site measurement:
+
+- **Output Measured:** 32\text{ oz} (0.25\text{ gal}) collected in 15\text{ minutes}.
+    
+- **System Flow Rate:**
+    
+    $$\text{Flow Rate} = \frac{0.25\text{ gal}}{15 / 60\text{ hr}} = 1.0\text{ Gallon Per Hour (GPH) per stake}$$
+    
+
+#### Delivery Depth & Physics of the 14-Inch Drip Stake
+
+A 14-inch perforated subterranean stake bypasses surface evaporation entirely:
+
+- **Application Efficiency (E_i):** Exceptionally high (**90\% - 95\%**), compared to 60\% - 75\% for surface sprinklers.
+    
+- **Soil Profile Risk (Sandy Loam over Subsoil Clay):** Because your native clay starts 24 inches down, injecting water 14 inches deep places the discharge bulb just 10 inches above the impermeable clay pan. During rainy periods or over-irrigation, water accumulates rapidly at the clay boundary, creating a temporary perched water table that can suffocate roots.
+    
+
+### 2. Crop Compatibility on a Single Serial Line
+
+Because the blueberries, plums, and the lemon tree are plumbed together in series, one operating schedule governs all three. Their rooting structures and water appetites differ sharply:
+
+|Crop|Rooting Architecture & Depth|Dormancy Behavior|Vulnerabilities on Shared Line|
+|---|---|---|---|
+|**Lemon Tree** (Young, 4' tall, 5' canopy diameter)|Moderate depth (12–24 in), broad evergreen canopy|Evergreen; enters cold quiescence below 55°F, but maintains basal transpiration|Cold, waterlogged roots in winter will induce root rot and eliminate cold hardiness.|
+|**Blueberries** (_Vaccinium virgatum_ / _ashei_)|Shallow (top 12–18 in), fine fibrous roots, no root hairs|Deciduous; minimal water use Nov–Feb|Highly vulnerable to _Phytophthora cinnamomi_ if the 14-inch zone stays saturated.|
+|**Plums** (_Prunus salicina_)|Deep branching taproot (24–36 in into subsoil)|Fully deciduous; true dormancy Nov–Feb|Zero water uptake in winter; supplemental winter watering causes crown rot.|
+
+> **Key Rule for the Shared Line:** In humid Zone 8b, **never irrigate on a rigid calendar during the winter or after significant rainfall**. The deciduous plums and blueberries consume virtually zero water in winter; rainfall alone in Southeast Georgia (3.0 - 4.5\text{ inches/month}) exceeds dormant orchard requirements. Supplemental irrigation is strictly an **active-season demand (April – October)** and during extended winter dry spells (14+ days without rain).
+
+### 3. Engineering the Schedule: The Mathematical Model
+
+Water demand is calculated using the standard FAO-56 Penman-Monteith crop water equation converted to volumetric tree canopy requirements:
+
+$$\text{Gallons Per Day (GPD)} = \frac{\text{Canopy Area} \times ET_0 \times K_c \times 0.623}{E_i}$$
+
+#### Parameters Applied:
+
+1. **Canopy Area (A):** For a 5-foot canopy diameter (radius r = 2.5\text{ ft}), typical of a 4-foot young citrus:
+    
+    $$A = \pi \times (2.5\text{ ft})^2 \approx 19.63\text{ sq ft}$$
+    
+    _(Note: If the 5' measurement refers to branch radius rather than diameter, canopy area becomes 78.5\text{ sq ft}, which scales water volumes up by a factor of 4. For a 4-foot-tall tree, a 5-foot diameter is standard)._
+    
+2. **Reference Evapotranspiration (ET_0):** Derived from your climate dataset and Southeast Georgia regional baseline (ranging from 0.05\text{ in/day} in December/January up to 0.21\text{ in/day} in June/July).
+    
+3. **Crop Coefficient (K_c):**
+    
+    - _Citrus (Lemon):_ 0.55 (winter) to 0.65 (summer).
+        
+    - _Blueberry:_ 0.20 (dormant) to 1.00 (fruit sizing in June).
+        
+    - _Plum:_ 0.20 (dormant) to 1.05 (active leaf/fruit May–July).
+        
+4. **Net Irrigation Requirement:** In an outdoor orchard, supplemental run time is only required when **ET_c > \text{Effective Rainfall}**. When ambient weekly rain is \ge 0.5 - 1.0\text{ inch}, the system remains off.
+    
+
+### 4. Master Orchard Watering Schedule
+
+The run times below assume your calibrated **1.0 GPH stake output** and reflect the weekly water required to meet the needs of the actively growing lemon tree and surrounding orchard canopy during dry periods:
+
+
+
+### 5. Critical Zone 8b Lemon Winter Survival Directives
+
+Because the lemon tree is an experimental planting in Zone 8b (where winter lows in your dataset dropped to **-8.0°C / 17.5°F** in January):
+
+1. **Hydration Before Freezes:** Dry citrus roots freeze far faster than moist roots because water releases latent heat as it cools. If an advective Arctic freeze (<25^\circ\text{F}) is predicted, **run the stake line for 1 to 2 hours the morning before the freeze hits**. Do not let roots sit in waterlogged soil during sustained cold; simply ensure the root zone is moist.
+    
+2. **Subterranean Soil Warming:** Your 14-inch stakes deposit water deep where winter soil temperatures stay warmer than surface air. However, cold winter rains pooled above the clay layer can cause root rot. If you observe water standing in the stake tubes 24 hours after a storm, shut the line off completely until the top 6 inches of soil are dry to the touch.
+    
+3. **Plum and Blueberry Safeguard:** If the lemon tree requires winter moisture during an unusually dry winter stretch, running the line for 2 hours will not harm the dormant plums and blueberries provided the interval between events is **at least 10 to 14 days**. Their roots need cold-season soil aeration to prevent fungal infection.
+
+| Month | Climate State (Zone 8b) | Orchard Crop Stage | Net Water Target (gal/tree/wk) | Frequency (No-Rain Weeks) | Duration per Event | Weekly Total Run Time | Winter & Ambient Rain Action Rule |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Jan** | Cold / Mean 45°F (7.5°C) | Deep Dormancy (Plum/Berry); Quiescent (Lemon) | 2.5 – 3.0 gal | 1 event every 10–14 days | **2 hr 30 min** | ~1 hr 15 min / wk | **OFF.** Normal ambient rain (3.5") is more than sufficient. |
+| **Feb** | Cool / Mean 51°F (10.6°C) | Swelling buds; Plum early bloom late Feb | 3.5 – 4.0 gal | 1 event every 10 days | **3 hr 00 min** | ~2 hr 00 min / wk | **OFF.** Run only if dry for > 14 days. |
+| **Mar** | Mild / Mean 61°F (16.3°C) | Leaf break (Plum/Berry); Citrus spring flush | 6.0 – 6.5 gal | 1 event / week | **3 hr 00 min** | 3 hr 00 min / wk | Run if weekly rainfall is < 0.5 in. |
+| **Apr** | Warm / Mean 67°F (19.7°C) | Full canopy expansion, blueberry flowering | 9.0 – 10.0 gal | 2 events / week | **2 hr 30 min** | 5 hr 00 min / wk | Split into 2 deep soaks (e.g., Mon / Thu). |
+| **May** | Hot / Mean 72°F (22.3°C) | Fruit sizing across all trees/bushes | 11.0 – 12.0 gal | 2 events / week | **3 hr 00 min** | 6 hr 00 min / wk | Check soil moisture 8" down before running. |
+| **Jun** | Peak Summer / Mean 79°F (26.3°C) | Peak transpiration; blueberry harvest; fruit fill | 12.5 – 13.5 gal | 2 to 3 events / week | **2 hr 15 min** | 6 hr 45 min / wk | Run 3 days/wk if no convective summer storms. |
+| **Jul** | Peak Summer / Mean 83°F (28.6°C) | Maximum daily heat; plum harvest | 12.0 – 13.0 gal | 2 to 3 events / week | **2 hr 15 min** | 6 hr 45 min / wk | Subtract run events after heavy afternoon thunderstorms. |
+| **Aug** | Humid Heat / Mean 77°F (24.8°C) | Late fruit expansion; high ambient RH (85%) | 10.5 – 11.5 gal | 2 events / week | **2 hr 45 min** | 5 hr 30 min / wk | High humidity lowers VPD; monitor soil moisture. |
+| **Sep** | Warm Transition / Mean 73°F (23.1°C) | Post-harvest terminal growth; citrus fruit sizing | 8.0 – 9.0 gal | 2 events / week | **2 hr 15 min** | 4 hr 30 min / wk | Reduce frequency as day length shortens. |
+| **Oct** | Mild / Mean 64°F (17.7°C) | Blueberries/plums preparing for senescence | 5.5 – 6.5 gal | 1 event / week | **3 hr 00 min** | 3 hr 00 min / wk | Taper off watering to harden lemon wood for frost. |
+| **Nov** | Cool / Mean 56°F (13.4°C) | Leaf fall (Plum/Berry); Lemon hardening off | 3.5 – 4.0 gal | 1 event every 10–14 days | **2 hr 00 min** | ~1 hr 00 min / wk | **Do not fertilize or overwater**; promotes frost damage. |
+| **Dec** | Cold / Mean 49°F (9.4°C) | Dormant orchard | 2.5 – 3.0 gal | 1 event every 14 days | **2 hr 30 min** | ~1 hr 15 min / wk | **OFF.** Only run if an extreme freeze is forecast (see note). |
+
 ## JADAM
 
 JADAM is an ultra-low-cost, self-reliant organic farming system developed in South Korea by chemist and agriculturist Youngsang Cho. The name is an abbreviation of the Korean phrase _Jayeon-ul Damun Saramdeul_, which translates to "people who resemble nature." In the context of permaculture, JADAM serves as a powerful practical toolkit that perfectly aligns with permaculture's core design principles—specifically *"Produce No Waste,"* *"Use & Value Renewable Resources,"* and *"Obtain a Yield."* [1](https://www.youtube.com/watch?v=570b5aUQNSM&t=235), [2](https://permies.com/t/72060/JADAM-method-farming), [3](https://www.harmonia.institute/what-is-jadam-organic-farming-a-complete-guide-to-ultra-low-cost-regenerative-agriculture/)
