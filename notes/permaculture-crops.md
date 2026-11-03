@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-03T18:06:00-05:00
+updated: 2026-11-03T18:06:49-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -320,17 +320,6 @@ $$\text{Gallons Per Day (GPD)} = \frac{\text{Canopy Area} \times ET_0 \times K_c
 The run times below assume your calibrated **1.0 GPH stake output** and reflect the weekly water required to meet the needs of the actively growing lemon tree and surrounding orchard canopy during dry periods:
 
 
-
-### 5. Critical Zone 8b Lemon Winter Survival Directives
-
-Because the lemon tree is an experimental planting in Zone 8b (where winter lows in your dataset dropped to **-8.0°C / 17.5°F** in January):
-
-1. **Hydration Before Freezes:** Dry citrus roots freeze far faster than moist roots because water releases latent heat as it cools. If an advective Arctic freeze (<25^\circ\text{F}) is predicted, **run the stake line for 1 to 2 hours the morning before the freeze hits**. Do not let roots sit in waterlogged soil during sustained cold; simply ensure the root zone is moist.
-    
-2. **Subterranean Soil Warming:** Your 14-inch stakes deposit water deep where winter soil temperatures stay warmer than surface air. However, cold winter rains pooled above the clay layer can cause root rot. If you observe water standing in the stake tubes 24 hours after a storm, shut the line off completely until the top 6 inches of soil are dry to the touch.
-    
-3. **Plum and Blueberry Safeguard:** If the lemon tree requires winter moisture during an unusually dry winter stretch, running the line for 2 hours will not harm the dormant plums and blueberries provided the interval between events is **at least 10 to 14 days**. Their roots need cold-season soil aeration to prevent fungal infection.
-
 | Month | Climate State (Zone 8b) | Orchard Crop Stage | Net Water Target (gal/tree/wk) | Frequency (No-Rain Weeks) | Duration per Event | Weekly Total Run Time | Winter & Ambient Rain Action Rule |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Jan** | Cold / Mean 45°F (7.5°C) | Deep Dormancy (Plum/Berry); Quiescent (Lemon) | 2.5 – 3.0 gal | 1 event every 10–14 days | **2 hr 30 min** | ~1 hr 15 min / wk | **OFF.** Normal ambient rain (3.5") is more than sufficient. |
@@ -345,6 +334,16 @@ Because the lemon tree is an experimental planting in Zone 8b (where winter lows
 | **Oct** | Mild / Mean 64°F (17.7°C) | Blueberries/plums preparing for senescence | 5.5 – 6.5 gal | 1 event / week | **3 hr 00 min** | 3 hr 00 min / wk | Taper off watering to harden lemon wood for frost. |
 | **Nov** | Cool / Mean 56°F (13.4°C) | Leaf fall (Plum/Berry); Lemon hardening off | 3.5 – 4.0 gal | 1 event every 10–14 days | **2 hr 00 min** | ~1 hr 00 min / wk | **Do not fertilize or overwater**; promotes frost damage. |
 | **Dec** | Cold / Mean 49°F (9.4°C) | Dormant orchard | 2.5 – 3.0 gal | 1 event every 14 days | **2 hr 30 min** | ~1 hr 15 min / wk | **OFF.** Only run if an extreme freeze is forecast (see note). |
+
+### 5. Critical Zone 8b Lemon Winter Survival Directives
+
+Because the lemon tree is an experimental planting in Zone 8b (where winter lows in your dataset dropped to **-8.0°C / 17.5°F** in January):
+
+1. **Hydration Before Freezes:** Dry citrus roots freeze far faster than moist roots because water releases latent heat as it cools. If an advective Arctic freeze (<25^\circ\text{F}) is predicted, **run the stake line for 1 to 2 hours the morning before the freeze hits**. Do not let roots sit in waterlogged soil during sustained cold; simply ensure the root zone is moist.
+    
+2. **Subterranean Soil Warming:** Your 14-inch stakes deposit water deep where winter soil temperatures stay warmer than surface air. However, cold winter rains pooled above the clay layer can cause root rot. If you observe water standing in the stake tubes 24 hours after a storm, shut the line off completely until the top 6 inches of soil are dry to the touch.
+    
+3. **Plum and Blueberry Safeguard:** If the lemon tree requires winter moisture during an unusually dry winter stretch, running the line for 2 hours will not harm the dormant plums and blueberries provided the interval between events is **at least 10 to 14 days**. Their roots need cold-season soil aeration to prevent fungal infection.
 
 ## JADAM
 
