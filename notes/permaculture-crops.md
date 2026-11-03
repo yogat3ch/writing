@@ -7,7 +7,7 @@ author: Stephen Synchronicity
 source: mobile.android
 url: https://yogat3ch.github.io/writing/notes/permaculture-crops.html
 ---
-![Farm Overview 2026](../assets/garden-2026.png)
+![Farm Overview 2026|432x274](../assets/garden-2026.png)
 # Crops
 ## By Type
 
