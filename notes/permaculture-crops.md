@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-03T20:41:30-05:00
+updated: 2026-11-03T20:49:47-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -319,20 +319,20 @@ $$\text{Gallons Per Day (GPD)} = \frac{\text{Canopy Area} \times ET_0 \times K_c
 
 The run times below assume your calibrated **1.0 GPH stake output** and reflect the weekly water required to meet the needs of the actively growing lemon tree and surrounding orchard canopy during dry periods:
 
-| **Month** | **Target Schedule (Dry Weeks)**         | **Duration per Event** | **Water Delivered per Event** | **When to Override / Shut Off**          |
-| :-------- | :-------------------------------------- | :--------------------- | :---------------------------- | :--------------------------------------- |
-| Jan       | Every other week (1 day every 14 days)  | 2 hr 30 min            | 2.5 gallons                   | Shut off if normal winter rain occurs.   |
-| Feb       | Every other week (1 day every 14 days)  | 3 hr 00 min            | 3.0 gallons                   | Shut off if normal winter rain occurs.   |
-| Mar       | 1 day per week (e.g., Saturday)         | 3 hr 00 min            | 3.0 gallons                   | Skip if it rained > 0.5 in that week.    |
-| Apr       | 2 days per week (e.g., Tuesday, Friday) | 2 hr 30 min            | 2.5 gallons (5.0 gal/wk)      | Skip an event if it rained > 0.5 in.     |
-| May       | 2 days per week (e.g., Tuesday, Friday) | 3 hr 00 min            | 3.0 gallons (6.0 gal/wk)      | Skip an event if it rained > 0.5 in.     |
-| Jun       | 3 days per week (Mon, Wed, Fri)         | 2 hr 15 min            | 2.25 gallons (6.75 gal/wk)    | Skip an event after heavy thunderstorms. |
-| Jul       | 3 days per week (Mon, Wed, Fri)         | 2 hr 15 min            | 2.25 gallons (6.75 gal/wk)    | Skip an event after heavy thunderstorms. |
-| Aug       | 2 days per week (e.g., Tuesday, Friday) | 2 hr 45 min            | 2.75 gallons (5.5 gal/wk)     | Skip an event after heavy thunderstorms. |
-| Sep       | 2 days per week (e.g., Tuesday, Friday) | 2 hr 15 min            | 2.25 gallons (4.5 gal/wk)     | Skip an event if it rained > 0.5 in.     |
-| Oct       | 1 day per week (e.g., Saturday)         | 3 hr 00 min            | 3.0 gallons                   | Skip if it rained > 0.5 in that week.    |
-| Nov       | Every other week (1 day every 14 days)  | 2 hr 00 min            | 2.0 gallons                   | Shut off if normal winter rain occurs.   |
-| Dec       | Every other week (1 day every 14 days)  | 2 hr 30 min            | 2.5 gallons                   | Shut off if normal winter rain occurs.   |
+| Month | Target Schedule | Duration per Event | Water per Event | Programmable Rain Cutoff (48-hr Rolling) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Jan** | Every 14 days | 2 hr 30 min | 2.5 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
+| **Feb** | Every 14 days | 3 hr 00 min | 3.0 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
+| **Mar** | 1 day / week | 3 hr 00 min | 3.0 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
+| **Apr** | 2 days / week | 2 hr 30 min | 2.5 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
+| **May** | 2 days / week | 3 hr 00 min | 3.0 gal | Skip if 48-hr rain $\ge$ **0.30 in** |
+| **Jun** | 3 days / week | 2 hr 15 min | 2.25 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
+| **Jul** | 3 days / week | 2 hr 15 min | 2.25 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
+| **Aug** | 2 days / week | 2 hr 45 min | 2.75 gal | Skip if 48-hr rain $\ge$ **0.30 in** |
+| **Sep** | 2 days / week | 2 hr 15 min | 2.25 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
+| **Oct** | 1 day / week | 3 hr 00 min | 3.0 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
+| **Nov** | Every 14 days | 2 hr 00 min | 2.0 gal | Skip if 48-hr rain $\ge$ **0.20 in** |
+| **Dec** | Every 14 days | 2 hr 30 min | 2.5 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
 
 
 ### 5. Critical Zone 8b Lemon Winter Survival Directives
