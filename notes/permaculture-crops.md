@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-03T20:49:47-05:00
+updated: 2026-11-03T21:00:37-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -317,8 +317,74 @@ $$\text{Gallons Per Day (GPD)} = \frac{\text{Canopy Area} \times ET_0 \times K_c
 
 ### 4. Master Orchard Watering Schedule
 
-The run times below assume your calibrated **1.0 GPH stake output** and reflect the weekly water required to meet the needs of the actively growing lemon tree and surrounding orchard canopy during dry periods:
 
+| Plant & Dimensions                           | Canopy Footprint (\pi r^2) | Peak Summer Need (Gal / Wk) | Recommended Total Flow Rate (GPH) | Recommended Hardware Setup                                                                                                                      |
+| -------------------------------------------- | -------------------------- | --------------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Young Blueberry (2' drip line, 1' height)    | 3.1 sq ft                  | ~3.0 gal                    | 0.5 GPH                           | 1 single stake with a 0.5 GPH emitter.                                                                                                          |
+| Young Lemon Tree (5' drip line, 4' height)   | 19.6 sq ft                 | ~12.5 gal                   | 2.0 GPH                           | 1 stake with a 2.0 GPH emitter (or two 1.0 GPH stakes on opposite sides).                                                                       |
+| Mature Blueberry (5' drip line, 5' height)   | 19.6 sq ft                 | ~19.5 gal                   | 3.0 to 4.0 GPH                    | 2 stakes (each 1.5 to 2.0 GPH) placed on opposite sides of the root crown. (Higher demand than citrus due to heavy berry fill & shallow roots). |
+| Mature Plum Tree (12' drip line, 12' height) | 113.1 sq ft                | ~100 – 115 gal              | 16.0 to 20.0 GPH total            | 4 stakes spaced evenly around the 12' drip line, each fitted with a 4.0 to 5.0 GPH emitter (or a multi-stake micro-ring).                       |
+
+Because your orchard plants share a **single serial irrigation line**, they all run for the exact same duration whenever the timer activates.
+
+Since your controller caps runtimes at **1 hour per cycle**, managing this system requires addressing two realities:
+
+1. **Canopy Area Dictates Flow:** Water needs scale with canopy footprint (\text{Area} = \pi r^2). A 12 ft mature plum tree has nearly **6 times the surface area** of the 5 ft lemon tree and **36 times the area** of the 2 ft young blueberry.
+    
+2. **The "Single Emitter" Bottleneck on Large Trees:** In sandy loam soil, a single 14-inch deep drip stake only creates a localized wetted bulb about 1.5 to 2 feet wide. A 12-foot tree cannot be watered by a single 1 GPH stake—doing so creates a localized soggy anaerobic pocket while leaving 90% of the root zone dry.
+    
+
+### 1. Water Demand & GPH Recommendations by Plant
+
+To align all four crops on the same line, **their emitter flow rates (GPH) must match their peak summer water demand ratios** (calculated for peak June/July in Zone 8b):
+
+|Plant & Dimensions|Canopy Footprint (\pi r^2)|Peak Summer Need (Gal / Wk)|Recommended Total Flow Rate (GPH)|Recommended Hardware Setup|
+|---|---|---|---|---|
+|**Young Blueberry**  <br>(2' drip line, 1' height)|**3.1 sq ft**|**~3.0 gal**|**0.5 GPH**|**1 single stake** with a 0.5 GPH emitter.|
+|**Young Lemon Tree**  <br>(5' drip line, 4' height)|**19.6 sq ft**|**~12.5 gal**|**2.0 GPH**|**1 stake** with a 2.0 GPH emitter (or two 1.0 GPH stakes on opposite sides).|
+|**Mature Blueberry**  <br>(5' drip line, 5' height)|**19.6 sq ft**|**~19.5 gal**|**3.0 to 4.0 GPH**|**2 stakes** (each 1.5 to 2.0 GPH) placed on opposite sides of the root crown. _(Higher demand than citrus due to heavy berry fill & shallow roots)._|
+|**Mature Plum Tree**  <br>(12' drip line, 12' height)|**113.1 sq ft**|**~100 – 115 gal**|**16.0 to 20.0 GPH total**|**4 stakes** spaced evenly around the 12' drip line, each fitted with a **4.0 to 5.0 GPH emitter** (or a multi-stake micro-ring).|
+
+### 2. Strategy: Swap Emitters vs. Stacking Cycles
+
+Both strategies have distinct roles in solving the 1-hour controller limit:
+
+#### Strategy A: Swap Emitters & Add Delivery Points (Mandatory for Balancing)
+
+- **Why you must adjust flow rates:** If you leave all plants with 1.0 GPH heads and merely add more 1-hour cycles to satisfy the plum tree, you would have to run the line for 20+ hours a week. That would dump 20+ gallons onto your 2 ft blueberry (drowning it with root rot) and overwater the lemon tree.
+    
+- **Action:** Calibrate each plant's GPH according to the table above. For the plum tree and mature blueberry, split the flow across multiple stakes around the drip line rather than blasting 16 GPH into a single point.
+    
+
+#### Strategy B: Stacking 1-Hour Cycles (For Total Weekly Volume)
+
+- To deliver the weekly water volume during peak summer without running single multi-hour blocks, use the controller's **multiple start times (stacking cycles)**.
+    
+- **The "Soak and Rest" Technique:** Instead of running 2 to 3 continuous hours (which can pool water above the 2-foot clay boundary), program **two 1-hour cycles spaced 60 to 90 minutes apart** on scheduled watering days (e.g., Cycle 1 at 6:30 AM, Cycle 2 at 8:00 AM).
+    
+- This allows sandy loam to absorb the first inch of moisture deep into the subsoil before the second cycle applies the rest.
+    
+
+### 3. Unified 1-Hour Cycle Schedule Across the Year
+
+With the plants' hardware balanced to the GPH ratings above, all plants can be watered together using 1-hour timer blocks:
+
+|Season / Month|Weekly Target Run Time|Timer Programming (1-Hour Cycles)|Total Water Delivered (Plum / Lemon / Mat. Berry / Yng. Berry)|
+|---|---|---|---|
+|**Winter**  <br>(Dec – Feb)|**1 hr every 14 days**|**1 cycle (1 hr)** on the 1st and 15th of the month. _(Skip if rolling 48-hr rain \ge 0.25")._|Plum: ~18 gal  <br>Lemon: 2 gal  <br>Mat. Berry: ~3.5 gal  <br>Yng. Berry: 0.5 gal|
+|**Spring Transition**  <br>(March)|**2 hrs / week**|**1 cycle (1 hr)**, 2 days/wk (e.g., Tue & Sat).|Plum: ~36 gal/wk  <br>Lemon: 4 gal/wk  <br>Mat. Berry: ~7 gal/wk  <br>Yng. Berry: 1 gal/wk|
+|**Early Warm**  <br>(April)|**4 hrs / week**|**2 cycles of 1 hr** on 2 days/wk (e.g., Tue & Fri: 7:00 AM & 8:30 AM).|Plum: ~72 gal/wk  <br>Lemon: 8 gal/wk  <br>Mat. Berry: ~14 gal/wk  <br>Yng. Berry: 2 gal/wk|
+|**Peak Summer**  <br>(May – July)|**6 hrs / week**|**2 cycles of 1 hr** on 3 days/wk (e.g., Mon, Wed, Fri: 6:30 AM & 8:00 AM).|Plum: ~108 gal/wk  <br>Lemon: 12 gal/wk  <br>Mat. Berry: ~21 gal/wk  <br>Yng. Berry: 3 gal/wk|
+|**Late Summer**  <br>(Aug – Sept)|**4 to 5 hrs / week**|**2 cycles of 1 hr** on 2 days/wk (plus optional 1 hr on Sunday during hot spells).|Plum: ~72–90 gal/wk  <br>Lemon: 8–10 gal/wk  <br>Mat. Berry: ~14–17 gal/wk  <br>Yng. Berry: 2–2.5 gal/wk|
+|**Fall Taper**  <br>(Oct – Nov)|**1 to 2 hrs / week**|**1 cycle (1 hr)**, 1 to 2 days/wk depending on leaf drop.|Plum: ~18–36 gal/wk  <br>Lemon: 2–4 gal/wk  <br>Mat. Berry: ~3.5–7 gal/wk  <br>Yng. Berry: 0.5–1 gal/wk|
+
+### Implementation Checklist
+
+1. **Change the Lemon Tree Emitter:** Swap the current 1.0 GPH head to a **2.0 GPH pressure-compensating (PC) emitter** (or add a second 1.0 GPH stake on the opposite side of the 5 ft canopy).
+    
+2. **Downsize the Small Blueberry:** Drop the 2 ft bush to a **0.5 GPH emitter** so it receives roughly 1/4 the volume of the lemon.
+    
+3. **Expand Plum Distribution:** Tap into the serial lateral line around the plum tree to feed **four 4.0 GPH stakes** placed at 90-degree intervals beneath its 12 ft branch line. This ensures the tree receives the necessary ~18 gallons per hour of runtime across its broad root system.
 | Month | Target Schedule | Duration per Event | Water per Event | Programmable Rain Cutoff (48-hr Rolling) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Jan** | Every 14 days | 2 hr 30 min | 2.5 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
