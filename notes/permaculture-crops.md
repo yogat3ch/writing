@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-03T21:23:01-05:00
+updated: 2026-11-03T21:25:53-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -271,10 +271,10 @@ From your on-site measurement:
 
 A 14-inch perforated subterranean stake bypasses surface evaporation entirely:
 
-- **Application Efficiency (E_i):** Exceptionally high (**90\% - 95\%**), compared to 60\% - 75\% for surface sprinklers.
+- **Application Efficiency $(E_i)$:** Exceptionally high (**90\% - 95\%**), compared to 60\% - 75\% for surface sprinklers.
     
 - **Soil Profile Risk (Sandy Loam over Subsoil Clay):** Because your native clay starts 24 inches down, injecting water 14 inches deep places the discharge bulb just 10 inches above the impermeable clay pan. During rainy periods or over-irrigation, water accumulates rapidly at the clay boundary, creating a temporary perched water table that can suffocate roots.
-    
+
 
 #### Crop Compatibility on a Single Serial Line
 
