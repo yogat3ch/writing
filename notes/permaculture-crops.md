@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-03T21:25:53-05:00
+updated: 2026-11-03T21:28:38-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -286,7 +286,7 @@ Because the blueberries, plums, and the lemon tree are plumbed together in serie
 |**Blueberries** (_Vaccinium virgatum_ / _ashei_)|Shallow (top 12–18 in), fine fibrous roots, no root hairs|Deciduous; minimal water use Nov–Feb|Highly vulnerable to _Phytophthora cinnamomi_ if the 14-inch zone stays saturated.|
 |**Plums** (_Prunus salicina_)|Deep branching taproot (24–36 in into subsoil)|Fully deciduous; true dormancy Nov–Feb|Zero water uptake in winter; supplemental winter watering causes crown rot.|
 
-> **Key Rule for the Shared Line:** In humid Zone 8b, **never irrigate on a rigid calendar during the winter or after significant rainfall**. The deciduous plums and blueberries consume virtually zero water in winter; rainfall alone in Southeast Georgia (3.0 - 4.5\text{ inches/month}) exceeds dormant orchard requirements. Supplemental irrigation is strictly an **active-season demand (April – October)** and during extended winter dry spells (14+ days without rain).
+> **Key Rule for the Shared Line:** In humid Zone 8b, **never irrigate on a rigid calendar during the winter or after significant rainfall**. The deciduous plums and blueberries consume virtually zero water in winter; rainfall alone in Southeast Georgia ($3.0 - 4.5\text{ inches/month}$) exceeds dormant orchard requirements. Supplemental irrigation is strictly an **active-season demand (April – October)** and during extended winter dry spells (14+ days without rain).
 
 #### Engineering the Schedule: The Mathematical Model
 
@@ -296,15 +296,15 @@ $$\text{Gallons Per Day (GPD)} = \frac{\text{Canopy Area} \times ET_0 \times K_c
 
 ##### Parameters Applied:
 
-1. **Canopy Area (A):** For a 5-foot canopy diameter (radius r = 2.5\text{ ft}), typical of a 4-foot young citrus:
+1. **Canopy Area (A):** For a 5-foot canopy diameter (radius $r = 2.5\text{ ft}$), typical of a 4-foot young citrus:
     
     $$A = \pi \times (2.5\text{ ft})^2 \approx 19.63\text{ sq ft}$$
     
-    _(Note: If the 5' measurement refers to branch radius rather than diameter, canopy area becomes 78.5\text{ sq ft}, which scales water volumes up by a factor of 4. For a 4-foot-tall tree, a 5-foot diameter is standard)._
+    _(Note: If the 5' measurement refers to branch radius rather than diameter, canopy area becomes $78.5\text{ sq ft}$, which scales water volumes up by a factor of 4. For a 4-foot-tall tree, a 5-foot diameter is standard).
     
-2. **Reference Evapotranspiration (ET_0):** Derived from your climate dataset and Southeast Georgia regional baseline (ranging from 0.05\text{ in/day} in December/January up to 0.21\text{ in/day} in June/July).
+1. **Reference Evapotranspiration ($ET_0$):** Derived from your climate dataset and Southeast Georgia regional baseline (ranging from $0.05\text{ in/day}$ in December/January up to $0.21\text{ in/day}$ in June/July).
     
-3. **Crop Coefficient (K_c):**
+2. **Crop Coefficient ($K_c$):**
     
     - _Citrus (Lemon):_ 0.55 (winter) to 0.65 (summer).
         
@@ -312,7 +312,7 @@ $$\text{Gallons Per Day (GPD)} = \frac{\text{Canopy Area} \times ET_0 \times K_c
         
     - _Plum:_ 0.20 (dormant) to 1.05 (active leaf/fruit May–July).
         
-4. **Net Irrigation Requirement:** In an outdoor orchard, supplemental run time is only required when **ET_c > \text{Effective Rainfall}**. When ambient weekly rain is \ge 0.5 - 1.0\text{ inch}, the system remains off.
+3. **Net Irrigation Requirement:** In an outdoor orchard, supplemental run time is only required when $**ET_c > \text{Effective Rainfall}**$. When ambient weekly rain is $\ge 0.5 - 1.0\text{ inch}$, the system remains off.
     
 
 #### Water Demand & GPH Recommendations by Plant
