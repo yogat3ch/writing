@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-03T21:00:37-05:00
+updated: 2026-11-03T21:06:27-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -385,6 +385,7 @@ With the plants' hardware balanced to the GPH ratings above, all plants can be w
 2. **Downsize the Small Blueberry:** Drop the 2 ft bush to a **0.5 GPH emitter** so it receives roughly 1/4 the volume of the lemon.
     
 3. **Expand Plum Distribution:** Tap into the serial lateral line around the plum tree to feed **four 4.0 GPH stakes** placed at 90-degree intervals beneath its 12 ft branch line. This ensures the tree receives the necessary ~18 gallons per hour of runtime across its broad root system.
+
 | Month | Target Schedule | Duration per Event | Water per Event | Programmable Rain Cutoff (48-hr Rolling) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Jan** | Every 14 days | 2 hr 30 min | 2.5 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
