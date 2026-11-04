@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-03T21:06:27-05:00
+updated: 2026-11-03T21:10:11-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -377,29 +377,6 @@ With the plants' hardware balanced to the GPH ratings above, all plants can be w
 | **Peak Summer**  <br>(May – July)  | **6 hrs / week**       | **2 cycles of 1 hr** on 3 days/wk (e.g., Mon, Wed, Fri: 6:30 AM & 8:00 AM).                    | Plum: ~108 gal/wk  <br>Lemon: 12 gal/wk  <br>Mat. Berry: ~21 gal/wk  <br>Yng. Berry: 3 gal/wk            |
 | **Late Summer**  <br>(Aug – Sept)  | **4 to 5 hrs / week**  | **2 cycles of 1 hr** on 2 days/wk (plus optional 1 hr on Sunday during hot spells).            | Plum: ~72–90 gal/wk  <br>Lemon: 8–10 gal/wk  <br>Mat. Berry: ~14–17 gal/wk  <br>Yng. Berry: 2–2.5 gal/wk |
 | **Fall Taper**  <br>(Oct – Nov)    | **1 to 2 hrs / week**  | **1 cycle (1 hr)**, 1 to 2 days/wk depending on leaf drop.                                     | Plum: ~18–36 gal/wk  <br>Lemon: 2–4 gal/wk  <br>Mat. Berry: ~3.5–7 gal/wk  <br>Yng. Berry: 0.5–1 gal/wk  |
-
-### Implementation Checklist
-
-1. **Change the Lemon Tree Emitter:** Swap the current 1.0 GPH head to a **2.0 GPH pressure-compensating (PC) emitter** (or add a second 1.0 GPH stake on the opposite side of the 5 ft canopy).
-    
-2. **Downsize the Small Blueberry:** Drop the 2 ft bush to a **0.5 GPH emitter** so it receives roughly 1/4 the volume of the lemon.
-    
-3. **Expand Plum Distribution:** Tap into the serial lateral line around the plum tree to feed **four 4.0 GPH stakes** placed at 90-degree intervals beneath its 12 ft branch line. This ensures the tree receives the necessary ~18 gallons per hour of runtime across its broad root system.
-
-| Month | Target Schedule | Duration per Event | Water per Event | Programmable Rain Cutoff (48-hr Rolling) |
-| :--- | :--- | :--- | :--- | :--- |
-| **Jan** | Every 14 days | 2 hr 30 min | 2.5 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
-| **Feb** | Every 14 days | 3 hr 00 min | 3.0 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
-| **Mar** | 1 day / week | 3 hr 00 min | 3.0 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
-| **Apr** | 2 days / week | 2 hr 30 min | 2.5 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
-| **May** | 2 days / week | 3 hr 00 min | 3.0 gal | Skip if 48-hr rain $\ge$ **0.30 in** |
-| **Jun** | 3 days / week | 2 hr 15 min | 2.25 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
-| **Jul** | 3 days / week | 2 hr 15 min | 2.25 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
-| **Aug** | 2 days / week | 2 hr 45 min | 2.75 gal | Skip if 48-hr rain $\ge$ **0.30 in** |
-| **Sep** | 2 days / week | 2 hr 15 min | 2.25 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
-| **Oct** | 1 day / week | 3 hr 00 min | 3.0 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
-| **Nov** | Every 14 days | 2 hr 00 min | 2.0 gal | Skip if 48-hr rain $\ge$ **0.20 in** |
-| **Dec** | Every 14 days | 2 hr 30 min | 2.5 gal | Skip if 48-hr rain $\ge$ **0.25 in** |
 
 
 ### 5. Critical Zone 8b Lemon Winter Survival Directives
