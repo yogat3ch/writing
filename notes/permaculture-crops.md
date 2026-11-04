@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-03T19:35:09-05:00
+updated: 2026-11-03T20:41:30-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -319,20 +319,21 @@ $$\text{Gallons Per Day (GPD)} = \frac{\text{Canopy Area} \times ET_0 \times K_c
 
 The run times below assume your calibrated **1.0 GPH stake output** and reflect the weekly water required to meet the needs of the actively growing lemon tree and surrounding orchard canopy during dry periods:
 
-| Month | Climate State (Zone 8b) | Orchard Crop Stage | Net Water Target (gal/tree/wk) | Frequency (No-Rain Weeks) | Duration per Event | Weekly Total Run Time | Winter & Ambient Rain Action Rule |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Jan** | Cold / Mean 45°F (7.5°C) | Deep Dormancy (Plum/Berry); Quiescent (Lemon) | 2.5 – 3.0 gal | 1 event every 10–14 days | **2 hr 30 min** | ~1 hr 15 min / wk | **OFF.** Normal ambient rain (3.5") is more than sufficient. |
-| **Feb** | Cool / Mean 51°F (10.6°C) | Swelling buds; Plum early bloom late Feb | 3.5 – 4.0 gal | 1 event every 10 days | **3 hr 00 min** | ~2 hr 00 min / wk | **OFF.** Run only if dry for > 14 days. |
-| **Mar** | Mild / Mean 61°F (16.3°C) | Leaf break (Plum/Berry); Citrus spring flush | 6.0 – 6.5 gal | 1 event / week | **3 hr 00 min** | 3 hr 00 min / wk | Run if weekly rainfall is < 0.5 in. |
-| **Apr** | Warm / Mean 67°F (19.7°C) | Full canopy expansion, blueberry flowering | 9.0 – 10.0 gal | 2 events / week | **2 hr 30 min** | 5 hr 00 min / wk | Split into 2 deep soaks (e.g., Mon / Thu). |
-| **May** | Hot / Mean 72°F (22.3°C) | Fruit sizing across all trees/bushes | 11.0 – 12.0 gal | 2 events / week | **3 hr 00 min** | 6 hr 00 min / wk | Check soil moisture 8" down before running. |
-| **Jun** | Peak Summer / Mean 79°F (26.3°C) | Peak transpiration; blueberry harvest; fruit fill | 12.5 – 13.5 gal | 2 to 3 events / week | **2 hr 15 min** | 6 hr 45 min / wk | Run 3 days/wk if no convective summer storms. |
-| **Jul** | Peak Summer / Mean 83°F (28.6°C) | Maximum daily heat; plum harvest | 12.0 – 13.0 gal | 2 to 3 events / week | **2 hr 15 min** | 6 hr 45 min / wk | Subtract run events after heavy afternoon thunderstorms. |
-| **Aug** | Humid Heat / Mean 77°F (24.8°C) | Late fruit expansion; high ambient RH (85%) | 10.5 – 11.5 gal | 2 events / week | **2 hr 45 min** | 5 hr 30 min / wk | High humidity lowers VPD; monitor soil moisture. |
-| **Sep** | Warm Transition / Mean 73°F (23.1°C) | Post-harvest terminal growth; citrus fruit sizing | 8.0 – 9.0 gal | 2 events / week | **2 hr 15 min** | 4 hr 30 min / wk | Reduce frequency as day length shortens. |
-| **Oct** | Mild / Mean 64°F (17.7°C) | Blueberries/plums preparing for senescence | 5.5 – 6.5 gal | 1 event / week | **3 hr 00 min** | 3 hr 00 min / wk | Taper off watering to harden lemon wood for frost. |
-| **Nov** | Cool / Mean 56°F (13.4°C) | Leaf fall (Plum/Berry); Lemon hardening off | 3.5 – 4.0 gal | 1 event every 10–14 days | **2 hr 00 min** | ~1 hr 00 min / wk | **Do not fertilize or overwater**; promotes frost damage. |
-| **Dec** | Cold / Mean 49°F (9.4°C) | Dormant orchard | 2.5 – 3.0 gal | 1 event every 14 days | **2 hr 30 min** | ~1 hr 15 min / wk | **OFF.** Only run if an extreme freeze is forecast (see note). |
+| **Month** | **Target Schedule (Dry Weeks)**         | **Duration per Event** | **Water Delivered per Event** | **When to Override / Shut Off**          |
+| :-------- | :-------------------------------------- | :--------------------- | :---------------------------- | :--------------------------------------- |
+| Jan       | Every other week (1 day every 14 days)  | 2 hr 30 min            | 2.5 gallons                   | Shut off if normal winter rain occurs.   |
+| Feb       | Every other week (1 day every 14 days)  | 3 hr 00 min            | 3.0 gallons                   | Shut off if normal winter rain occurs.   |
+| Mar       | 1 day per week (e.g., Saturday)         | 3 hr 00 min            | 3.0 gallons                   | Skip if it rained > 0.5 in that week.    |
+| Apr       | 2 days per week (e.g., Tuesday, Friday) | 2 hr 30 min            | 2.5 gallons (5.0 gal/wk)      | Skip an event if it rained > 0.5 in.     |
+| May       | 2 days per week (e.g., Tuesday, Friday) | 3 hr 00 min            | 3.0 gallons (6.0 gal/wk)      | Skip an event if it rained > 0.5 in.     |
+| Jun       | 3 days per week (Mon, Wed, Fri)         | 2 hr 15 min            | 2.25 gallons (6.75 gal/wk)    | Skip an event after heavy thunderstorms. |
+| Jul       | 3 days per week (Mon, Wed, Fri)         | 2 hr 15 min            | 2.25 gallons (6.75 gal/wk)    | Skip an event after heavy thunderstorms. |
+| Aug       | 2 days per week (e.g., Tuesday, Friday) | 2 hr 45 min            | 2.75 gallons (5.5 gal/wk)     | Skip an event after heavy thunderstorms. |
+| Sep       | 2 days per week (e.g., Tuesday, Friday) | 2 hr 15 min            | 2.25 gallons (4.5 gal/wk)     | Skip an event if it rained > 0.5 in.     |
+| Oct       | 1 day per week (e.g., Saturday)         | 3 hr 00 min            | 3.0 gallons                   | Skip if it rained > 0.5 in that week.    |
+| Nov       | Every other week (1 day every 14 days)  | 2 hr 00 min            | 2.0 gallons                   | Shut off if normal winter rain occurs.   |
+| Dec       | Every other week (1 day every 14 days)  | 2 hr 30 min            | 2.5 gallons                   | Shut off if normal winter rain occurs.   |
+
 
 ### 5. Critical Zone 8b Lemon Winter Survival Directives
 
