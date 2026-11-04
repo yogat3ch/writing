@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-03T18:06:49-05:00
+updated: 2026-11-03T19:35:09-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -318,7 +318,6 @@ $$\text{Gallons Per Day (GPD)} = \frac{\text{Canopy Area} \times ET_0 \times K_c
 ### 4. Master Orchard Watering Schedule
 
 The run times below assume your calibrated **1.0 GPH stake output** and reflect the weekly water required to meet the needs of the actively growing lemon tree and surrounding orchard canopy during dry periods:
-
 
 | Month | Climate State (Zone 8b) | Orchard Crop Stage | Net Water Target (gal/tree/wk) | Frequency (No-Rain Weeks) | Duration per Event | Weekly Total Run Time | Winter & Ambient Rain Action Rule |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
