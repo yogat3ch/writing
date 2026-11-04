@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-04T14:00:25-05:00
+updated: 2026-11-04T14:04:27-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -195,11 +195,7 @@ Elderberry
 
 # Plan
 ## Irrigation
-Head Type Guide
-
-| **Image** | **Flow Rate** | **Link** |
-| --------- | ------------- | -------- |
-|           |               |          |
+Drip Head Type Guide
 
 ### GH 
 System Hydraulic Analysis & Critical Discrepancy
