@@ -369,14 +369,14 @@ Both strategies have distinct roles in solving the 1-hour controller limit:
 
 With the plants' hardware balanced to the GPH ratings above, all plants can be watered together using 1-hour timer blocks:
 
-|Season / Month|Weekly Target Run Time|Timer Programming (1-Hour Cycles)|Total Water Delivered (Plum / Lemon / Mat. Berry / Yng. Berry)|
-|---|---|---|---|
-|**Winter**  <br>(Dec – Feb)|**1 hr every 14 days**|**1 cycle (1 hr)** on the 1st and 15th of the month. _(Skip if rolling 48-hr rain \ge 0.25")._|Plum: ~18 gal  <br>Lemon: 2 gal  <br>Mat. Berry: ~3.5 gal  <br>Yng. Berry: 0.5 gal|
-|**Spring Transition**  <br>(March)|**2 hrs / week**|**1 cycle (1 hr)**, 2 days/wk (e.g., Tue & Sat).|Plum: ~36 gal/wk  <br>Lemon: 4 gal/wk  <br>Mat. Berry: ~7 gal/wk  <br>Yng. Berry: 1 gal/wk|
-|**Early Warm**  <br>(April)|**4 hrs / week**|**2 cycles of 1 hr** on 2 days/wk (e.g., Tue & Fri: 7:00 AM & 8:30 AM).|Plum: ~72 gal/wk  <br>Lemon: 8 gal/wk  <br>Mat. Berry: ~14 gal/wk  <br>Yng. Berry: 2 gal/wk|
-|**Peak Summer**  <br>(May – July)|**6 hrs / week**|**2 cycles of 1 hr** on 3 days/wk (e.g., Mon, Wed, Fri: 6:30 AM & 8:00 AM).|Plum: ~108 gal/wk  <br>Lemon: 12 gal/wk  <br>Mat. Berry: ~21 gal/wk  <br>Yng. Berry: 3 gal/wk|
-|**Late Summer**  <br>(Aug – Sept)|**4 to 5 hrs / week**|**2 cycles of 1 hr** on 2 days/wk (plus optional 1 hr on Sunday during hot spells).|Plum: ~72–90 gal/wk  <br>Lemon: 8–10 gal/wk  <br>Mat. Berry: ~14–17 gal/wk  <br>Yng. Berry: 2–2.5 gal/wk|
-|**Fall Taper**  <br>(Oct – Nov)|**1 to 2 hrs / week**|**1 cycle (1 hr)**, 1 to 2 days/wk depending on leaf drop.|Plum: ~18–36 gal/wk  <br>Lemon: 2–4 gal/wk  <br>Mat. Berry: ~3.5–7 gal/wk  <br>Yng. Berry: 0.5–1 gal/wk|
+| Season / Month                     | Weekly Target Run Time | Timer Programming (1-Hour Cycles)                                                              | Total Water Delivered (Plum / Lemon / Mat. Berry / Yng. Berry)                                           |
+| ---------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Winter**  <br>(Dec – Feb)        | **1 hr every 14 days** | **1 cycle (1 hr)** on the 1st and 15th of the month. _(Skip if rolling 48-hr rain \ge 0.25")._ | Plum: ~18 gal  <br>Lemon: 2 gal  <br>Mat. Berry: ~3.5 gal  <br>Yng. Berry: 0.5 gal                       |
+| **Spring Transition**  <br>(March) | **2 hrs / week**       | **1 cycle (1 hr)**, 2 days/wk (e.g., Tue & Sat).                                               | Plum: ~36 gal/wk  <br>Lemon: 4 gal/wk  <br>Mat. Berry: ~7 gal/wk  <br>Yng. Berry: 1 gal/wk               |
+| **Early Warm**  <br>(April)        | **4 hrs / week**       | **2 cycles of 1 hr** on 2 days/wk (e.g., Tue & Fri: 7:00 AM & 8:30 AM).                        | Plum: ~72 gal/wk  <br>Lemon: 8 gal/wk  <br>Mat. Berry: ~14 gal/wk  <br>Yng. Berry: 2 gal/wk              |
+| **Peak Summer**  <br>(May – July)  | **6 hrs / week**       | **2 cycles of 1 hr** on 3 days/wk (e.g., Mon, Wed, Fri: 6:30 AM & 8:00 AM).                    | Plum: ~108 gal/wk  <br>Lemon: 12 gal/wk  <br>Mat. Berry: ~21 gal/wk  <br>Yng. Berry: 3 gal/wk            |
+| **Late Summer**  <br>(Aug – Sept)  | **4 to 5 hrs / week**  | **2 cycles of 1 hr** on 2 days/wk (plus optional 1 hr on Sunday during hot spells).            | Plum: ~72–90 gal/wk  <br>Lemon: 8–10 gal/wk  <br>Mat. Berry: ~14–17 gal/wk  <br>Yng. Berry: 2–2.5 gal/wk |
+| **Fall Taper**  <br>(Oct – Nov)    | **1 to 2 hrs / week**  | **1 cycle (1 hr)**, 1 to 2 days/wk depending on leaf drop.                                     | Plum: ~18–36 gal/wk  <br>Lemon: 2–4 gal/wk  <br>Mat. Berry: ~3.5–7 gal/wk  <br>Yng. Berry: 0.5–1 gal/wk  |
 
 ### Implementation Checklist
 
