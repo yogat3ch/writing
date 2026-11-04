@@ -256,7 +256,7 @@ To equalize this without replacing the irrigation system:
   ⚬ During April through September, split each watering event into two pulses separated by 20 minutes (e.g., at 7:30 AM and 7:55 AM). This lets the mist penetrate the dense organic soil instead of pooling on top, and leaves plenty of morning daylight for greenhouse air to dry leaf surfaces before noon.
 
 ### Orchard
-### System Output & Calibration Analysis
+#### System Output & Calibration Analysis
 
 From your on-site measurement:
 
@@ -267,7 +267,7 @@ From your on-site measurement:
     $$\text{Flow Rate} = \frac{0.25\text{ gal}}{15 / 60\text{ hr}} = 1.0\text{ Gallon Per Hour (GPH) per stake}$$
     
 
-#### Delivery Depth & Physics of the 14-Inch Drip Stake
+##### Delivery Depth & Physics of the 14-Inch Drip Stake
 
 A 14-inch perforated subterranean stake bypasses surface evaporation entirely:
 
@@ -276,7 +276,7 @@ A 14-inch perforated subterranean stake bypasses surface evaporation entirely:
 - **Soil Profile Risk (Sandy Loam over Subsoil Clay):** Because your native clay starts 24 inches down, injecting water 14 inches deep places the discharge bulb just 10 inches above the impermeable clay pan. During rainy periods or over-irrigation, water accumulates rapidly at the clay boundary, creating a temporary perched water table that can suffocate roots.
     
 
-### Crop Compatibility on a Single Serial Line
+#### Crop Compatibility on a Single Serial Line
 
 Because the blueberries, plums, and the lemon tree are plumbed together in series, one operating schedule governs all three. Their rooting structures and water appetites differ sharply:
 
@@ -288,13 +288,13 @@ Because the blueberries, plums, and the lemon tree are plumbed together in serie
 
 > **Key Rule for the Shared Line:** In humid Zone 8b, **never irrigate on a rigid calendar during the winter or after significant rainfall**. The deciduous plums and blueberries consume virtually zero water in winter; rainfall alone in Southeast Georgia (3.0 - 4.5\text{ inches/month}) exceeds dormant orchard requirements. Supplemental irrigation is strictly an **active-season demand (April – October)** and during extended winter dry spells (14+ days without rain).
 
-### Engineering the Schedule: The Mathematical Model
+#### Engineering the Schedule: The Mathematical Model
 
 Water demand is calculated using the standard FAO-56 Penman-Monteith crop water equation converted to volumetric tree canopy requirements:
 
 $$\text{Gallons Per Day (GPD)} = \frac{\text{Canopy Area} \times ET_0 \times K_c \times 0.623}{E_i}$$
 
-#### Parameters Applied:
+##### Parameters Applied:
 
 1. **Canopy Area (A):** For a 5-foot canopy diameter (radius r = 2.5\text{ ft}), typical of a 4-foot young citrus:
     
@@ -315,7 +315,7 @@ $$\text{Gallons Per Day (GPD)} = \frac{\text{Canopy Area} \times ET_0 \times K_c
 4. **Net Irrigation Requirement:** In an outdoor orchard, supplemental run time is only required when **ET_c > \text{Effective Rainfall}**. When ambient weekly rain is \ge 0.5 - 1.0\text{ inch}, the system remains off.
     
 
-### Water Demand & GPH Recommendations by Plant
+#### Water Demand & GPH Recommendations by Plant
 
 To align all four crops on the same line, **their emitter flow rates (GPH) must match their peak summer water demand ratios** (calculated for peak June/July in Zone 8b):
 
@@ -328,7 +328,7 @@ To align all four crops on the same line, **their emitter flow rates (GPH) must 
 
 
 
-### Unified 1-Hour Cycle Schedule Across the Year
+#### Unified 1-Hour Cycle Schedule Across the Year
 
 With the plants' hardware balanced to the GPH ratings above, all plants can be watered together using 1-hour timer blocks:
 
@@ -342,7 +342,7 @@ With the plants' hardware balanced to the GPH ratings above, all plants can be w
 | **Fall Taper**                  | October                     | **2 hrs / week**       | 1 cycle (1 hr), 2 days/wk (e.g., Tue, Sat)                       | Plum: ~36 gal/wk<br>Lemon: 4 gal/wk<br>Mat. Berry: ~7 gal/wk<br>Yng. Berry: 1 gal/wk               | Skip if 48-hr rain $\ge$ **0.25 in**              |
 | **Dormancy Preparation**        | November                    | **1 hr / week**        | 1 cycle (1 hr), 1 day/wk (e.g., Saturday)                        | Plum: ~18 gal/wk<br>Lemon: 2 gal/wk<br>Mat. Berry: ~3.5 gal/wk<br>Yng. Berry: 0.5 gal/wk           | Skip if 48-hr rain $\ge$ **0.20 in**              |
 
-### Critical Zone 8b Lemon Winter Survival Directives
+#### Critical Zone 8b Lemon Winter Survival Directives
 
 Because the lemon tree is an experimental planting in Zone 8b (where winter lows in your dataset dropped to **-8.0°C / 17.5°F** in January):
 
