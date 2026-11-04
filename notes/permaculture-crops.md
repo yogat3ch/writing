@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-03T21:16:10-05:00
+updated: 2026-11-03T21:17:08-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -256,7 +256,7 @@ To equalize this without replacing the irrigation system:
   ⚬ During April through September, split each watering event into two pulses separated by 20 minutes (e.g., at 7:30 AM and 7:55 AM). This lets the mist penetrate the dense organic soil instead of pooling on top, and leaves plenty of morning daylight for greenhouse air to dry leaf surfaces before noon.
 
 ### Orchard
-### 1. System Output & Calibration Analysis
+### System Output & Calibration Analysis
 
 From your on-site measurement:
 
@@ -276,7 +276,7 @@ A 14-inch perforated subterranean stake bypasses surface evaporation entirely:
 - **Soil Profile Risk (Sandy Loam over Subsoil Clay):** Because your native clay starts 24 inches down, injecting water 14 inches deep places the discharge bulb just 10 inches above the impermeable clay pan. During rainy periods or over-irrigation, water accumulates rapidly at the clay boundary, creating a temporary perched water table that can suffocate roots.
     
 
-### 2. Crop Compatibility on a Single Serial Line
+### Crop Compatibility on a Single Serial Line
 
 Because the blueberries, plums, and the lemon tree are plumbed together in series, one operating schedule governs all three. Their rooting structures and water appetites differ sharply:
 
@@ -288,7 +288,7 @@ Because the blueberries, plums, and the lemon tree are plumbed together in serie
 
 > **Key Rule for the Shared Line:** In humid Zone 8b, **never irrigate on a rigid calendar during the winter or after significant rainfall**. The deciduous plums and blueberries consume virtually zero water in winter; rainfall alone in Southeast Georgia (3.0 - 4.5\text{ inches/month}) exceeds dormant orchard requirements. Supplemental irrigation is strictly an **active-season demand (April – October)** and during extended winter dry spells (14+ days without rain).
 
-### 3. Engineering the Schedule: The Mathematical Model
+### Engineering the Schedule: The Mathematical Model
 
 Water demand is calculated using the standard FAO-56 Penman-Monteith crop water equation converted to volumetric tree canopy requirements:
 
@@ -315,7 +315,7 @@ $$\text{Gallons Per Day (GPD)} = \frac{\text{Canopy Area} \times ET_0 \times K_c
 4. **Net Irrigation Requirement:** In an outdoor orchard, supplemental run time is only required when **ET_c > \text{Effective Rainfall}**. When ambient weekly rain is \ge 0.5 - 1.0\text{ inch}, the system remains off.
     
 
-### 4. Master Orchard Watering Schedule
+### Master Orchard Watering Schedule
 
 
 | Plant & Dimensions                           | Canopy Footprint (\pi r^2) | Peak Summer Need (Gal / Wk) | Recommended Total Flow Rate (GPH) | Recommended Hardware Setup                                                                                                                      |
