@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-03T21:14:52-05:00
+updated: 2026-11-03T21:16:10-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -334,7 +334,7 @@ Since your controller caps runtimes at **1 hour per cycle**, managing this syste
 2. **The "Single Emitter" Bottleneck on Large Trees:** In sandy loam soil, a single 14-inch deep drip stake only creates a localized wetted bulb about 1.5 to 2 feet wide. A 12-foot tree cannot be watered by a single 1 GPH stake—doing so creates a localized soggy anaerobic pocket while leaving 90% of the root zone dry.
     
 
-### 1. Water Demand & GPH Recommendations by Plant
+### Water Demand & GPH Recommendations by Plant
 
 To align all four crops on the same line, **their emitter flow rates (GPH) must match their peak summer water demand ratios** (calculated for peak June/July in Zone 8b):
 
@@ -345,27 +345,9 @@ To align all four crops on the same line, **their emitter flow rates (GPH) must 
 |**Mature Blueberry**  <br>(5' drip line, 5' height)|**19.6 sq ft**|**~19.5 gal**|**3.0 to 4.0 GPH**|**2 stakes** (each 1.5 to 2.0 GPH) placed on opposite sides of the root crown. _(Higher demand than citrus due to heavy berry fill & shallow roots)._|
 |**Mature Plum Tree**  <br>(12' drip line, 12' height)|**113.1 sq ft**|**~100 – 115 gal**|**16.0 to 20.0 GPH total**|**4 stakes** spaced evenly around the 12' drip line, each fitted with a **4.0 to 5.0 GPH emitter** (or a multi-stake micro-ring).|
 
-### 2. Strategy: Swap Emitters vs. Stacking Cycles
 
-Both strategies have distinct roles in solving the 1-hour controller limit:
 
-#### Strategy A: Swap Emitters & Add Delivery Points (Mandatory for Balancing)
-
-- **Why you must adjust flow rates:** If you leave all plants with 1.0 GPH heads and merely add more 1-hour cycles to satisfy the plum tree, you would have to run the line for 20+ hours a week. That would dump 20+ gallons onto your 2 ft blueberry (drowning it with root rot) and overwater the lemon tree.
-    
-- **Action:** Calibrate each plant's GPH according to the table above. For the plum tree and mature blueberry, split the flow across multiple stakes around the drip line rather than blasting 16 GPH into a single point.
-    
-
-#### Strategy B: Stacking 1-Hour Cycles (For Total Weekly Volume)
-
-- To deliver the weekly water volume during peak summer without running single multi-hour blocks, use the controller's **multiple start times (stacking cycles)**.
-    
-- **The "Soak and Rest" Technique:** Instead of running 2 to 3 continuous hours (which can pool water above the 2-foot clay boundary), program **two 1-hour cycles spaced 60 to 90 minutes apart** on scheduled watering days (e.g., Cycle 1 at 6:30 AM, Cycle 2 at 8:00 AM).
-    
-- This allows sandy loam to absorb the first inch of moisture deep into the subsoil before the second cycle applies the rest.
-    
-
-### 3. Unified 1-Hour Cycle Schedule Across the Year
+### Unified 1-Hour Cycle Schedule Across the Year
 
 With the plants' hardware balanced to the GPH ratings above, all plants can be watered together using 1-hour timer blocks:
 
