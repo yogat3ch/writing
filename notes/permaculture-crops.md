@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-03T21:18:10-05:00
+updated: 2026-11-03T21:23:01-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -260,7 +260,7 @@ To equalize this without replacing the irrigation system:
 
 From your on-site measurement:
 
-- **Output Measured:** 32\text{ oz} (0.25\text{ gal}) collected in 15\text{ minutes}.
+- **Output Measured:** $32\text{ oz} (0.25\text{ gal})$ collected in $15\text{ minutes}$.
     
 - **System Flow Rate:**
     
