@@ -1,13 +1,15 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-04T14:04:27-05:00
+updated: 2026-11-04T19:33:04-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
 url: https://yogat3ch.github.io/writing/notes/permaculture-crops.html
 ---
-![Farm Overview 2026|432x274](../assets/garden-2026.png)
+![Farm Overview with Plumbing and Electric Schematic 2026|432x274](../assets/garden-2026.png)
+*QGIS project (.qgz) in Farm > Garden Planning > Garden Plan.qgz*
+
 # Crops
 ## By Type
 
