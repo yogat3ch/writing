@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-07T18:12:22-05:00
+updated: 2026-11-07T18:13:15-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -86,8 +86,6 @@ Pear (Kiefer)
 Plum (Chickasaw)
 Lemon
 Banana
-
-![[https://docs.google.com/spreadsheets/d/1B4cynCdPVq0rN7h1Imhod3BxY6pZrE7xZK8oWMJ27Do/edit?usp=sharing]]
 
 ```custom-frames
 frame: Plant-Abbv
