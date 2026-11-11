@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-07T18:13:15-05:00
+updated: 2026-11-11T16:40:24-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -196,6 +196,9 @@ Raspberry
 Elderberry
 
 # Plan
+## Soil Sampling
+
+
 ## Irrigation
 Drip Head Type Guide
 
@@ -204,9 +207,9 @@ System Hydraulic Analysis & Critical Discrepancy
 
 Your catch-can calibration identified a massive pressure and output gradient across your greenhouse mist line:
 
-⚬ GHSoMidWe: 1.50\text{ in/hr} (0.375\text{ in} in 15 min)
-⚬ GHNoMidWe: 2.48\text{ in/hr} (0.62\text{ in} in 15 min) — 1.65\times wetter than South Mid
-⚬ GHNoBegWe: 5.00\text{ in/hr} (1.25\text{ in} in 15 min) — 3.33\times wetter than South Mid
+⚬ GHSoMidWe: $1.50\text{ in/hr} (0.375\text{ in}$ in 15 min)
+⚬ GHNoMidWe: $2.48\text{ in/hr} (0.62\text{ in}$ in 15 min) — 1.65\times wetter than South Mid
+⚬ GHNoBegWe: $5.00\text{ in/hr} (1.25\text{ in}$ in 15 min) — 3.33\times wetter than South Mid
 
 Because misting systems operate on a single line/valve, setting one blanket runtime will dramatically overwater the North beginning or severely underwater the South end.
 
