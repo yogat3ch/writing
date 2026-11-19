@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-11T16:40:24-05:00
+updated: 2026-11-18T21:42:00-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -9,7 +9,11 @@ url: https://yogat3ch.github.io/writing/notes/permaculture-crops.html
 ---
 ![Farm Overview with Plumbing and Electric Schematic 2026|432x274](../assets/garden-2026.png)
 *QGIS project (.qgz) in Farm > Garden Planning > Garden Plan.qgz*
-
+# Key Details
+Climate Zone 8b
+Ecoregion: [Sand Hills](https://share.google/P5ID7oNy9erShOacH) 
+EPA Ecoregion: EPA Ecoregion SC 65 (Southeastern Plains) description · iNaturalist https://share.google/JuNWfYwKlyiDua1ts
+EPA Level IV 65c
 # Crops
 ## By Type
 
