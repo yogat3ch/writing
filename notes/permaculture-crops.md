@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-18T21:42:00-05:00
+updated: 2026-11-18T21:42:53-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
@@ -11,9 +11,9 @@ url: https://yogat3ch.github.io/writing/notes/permaculture-crops.html
 *QGIS project (.qgz) in Farm > Garden Planning > Garden Plan.qgz*
 # Key Details
 Climate Zone 8b
-Ecoregion: [Sand Hills](https://share.google/P5ID7oNy9erShOacH) 
-EPA Ecoregion: EPA Ecoregion SC 65 (Southeastern Plains) description · iNaturalist https://share.google/JuNWfYwKlyiDua1ts
-EPA Level IV 65c
+EPA Ecoregion: [EPA Ecoregion SC 65 (Southeastern Plains) description · iNaturalist](https://share.google/JuNWfYwKlyiDua1ts) 
+Ecosubregion: [Sand Hills](https://share.google/P5ID7oNy9erShOacH) (EPA Level IV 65c)
+
 # Crops
 ## By Type
 
@@ -571,3 +571,4 @@ Rather than relying on ongoing purchases of commercial organic inputs or bulky m
 
 Vermiculture Worm casings (compost)
 Wasabi (swamp)
+
