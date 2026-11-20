@@ -1,7 +1,7 @@
 ---
 title: Permaculture Crops
 created: 2024-07-23T10:19:26-04:00
-updated: 2026-11-18T21:42:53-05:00
+updated: 2026-11-18T21:43:37-05:00
 tags: []
 author: Stephen Synchronicity
 source: mobile.android
